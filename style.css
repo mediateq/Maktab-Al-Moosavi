@@ -3,12 +3,19 @@ header,div,footer,section,*{
 }
 
 body{
-	background: url('./images/others/backpic.jpg') no-repeat top center;
+	background: url('./images/bg.gif') 0 0 repeat #aea997 ;
+}
+
+.contain{
+	padding-top: 38px;
+}
+
+.contain .container{
+	background: url('./images/others/backpic.jpg') 0 0 no-repeat;
 }
 
 header{
 	min-height: 191px;
-	margin-top: 38px;
 }
 
 header .logo{
