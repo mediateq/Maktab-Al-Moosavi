@@ -1,0 +1,109 @@
+header,div,footer,section,*{
+	outline: 1px dashed red;
+}
+
+body{
+	/*background: url('./images/bg.gif') 0 0 repeat #aea997 ;*/
+	background-image: 	url(./images/others/backcontact.jpg);
+	background-repeat: 	no-repeat;
+	margin: 			0 auto;
+	background-position: center top;
+	margin-top: 		-38px;
+	min-height: 			1700px;
+}
+
+.contain{
+	padding-top: 38px;
+}
+
+header{
+	min-height: 191px;
+}
+
+header .logo{
+	min-height: 136px;
+	background: url('./images/main-bg.jpg') 0 0 no-repeat;
+}
+
+section.content{
+	min-height: 1193px;
+}
+
+section.content .slidshow{
+	min-height: 596px;
+}
+
+section.content .middle{
+	min-height: 590px;
+}
+
+footer{
+	min-height: 134px;
+}
+
+footer .copy{
+	min-height: 45px;
+}
+
+footer .about{
+	min-height: 89px;
+}
+
+/*    Contact Page   */
+.containcnt{
+	width: 			950px;
+	min-height:		800px;
+	padding: 		1px;
+
+}
+.containcnt .location, .containcnt .cform{
+	width: 			850px;
+	min-height: 	315px;
+	margin: 		0 auto;
+	margin-top: 	30px;
+}
+.containcnt .cform{
+	width: 			850px;
+	min-height: 	420px;
+	text-align: 	right;
+}
+.containcnt .location .text{
+	width: 			150px;
+	min-height: 	42px;
+}
+.containcnt .location .map{
+	min-height: 	275px;	
+}
+.containcnt .cform .form{
+	margin-left: 	430px;
+	min-height: 	400px;
+}
+.containcnt .cform .form .h2{
+
+}
+
+.containcnt .cform .form input{
+	width: 			250px;
+	min-height: 	29px;
+	margin-top: 	10px;
+	border-radius: 	4px;
+}
+.containcnt .cform .form .name{
+	margin-top: 	5px;
+}
+.containcnt .cform .form .messege{
+	min-height: 	140px;
+	width: 			390px;	
+	margin-top: 	5px;
+	border-radius: 	4px;	
+}
+.containcnt .cform .form .button{
+	width: 			100px;
+	min-height: 	25px;
+}
+.containcnt .cform .info{
+	float: 			left;
+	width: 			410px;
+	min-height: 	400px;
+}
+
