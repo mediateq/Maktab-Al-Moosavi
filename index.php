@@ -11,7 +11,7 @@
 			<div class="first">
 				<div class="tit"><h2>رزرو هتل</h2></div>
 				<div class="pic">
-					<a href="#"><img src="./images/hotel.jpg" alt="reserve hotel"></a>
+					<a href="#"><img src="./images/img1.jpg" alt="reserve hotel"></a>
 				</div>
 				<div class="text">
 					<p>
@@ -25,7 +25,7 @@
 			<div class="second">
 				<div class="tit"><h2>رزرو ماشین</h2></div>
 				<div class="pic">
-					<a href="#"><img src="./images/hotel.jpg" alt="reserve hotel"></a>
+					<a href="#"><img src="./images/img2.jpg" alt="reserve hotel"></a>
 				</div>
 				<div class="text">
 					<p>
@@ -39,7 +39,7 @@
 			<div class="third">
 				<div class="tit"><h2>رزرو دکتر</h2></div>
 				<div class="pic">
-					<a href="#"><img src="./images/hotel.jpg" alt="reserve hotel"></a>
+					<a href="#"><img src="./images/img3.jpg" alt="reserve hotel"></a>
 				</div>
 				<div class="text">
 					<p>
@@ -52,7 +52,23 @@
 			</div>
 			<div class="badboy"></div>
 		</div>
-		<div class="social"></div>
+		<div class="social">
+			<div class="first">
+				<div class="pic">
+					<img src="./images/icon3.png" alt="facebook">
+				</div>
+			</div>
+			<div class="second">
+				<div class="pic">
+					<img src="./images/icon2.png" alt="twitter">
+				</div>
+			</div>
+			<div class="third">
+				<div class="pic">
+					<img src="./images/icon1.png" alt="info">
+				</div>
+			</div>
+		</div>
 	</div>
 </section>
 

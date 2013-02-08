@@ -118,7 +118,7 @@ section.content .middle{
 
 section.content .middle .works{
 	min-height: 376px;
-	padding: 0 40px;
+	padding: 0 40px 20px;
 }
 
 section.content .middle .works .first,
@@ -168,6 +168,25 @@ section.content .middle .works .but a{
 section.content .middle .social{
 	height: 197px;
 	background: url('./images/content-glow.gif') center no-repeat;
+	padding: 0 40px;
+}
+
+section.content .middle .social .first,
+section.content .middle .social .second,
+section.content .middle .social .third{
+	float: right;
+	min-height: 280px;
+	width: 270px;
+	margin-right: 27px;
+}
+
+section.content .middle .social .first{
+	margin-right: 0;
+}
+
+section.content .middle .social .pic img{
+	margin: -25px 100px 0;
+	
 }
 /*--------------------------------Footer Part----------------------------*/
 footer{
