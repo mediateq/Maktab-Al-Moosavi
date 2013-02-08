@@ -29,7 +29,7 @@ div{
 .contain{
 	padding-top: 38px;
 }
-
+/*--------------------------------Header Part----------------------------*/
 header{
 	min-height: 191px;
 }
@@ -79,7 +79,7 @@ header .menu .reserve a p{
 	color: #DEAE54;
 	font-size: 18px;
 }
-
+/*--------------------------------Content Part----------------------------*/
 section.content{
 	min-height: 1193px;
 }
@@ -91,7 +91,7 @@ section.content .slidshow{
 section.content .middle{
 	min-height: 590px;
 }
-
+/*--------------------------------Footer Part----------------------------*/
 footer{
 	min-height: 134px;
 }
