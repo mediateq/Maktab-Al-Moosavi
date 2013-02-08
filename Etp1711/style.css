@@ -4,6 +4,12 @@ header,div,footer,section,*{
 
 body{
 	background: url('./images/bg.gif') 0 0 repeat #aea997 ;
+	/*background-image: 	url(./images/others/backcontact.jpg);
+	background-repeat: 	no-repeat;
+	margin: 			0 auto;
+	background-position: center top;
+	margin-top: 		-38px;*/
+	
 }
 
 .contain{
@@ -41,4 +47,22 @@ footer .copy{
 
 footer .about{
 	min-height: 89px;
+}
+
+/*    Contact Page   */
+.containcnt{
+	width: 			950px;
+	min-height:		803px;
+	padding: 		1px;
+
+}
+.containcnt .location, .containcnt .cform{
+	width: 			850px;
+	min-height: 	315px;
+	margin: 		0 auto;
+	margin-top: 	32px;
+}
+.containcnt .cform{
+	width: 			850px;
+	min-height: 	420px;
 }
