@@ -19,6 +19,12 @@ header .logo{
 	background: url('./images/main-bg.jpg') 0 0 no-repeat;
 }
 
+header .logo img{
+	width: 300px;
+	height: 95px;
+	padding: 20px 325px;
+}
+
 section.content{
 	min-height: 1193px;
 }

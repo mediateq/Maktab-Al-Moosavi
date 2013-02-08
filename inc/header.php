@@ -10,6 +10,8 @@
 	<div class="contain">
 		<div class="container">
 			<header>
-				<div class="logo"></div>
+				<div class="logo">
+					<a href="./"><img src="./images/logo.png" alt="maktab al moosavi" title="Home"></a>
+				</div>
 				<div class="menu"></div>
 			</header>
