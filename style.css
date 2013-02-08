@@ -175,7 +175,7 @@ section.content .middle .social .first,
 section.content .middle .social .second,
 section.content .middle .social .third{
 	float: right;
-	min-height: 280px;
+	min-height: 170px;
 	width: 270px;
 	margin-right: 27px;
 }
