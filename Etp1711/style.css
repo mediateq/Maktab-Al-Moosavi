@@ -65,6 +65,7 @@ footer .about{
 .containcnt .cform{
 	width: 			850px;
 	min-height: 	420px;
+	text-align: 	right;
 }
 .containcnt .location .text{
 	width: 			150px;
@@ -74,13 +75,35 @@ footer .about{
 	min-height: 	275px;	
 }
 .containcnt .cform .form{
+	margin-left: 	430px;
+	min-height: 	400px;
+}
+.containcnt .cform .form .h2{
+
+}
+
+.containcnt .cform .form input{
+	width: 			250px;
+	min-height: 	29px;
+	margin-top: 	10px;
+	border-radius: 	4px;
+}
+.containcnt .cform .form .name{
+	margin-top: 	5px;
+}
+.containcnt .cform .form .messege{
+	min-height: 	140px;
+	width: 			390px;	
+	margin-top: 	5px;
+	border-radius: 	4px;	
+}
+.containcnt .cform .form .button{
+	width: 			100px;
+	min-height: 	25px;
+}
+.containcnt .cform .info{
 	float: 			left;
 	width: 			410px;
 	min-height: 	400px;
-}
-.containcnt .cform .info{
-	margin-left: 	430px;
-	min-height: 	400px;
-	border: 1px solid black;
 }
 
