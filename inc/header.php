@@ -24,7 +24,7 @@
 							<li><a href="#">تماس با ما</a></li>
 						</menu>
 					</nav>
-					<div class="reserve"><a href="#"><p>اقامت خود را قطعی کنید!</p></a></div>
+					<div class="reserve"><a href="#"><h2>اقامت خود را قطعی کنید!</h2></a></div>
 					<div class="badboy"></div>
 				</div>
 			</header>
