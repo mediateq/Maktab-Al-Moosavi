@@ -7,7 +7,11 @@
 		<div class="text"><p>هدف ما فقط اقامت شما نیست، هدف ما لذت بردن از اقامت شما می باشد</p></div>
 	</div>
 	<div class="middle">
-		<div class="works"></div>
+		<div class="works">
+			<div class="first"></div>
+			<div class="second"></div>
+			<div class="third"></div>
+		</div>
 		<div class="social"></div>
 	</div>
 </section>

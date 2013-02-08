@@ -114,6 +114,21 @@ section.content .middle{
 
 section.content .middle .works{
 	min-height: 376px;
+	padding: 0 40px;
+}
+
+section.content .middle .works .first,
+section.content .middle .works .second,
+section.content .middle .works .third{
+	float: right;
+	min-height: 280px;
+	width: 270px;
+	margin-right: 27px;
+	margin-top: 40px;
+}
+
+section.content .middle .works .first{
+	margin-right: 0;
 }
 
 section.content .middle .social{
