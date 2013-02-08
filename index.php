@@ -6,7 +6,10 @@
 		<div class="hline"></div>
 		<div class="text"><p>هدف ما فقط اقامت شما نیست، هدف ما لذت بردن از اقامت شما می باشد</p></div>
 	</div>
-	<div class="middle"></div>
+	<div class="middle">
+		<div class="works"></div>
+		<div class="social"></div>
+	</div>
 </section>
 
 <?php include('./inc/footer.php') ?>

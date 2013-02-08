@@ -109,7 +109,16 @@ section.content .slid-part .text p{
 }
 
 section.content .middle{
-	min-height: 590px;
+	background-color: #F8F8F8;
+}
+
+section.content .middle .works{
+	min-height: 376px;
+}
+
+section.content .middle .social{
+	height: 197px;
+	background: url('./images/content-glow.gif') center no-repeat;
 }
 /*--------------------------------Footer Part----------------------------*/
 footer{
