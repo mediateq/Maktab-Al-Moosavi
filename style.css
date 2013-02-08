@@ -80,10 +80,6 @@ header .menu .reserve a p{
 	font-size: 18px;
 }
 /*--------------------------------Content Part----------------------------*/
-section.content{
-	min-height: 1193px;
-}
-
 section.content .slid-part{
 	min-height: 596px;
 	background: url('./images/slider-bg.jpg') 0 0 no-repeat;
@@ -94,6 +90,22 @@ section.content .slid-part .slideshow{
 	min-height: 450px;
 	background: url('./images/slider-shadow.png') 0 bottom repeat-x;
 	padding-bottom: 19px;
+}
+
+section.content .slid-part .hline{
+	height: 1px;
+	background: url('./images/line-hor.png')  0 bottom repeat-x;
+	margin-top: 30px;
+}
+
+section.content .slid-part .text{
+	padding: 13px 150px;
+}
+
+section.content .slid-part .text p{
+	color: #FFF;
+	font-size: 30px;
+	text-align: center;
 }
 
 section.content .middle{
