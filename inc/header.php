@@ -23,7 +23,8 @@
 							<li><a href="#">آشنایی با دکترها</a></li>
 							<li><a href="#">تماس با ما</a></li>
 						</menu>
-						<div class="badboy"></div>
 					</nav>
+					<div class="reserve"><a href="#"><p>اقامت خود را قطعی کنید!</p></a></div>
+					<div class="badboy"></div>
 				</div>
 			</header>

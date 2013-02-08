@@ -10,10 +10,19 @@ menu,ul{
 a{
 	text-decoration: none;
 	color: #111;
+	text-align: right;
+}
+
+p,h2{
+	text-align: right;
+	margin: 0;
 }
 
 body{
 	background: url('./images/bg.gif') 0 0 repeat #aea997;
+}
+
+div{
 	direction: rtl;
 }
 
@@ -40,9 +49,6 @@ header .logo img{
 header .menu{
 	min-height: 60px;
 	background: url('./images/menu.gif') 0 0 repeat-x #fff;
-}
-
-header .menu nav{
 	padding: 0 70px;
 }
 
@@ -54,6 +60,23 @@ header .menu nav menu li a{
 	display: block;
 	padding: 17px 10px;
 	color: #928b82;
+	font-size: 18px;
+}
+
+header .menu .reserve{
+	margin-right: 580px;
+	padding: 12px 0;
+}
+
+header .menu .reserve a{
+	display: block;
+	background: url('./images/bell-icon.png') right no-repeat;
+}
+
+header .menu .reserve a p{
+	margin-right: 45px;
+	padding: 5px 0;
+	color: #DEAE54;
 	font-size: 18px;
 }
 
