@@ -10,16 +10,13 @@ body{
 	padding-top: 38px;
 }
 
-.contain .container{
-	background: url('./images/others/backpic.jpg') 0 0 no-repeat;
-}
-
 header{
 	min-height: 191px;
 }
 
 header .logo{
 	min-height: 136px;
+	background: url('./images/main-bg.jpg') 0 0 no-repeat;
 }
 
 section.content{
