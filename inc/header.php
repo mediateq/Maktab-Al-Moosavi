@@ -11,7 +11,19 @@
 		<div class="container">
 			<header>
 				<div class="logo">
-					<a href="./"><img src="./images/logo.png" alt="maktab al moosavi" title="Home"></a>
+					<a href="./"><img src="./images/logo.png" alt="maktab al moosavi" title="صفحه اصلی"></a>
 				</div>
-				<div class="menu"></div>
+				<div class="menu">
+					<nav>
+						<menu>
+							<li><a href="#">صفحه اصلی</a></li>
+							<li><a href="#">درباره ما</a></li>
+							<li><a href="#">رزرو هتل</a></li>
+							<li><a href="#">رزرو ماشین</a></li>
+							<li><a href="#">آشنایی با دکترها</a></li>
+							<li><a href="#">تماس با ما</a></li>
+						</menu>
+						<div class="badboy"></div>
+					</nav>
+				</div>
 			</header>
