@@ -84,8 +84,16 @@ section.content{
 	min-height: 1193px;
 }
 
-section.content .slidshow{
+section.content .slid-part{
 	min-height: 596px;
+	background: url('./images/slider-bg.jpg') 0 0 no-repeat;
+	padding: 40px 40px 0;
+}
+
+section.content .slid-part .slideshow{
+	min-height: 450px;
+	background: url('./images/slider-shadow.png') 0 bottom repeat-x;
+	padding-bottom: 19px;
 }
 
 section.content .middle{
