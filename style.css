@@ -214,9 +214,21 @@ footer{
 }
 
 footer .copy{
-	min-height: 45px;
+	background: url('./images/footer.gif') 0 0 repeat-x #ecebea;
+	padding: 16px 40px;
+}
+
+footer .copy p{
+	color: #9c968e;
+	text-align: center;
 }
 
 footer .about{
-	min-height: 89px;
+	padding: 10px 200px 0;
+}
+
+footer .about p{
+	text-align: center;
+	color: #5D5B53;
+	font-size: 15px;
 }
