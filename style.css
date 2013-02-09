@@ -210,7 +210,7 @@ section.content .middle .social a{
 }
 /*--------------------------------Footer Part----------------------------*/
 footer{
-	min-height: 134px;
+	position: relative;
 }
 
 footer .copy{
@@ -231,4 +231,16 @@ footer .about p{
 	text-align: center;
 	color: #5D5B53;
 	font-size: 15px;
+}
+
+footer .anchor{
+	position: absolute;
+	top: 60px;
+	left: 0;
+}
+
+footer .anchor a{
+	display: block;
+	padding: 22px 22px;
+	background: url('./images/to-top.png') 0 0 no-repeat;
 }
