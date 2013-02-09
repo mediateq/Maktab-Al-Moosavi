@@ -57,16 +57,30 @@
 				<div class="pic">
 					<img src="./images/icon3.png" alt="facebook">
 				</div>
+				<p class="info">
+					پیغام مورد نظر پیغام مورد نظر پیغام مورد نظر پیغام مورد نظر پیغام مورد نظر پیغام مورد نظر پیغام مورد نظر پیغام مورد نظر 
+				</p>
+				<p class="name">حسن الموسوی</p>
 			</div>
 			<div class="second">
 				<div class="pic">
 					<img src="./images/icon2.png" alt="twitter">
 				</div>
+				<a href="#">add twitter address</a>
+				<div class="hline"></div>
+				<p>
+					پیغام مورد نظر پیغام مورد نظر پیغام مورد نظر 
+				</p>
 			</div>
 			<div class="third">
 				<div class="pic">
 					<img src="./images/icon1.png" alt="info">
 				</div>
+				<a href="#">add facebook address</a>
+				<div class="hline"></div>
+				<p>
+					پیغام مورد نظر پیغام مورد نظر پیغام مورد نظر 
+				</p>
 			</div>
 			<div class="badboy"></div>
 		</div>

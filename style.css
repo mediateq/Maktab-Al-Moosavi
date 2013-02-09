@@ -185,8 +185,28 @@ section.content .middle .social .first{
 }
 
 section.content .middle .social .pic img{
-	margin: -25px 100px 0;
-	
+	margin: -25px 100px 20px;	
+}
+
+section.content .middle .social p.info{
+	margin-bottom: 5px;
+	color: #B7751E;
+	font-style: italic;
+}
+
+section.content .middle .social p.name{
+	text-align: left;
+	color: #111;
+	font-style: normal;
+}
+
+section.content .middle .social .hline{
+	border-bottom: 1px solid #ddd;
+	margin: 10px 0;
+}
+
+section.content .middle .social a{
+	color: #A0978B;
 }
 /*--------------------------------Footer Part----------------------------*/
 footer{
