@@ -130,18 +130,18 @@ footer .about{
 	min-height: 	inherit;
 }
 .containrsv .inside .reservation .date{
-	
+	min-height: 	230px;
 }
 .containrsv .inside .reservation .contact{
-	
+	min-height: 	295px;
 }
 .containrsv .inside .reservation .additional{
-	
+	min-height: 	170px;
 }
 .containrsv .inside .reservation .phones{
-	
+	min-height: 	170px;
 }
 .containrsv .inside .condition{
-	margin-left: 	560px;
+	margin-left: 	585px;
 	min-height: 	inherit;
 }
