@@ -111,7 +111,7 @@ footer .about{
 /*   RESERVATION PAGE    */
 
 .containrsv{
-	width: 			950px;
+	width: 			948px;
 	min-height: 	939px;
 	margin:			0 auto;
 	padding: 		1px;
@@ -122,4 +122,12 @@ footer .about{
 	min-height: 	865px;
 	margin: 		0 auto;
 	margin-top: 	35px;
+}
+.containrsv .inside .reservation{
+	float: 			left;
+	width: 			550px;
+	min-height: 	inherit;
+}
+.containrsv .inside .condition{
+	
 }
