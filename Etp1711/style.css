@@ -4,7 +4,7 @@ header,div,footer,section,*{
 
 body{
 	/*background: url('./images/bg.gif') 0 0 repeat #aea997 ;*/
-	background-image: 	url(./images/others/backcontact.jpg);
+	background-image: 	url(./images/others/reserv.jpg);
 	background-repeat: 	no-repeat;
 	margin: 			0 auto;
 	background-position: center top;
@@ -107,3 +107,19 @@ footer .about{
 	min-height: 	400px;
 }
 
+
+/*   RESERVATION PAGE    */
+
+.containrsv{
+	width: 			950px;
+	min-height: 	939px;
+	margin:			0 auto;
+	padding: 		1px;
+	outline: 		1px solid black;
+}
+.containrsv .inside{
+	width: 			860px;
+	min-height: 	865px;
+	margin: 		0 auto;
+	margin-top: 	35px;
+}
