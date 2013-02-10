@@ -8,6 +8,7 @@
 			<div class="additional"></div>
 			<div class="phones"></div>
 		</div>
+		<div class="condition"></div>
 	</div>
 </div>
 
