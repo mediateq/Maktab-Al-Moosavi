@@ -88,7 +88,23 @@
 		        	</form>
 		    	</div>
 		  	</div>
-			<div class="contact"></div>
+			<div class="contact">
+				<h2>CONTACT PERSON</h2>
+				<div class="jens">
+					<form name="form1" method="post" action="">
+	  				<p>
+	    			<label>
+	      			<input type="radio" name="RadioGroup1" value="radio" id="RadioGroup1_0">
+	     			Mr</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	    			<label>
+	      			<input type="radio" name="RadioGroup1" value="radio" id="RadioGroup1_1">
+	      			Mrs</label>
+	    			<br>
+  					</p>
+					</form>
+				</div>
+				
+			</div>
 			<div class="additional"></div>
 			<div class="phones"></div>
 		</div>
