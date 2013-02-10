@@ -116,7 +116,6 @@ footer .about{
 	margin:			0 auto;
 	padding: 		1px;
 	outline: 		1px solid black;
-	
 }
 .containrsv .inside{
 	width: 			860px;
@@ -129,9 +128,63 @@ footer .about{
 	width: 			550px;
 	min-height: 	inherit;
 }
-.containrsv .inside .reservation .date{
-	min-height: 	230px;
+.containrsv .inside .reservation p{
+	margin: 		0px;
+	padding: 		0px;
+	font-size: 		11px;
+	float: 			left;
+	margin-top: 	4px;
 }
+.containrsv .inside .reservation .date{
+	min-height: 	215px;
+}
+.containrsv .inside .reservation .date h2{
+	margin: 		0px;
+	padding: 		0px;
+}
+.containrsv .inside .reservation .date .checkin{
+	margin-top: 	17px;
+}
+.containrsv .inside .reservation .date .checkin .month, .containrsv .inside .reservation .date .checkin .day, .containrsv .inside .reservation .date .checkin .year{
+	width: 			145px;
+	font-size: 		11px;
+	font-weight: 	bold;
+	margin-left: 	10px;
+	min-height: 	22px;
+	float: 			left;
+}
+.containrsv .inside .reservation .date .checkout{
+	margin-top: 	15px;
+}
+.containrsv .inside .reservation .date .checkout .month, .containrsv .inside .reservation .date .checkout .day, .containrsv .inside .reservation .date .checkout .year{
+	width: 			145px;
+	font-size: 		11px;
+	font-weight: 	bold;
+	margin-left: 	10px;
+	min-height: 	22px;
+	float: 			left;	
+}
+.containrsv .inside .reservation .date .checkout .month{
+	margin-left: 	4px;
+}
+.containrsv .inside .reservation .date .first {
+	margin-top: 	18px;
+}
+.containrsv .inside .reservation .date .second{
+	margin-top: 	15px;
+}
+.containrsv .inside .reservation .date .first .person, .containrsv .inside .reservation .date .second .room{
+	width: 			190px;
+	font-size: 		11px;
+	font-weight: 	bold;
+	margin-left: 	10px;
+	float: 			left;
+	min-height: 	25px;	
+}
+.containrsv .inside .reservation .date .second .room{
+	margin-left: 	19px;
+}
+
 .containrsv .inside .reservation .contact{
 	min-height: 	295px;
 }
@@ -141,6 +194,7 @@ footer .about{
 .containrsv .inside .reservation .phones{
 	min-height: 	170px;
 }
+
 .containrsv .inside .condition{
 	margin-left: 	585px;
 	min-height: 	inherit;
