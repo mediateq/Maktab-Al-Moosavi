@@ -195,6 +195,19 @@ footer .about{
 .containrsv .inside .reservation .contact .jens label, .containrsv .inside .reservation .contact .jens input{
 	margin-top: 		8px;
 }
+.containrsv .inside .reservation .contact .name, .containrsv .inside .reservation .contact .last{
+	margin-top: 		8px;
+	
+}
+.containrsv .inside .reservation .contact .name input, .containrsv .inside .reservation .contact .last input{
+	margin-left:		10px;
+	width: 				480px;
+	min-height: 		25px; 	
+}
+.containrsv .inside .reservation .contact .company{
+	outline: 			1px solid black;
+}
+
 .containrsv .inside .reservation .additional{
 	min-height: 	170px;
 }

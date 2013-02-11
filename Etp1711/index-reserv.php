@@ -103,7 +103,20 @@
   					</p>
 					</form>
 				</div>
-				
+				<div class="name">
+					<p>First Name</p>
+					<input>
+				</div>
+				<div class="last">
+					<p>Last Name</p>
+					<input>
+				</div>
+				<div class="company">
+					<p>company</p>
+					<input>
+				</div>
+				<div class="email"></div>
+				<div class="phone"></div>
 			</div>
 			<div class="additional"></div>
 			<div class="phones"></div>
