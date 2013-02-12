@@ -246,13 +246,13 @@ footer .anchor a{
 }
 /*--------------------------------Gallery Page----------------------------*/
 section.gallery{
-	min-height: 800px;
 	background-color: #F8F8F8;
 	padding: 0 40px;
 }
 
 section.gallery .title h2{
 	padding-top: 20px;
+	color: #928B82;
 }
 
 section.gallery ul{
@@ -262,6 +262,38 @@ section.gallery ul{
 section.gallery ul li{
 	float: right;
 	margin-right: 18px;
+	height: 250px;
+}
+
+section.gallery ul li a{
+	display: block;
+	position: relative;
+}
+
+section.gallery ul li .effe{
+	position: absolute;
+	top: 0;
+	right: 0;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 100%;
+	background: url('./images/magnify.png') center center no-repeat #000;
+	opacity: 0;
+	-webkit-transition: opacity 500ms;
+	   -moz-transition: opacity 500ms;
+	    -ms-transition: opacity 500ms;
+	     -o-transition: opacity 500ms;
+	        transition: opacity 500ms;
+}
+
+section.gallery ul li .effe:hover{
+	opacity: 0.4;
+	-webkit-transition: opacity 800ms;
+	   -moz-transition: opacity 800ms;
+	    -ms-transition: opacity 800ms;
+	     -o-transition: opacity 800ms;
+	        transition: opacity 800ms;
 }
 
 section.gallery ul li img{
