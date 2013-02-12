@@ -1,7 +1,15 @@
+@font-face {
+  font-family: 'Abril Fatface';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Abril Fatface'), local('AbrilFatface-Regular'), url(http://themes.googleusercontent.com/static/fonts/abrilfatface/v5/X1g_KwGeBV3ajZIXQ9VnDvn8qdNnd5eCmWXua5W-n7c.woff) format('woff');
+}
+
 /*header,div,footer,section,*{
 	outline: 1px dashed red;
 }
 */
+
 menu,ul{
 	margin: 0;
 	padding: 0;
@@ -90,21 +98,111 @@ header .menu .reserve a h2{
 }
 /*--------------------------------Content Part----------------------------*/
 section.content .slid-part{
-	min-height: 596px;
 	background: url('./images/slider-bg.jpg') 0 0 no-repeat;
 	padding: 40px 40px 0;
 }
 
 section.content .slid-part .slideshow{
 	min-height: 450px;
-	background: url('./images/slider-shadow.png') 0 bottom repeat-x;
 	padding-bottom: 19px;
 }
+/*******Slider********/
+#block-views-slider-block{
+	overflow: hidden; 
+	padding-bottom: 22px;
+	background: url('./images/line-hor.png') 0 bottom repeat-x;
+}
+
+.flex-direction-nav li a{
+	display: none;
+}
+
+.flexslider{
+	background: none;
+	border: none;
+	border-radius: 0 0 15px 15px;
+	padding-bottom: 19px;
+	background: url('./images/slider-shadow.png') 0 bottom repeat-x;
+}
+
+.flexslider .views-field-field-slide-image{
+	border: 16px solid #f5f5f5;
+}
+
+.flex-nav-container {
+	margin-bottom: 0;
+}
+
+.flex-control-nav {
+	bottom: -2px;
+}
+
+.flex-control-nav li{
+	margin-left: -10px;
+}
+
+.flex-control-nav li:first-child{
+	margin: 0;
+}
+
+.flex-control-nav li a{
+	width: 40px;
+	height: 37px;
+	background: url('./images/pager.png') 0 0 no-repeat;
+	text-indent: 0;
+	font-family: 'Abril Fatface', cursive;
+	font-size: 24px;
+	line-height: 29px;
+	text-decoration: none;
+	display: inline-block;
+	text-align: center;
+	padding-top: 4px;
+	color: #fff;
+}
+
+.flex-control-nav li:first-child + li  a {
+	background-position: -43px 0;
+}
+
+.flex-control-nav li:first-child + li + li  a {
+	background-position: -88px 0;
+	color: #a47431;
+}
+
+.flex-control-nav li:first-child + li + li + li a {
+	background-position: -131px 0;
+	color: #deae55;
+}
+
+.flex-control-nav li a:hover,
+.flex-control-nav li a.active{
+	background-position: 0 0; color: #000 !important;
+}
+
+.flex-nav-container {
+  float: right;
+  position: relative;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.flex-nav-container ul,
+.flex-nav-container ol {
+  list-style: none;
+}
+
+.flexslider ul.slides,
+.flex-nav-container ol.flex-control-nav,
+.flex-nav-container ul.flex-direction-nav,
+.flexslider ul.slides li img {
+  padding: 0px;
+  margin: 0px;
+}
+/*******END Slider********/
 
 section.content .slid-part .hline{
 	height: 1px;
 	background: url('./images/line-hor.png')  0 bottom repeat-x;
-	margin-top: 30px;
 }
 
 section.content .slid-part .text{

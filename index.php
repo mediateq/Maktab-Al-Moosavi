@@ -1,8 +1,50 @@
 <?php include('./inc/header.php') ?>
 
+<script type="text/javascript" charset="utf-8">
+  $(window).load(function() {
+	  $('.flexslider').flexslider({
+	    animation: "fade",
+	    pauseOnHover: true,
+	  });
+	});
+</script>
+
 <section class="content">
 	<div class="slid-part">
-		<div class="slideshow"></div>
+		<div class="slideshow">
+			<div class="flexslider ltr">
+				<ul id="flexslider_views_slideshow_slider-block" class="flexslider-views-slideshow-main-frame slides">
+				    <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-1 views-row-odd" style="width: 100%; float: left; margin-right: -100%; display: list-item;">
+				  		<div class="views-field views-field-field-slide-image">
+					  		<div class="field-content">
+					  			<img src="./images/slider/slide1.jpg" alt="">
+					  		</div>
+				  		</div>
+			  		</li>
+			  		<li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even" style="width: 100%; float: left; margin-right: -100%;">
+			  			<div class="views-field views-field-field-slide-image">
+			  				<div class="field-content">
+			  					<img src="./images/slider/slide2.jpg" alt="">
+			  				</div>
+			  			</div>
+			  		</li>
+			  		<li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd" style="width: 100%; float: left; margin-right: -100%;">
+			  			<div class="views-field views-field-field-slide-image">
+			  				<div class="field-content">
+			  					<img src="./images/slider/slide3.jpg" alt="">
+			  				</div>
+			  			</div>
+			  		</li>
+			  		<li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even" style="width: 100%; float: left; margin-right: -100%;">
+			  			<div class="views-field views-field-field-slide-image">
+			  				<div class="field-content">
+			  					<img src="./images/slider/slide4.jpg" alt="">
+			  				</div>
+			  			</div>
+			  		</li>
+			    </ul>
+			</div>
+		</div>
 		<div class="hline"></div>
 		<div class="text"><h2>هدف ما فقط اقامت شما نیست، هدف ما لذت بردن از اقامت شما می باشد</h2></div>
 	</div>
