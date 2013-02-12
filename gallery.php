@@ -10,36 +10,49 @@
 				<img src="./images/gallery/1.jpg" alt="">
 				<div class="effe"></div>
 			</a>
+			<p>عکس شماره یک</p>
 		</li>
 		<li>
 			<a href="#">
 				<img src="./images/gallery/2.jpg" alt="">
 				<div class="effe"></div>
 			</a>
+			<p>عکس شماره یک</p>
 		</li>
 		<li>
 			<a href="#">
 				<img src="./images/gallery/3.jpg" alt="">
 				<div class="effe"></div>
 			</a>
+			<p>عکس شماره یک</p>
 		</li>
 		<li>
 			<a href="#">
 				<img src="./images/gallery/3.jpg" alt="">
 				<div class="effe"></div>
 			</a>
+			<p>عکس شماره یک</p>
 		</li>
 		<li>
 			<a href="#">
 				<img src="./images/gallery/2.jpg" alt="">
 				<div class="effe"></div>
 			</a>
+			<p>عکس شماره یک</p>
 		</li>
 		<li>
 			<a href="#">
 				<img src="./images/gallery/1.jpg" alt="">
 				<div class="effe"></div>
 			</a>
+			<p>عکس شماره یک</p>
+		</li>
+		<li>
+			<a href="#">
+				<img src="./images/gallery/1.jpg" alt="">
+				<div class="effe"></div>
+			</a>
+			<p>عکس شماره یک</p>
 		</li>
 	</ul>
 	<div class="badboy"></div>

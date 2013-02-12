@@ -300,3 +300,9 @@ section.gallery ul li img{
 	width: 265px;
 	height: 177px;
 }
+
+section.gallery ul li p{
+	margin-top: 11px;
+	color: #deae54;
+	font-size: 18px;
+}
