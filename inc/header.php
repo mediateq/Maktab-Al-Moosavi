@@ -5,6 +5,9 @@
 	<title></title>
 	<link rel="stylesheet" href="./1styles.css" />
 	<link rel="stylesheet" href="./style.css" />
+	<link rel="stylesheet" href="./lightbox.css" />
+	<script type="text/javascript" src="./js/jquery.js"></script>
+	<script type="text/javascript" src="./js/lightbox.js"></script>
 </head>
 <body>
 	<span id="top"></span>
