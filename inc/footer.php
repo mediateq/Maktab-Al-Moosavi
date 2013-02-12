@@ -10,7 +10,7 @@
 					</p>
 				</div>
 				<div class="anchor">
-					<a href="#top" title="بالا"></a>
+					<a href="#myAnchor" id="anchor1" class="anchorLink" title="بالا"></a>
 				</div>
 			</footer>
 		</div>
