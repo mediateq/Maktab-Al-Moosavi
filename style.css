@@ -248,4 +248,23 @@ footer .anchor a{
 section.gallery{
 	min-height: 800px;
 	background-color: #F8F8F8;
+	padding: 0 40px;
+}
+
+section.gallery .title h2{
+	padding-top: 20px;
+}
+
+section.gallery ul{
+	padding-top: 25px;
+}
+
+section.gallery ul li{
+	float: right;
+	margin-right: 18px;
+}
+
+section.gallery ul li img{
+	width: 265px;
+	height: 177px;
 }
