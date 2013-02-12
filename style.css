@@ -238,6 +238,16 @@ footer .about p{
 	font-size: 15px;
 }
 
+footer .about a{
+	text-align: center;
+	color: #5D5B53;
+	font-size: 15px;
+}
+
+footer .about a:hover{
+	color: #DEAE54;
+}
+
 footer .anchor{
 	position: absolute;
 	top: 70px;

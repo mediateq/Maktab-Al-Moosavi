@@ -8,6 +8,7 @@
 					<p>
 						درباره شرکت درباره شرکت درباره شرکت درباره شرکت درباره شرکت درباره شرکت درباره شرکت درباره شرکت درباره شرکت درباره شرکت درباره شرکت درباره شرکت درباره شرکت 
 					</p>
+					<p><a href="http://www.mediateq.ir" target="_blank">طراح mediateq</a></p>
 				</div>
 				<div class="anchor">
 					<a href="#myAnchor" id="anchor1" class="anchorLink" title="بالا"></a>
