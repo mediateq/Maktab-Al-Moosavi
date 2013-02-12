@@ -8,6 +8,9 @@
 	<link rel="stylesheet" href="./lightbox.css" />
 	<script type="text/javascript" src="./js/jquery.js"></script>
 	<script type="text/javascript" src="./js/lightbox.js"></script>
+	<!--[if lt IE 9]>
+		<script src="./js/html5shiv.js"></script>
+	<![endif]-->
 </head>
 <body>
 	<span id="top"></span>
