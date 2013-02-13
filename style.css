@@ -419,3 +419,14 @@ section.gallery ul li p{
 	color: #deae54;
 	font-size: 18px;
 }
+/*--------------------------------Rooms Page----------------------------*/
+section.hotels{
+	background-color: #F8F8F8;
+	padding: 0 40px;
+	min-height: 800px;
+}
+
+section.hotels .title h2{
+	padding-top: 20px;
+	color: #928B82;
+}
