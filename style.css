@@ -422,11 +422,72 @@ section.gallery ul li p{
 /*--------------------------------Rooms Page----------------------------*/
 section.hotels{
 	background-color: #F8F8F8;
-	padding: 0 40px;
-	min-height: 800px;
+	padding: 0 40px 50px;
 }
 
 section.hotels .title h2{
 	padding-top: 20px;
 	color: #928B82;
+}
+
+section.hotels ul{
+	padding-top: 25px;
+}
+
+section.hotels ul li{
+	float: right;
+	margin-right: 14px;
+	width: 200px;
+}
+
+section.hotels ul li a{
+	display: block;
+	position: relative;
+}
+
+section.hotels ul li .effe{
+	position: absolute;
+	top: 0;
+	right: 0;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 100%;
+	background: url('./images/magnify.png') center center no-repeat #000;
+	opacity: 0;
+	-webkit-transition: opacity 500ms;
+	   -moz-transition: opacity 500ms;
+	    -ms-transition: opacity 500ms;
+	     -o-transition: opacity 500ms;
+	        transition: opacity 500ms;
+}
+
+section.hotels ul li .effe:hover{
+	opacity: 0.4;
+	-webkit-transition: opacity 800ms;
+	   -moz-transition: opacity 800ms;
+	    -ms-transition: opacity 800ms;
+	     -o-transition: opacity 800ms;
+	        transition: opacity 800ms;
+}
+
+section.hotels ul li img{
+	width: 200px;
+	height: 155px;
+}
+
+section.hotels ul li .tit{
+	height: 50px;
+	background: url('./images/key.png') right center no-repeat;
+}
+
+section.hotels ul li .tit h2{
+	font-size: 20px;
+	color: #DEAE54;
+	margin-right: 30px;
+}
+
+section.hotels ul li .text p{
+	margin-top: 5px;
+	font-size: 15px;
 }
