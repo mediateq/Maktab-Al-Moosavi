@@ -419,7 +419,7 @@ section.gallery ul li p{
 	color: #deae54;
 	font-size: 18px;
 }
-/*--------------------------------Rooms Page----------------------------*/
+/*--------------------------------Hotels Page----------------------------*/
 section.hotels{
 	background-color: #F8F8F8;
 	padding: 0 40px 50px;
@@ -490,4 +490,20 @@ section.hotels ul li .tit h2{
 section.hotels ul li .text p{
 	margin-top: 5px;
 	font-size: 15px;
+}
+/*--------------------------------One-hotel Page----------------------------*/
+section.one-hotel{
+	background-color: #F8F8F8;
+	padding: 0 40px;
+}
+
+section.one-hotel .title h2{
+	padding-top: 20px;
+	color: #928B82;
+}
+
+section.one-hotel .text p{
+	font-size: 17px;
+	margin-top: 10px;
+	line-height: 2;
 }
