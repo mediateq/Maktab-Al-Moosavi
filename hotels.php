@@ -14,17 +14,17 @@
 			</div>
 		</li>
 		<li>
-			<a href="#">
+			<a href="./one-hotel.php">
 				<img src="./images/hotels/1.jpg" alt="">
 			</a>
 		</li>
 		<li>
-			<a href="#">
+			<a href="./one-hotel.php">
 				<img src="./images/hotels/2.jpg" alt="">
 			</a>
 		</li>
 		<li>
-			<a href="#">
+			<a href="./one-hotel.php">
 				<img src="./images/hotels/3.jpg" alt="">
 			</a>
 		</li>

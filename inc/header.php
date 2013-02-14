@@ -26,11 +26,11 @@
 				<div class="menu">
 					<nav>
 						<menu>
-							<li><a href="#">صفحه اصلی</a></li>
-							<li><a href="#">درباره ما</a></li>
-							<li><a href="#">رزرو هتل</a></li>
-							<li><a href="#">رزرو ماشین</a></li>
-							<li><a href="#">آشنایی با دکترها</a></li>
+							<li><a href="./">درباره ما</a></li>
+							<li><a href="./hotels.php">هتل</a></li>
+							<li><a href="#">ماشین</a></li>
+							<li><a href="#">دکتر</a></li>
+							<li><a href="./gallery.php">گالری تصاویر</a></li>
 							<li><a href="#">تماس با ما</a></li>
 						</menu>
 					</nav>

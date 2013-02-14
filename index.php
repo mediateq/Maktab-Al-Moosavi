@@ -46,7 +46,9 @@
 			</div>
 		</div>
 		<div class="hline"></div>
-		<div class="text"><h2>هدف ما فقط اقامت شما نیست، هدف ما لذت بردن از اقامت شما می باشد</h2></div>
+		<div class="text">
+			<h2>هدف ما فقط اقامت شما نیست، هدف ما لذت بردن شما از اقامتتان می باشد</h2>
+		</div>
 	</div>
 	<div class="middle">
 		<div class="works">
