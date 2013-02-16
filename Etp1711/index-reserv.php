@@ -90,19 +90,6 @@
 		  	</div>
 			<div class="contact">
 				<h2>CONTACT PERSON</h2>
-				<div class="jens">
-					<form name="form1" method="post" action="">
-	  				<p>
-	    			<label>
-	      			<input type="radio" name="RadioGroup1" value="radio" id="RadioGroup1_0">
-	     			Mr</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	    			<label>
-	      			<input type="radio" name="RadioGroup1" value="radio" id="RadioGroup1_1">
-	      			Mrs</label>
-	    			<br>
-  					</p>
-					</form>
-				</div>
 				<div class="name">
 					<p>First Name</p>
 					<input>
@@ -112,14 +99,33 @@
 					<input>
 				</div>
 				<div class="company">
-					<p>company</p>
+					<p>Company</p>
 					<input>
 				</div>
-				<div class="email"></div>
-				<div class="phone"></div>
+				<div class="email">
+					<p>Email</p>
+					<input>
+				</div>
+				<div class="phone">
+					<p>Phone</p>
+					<input>
+				</div>
 			</div>
 			<div class="additional"></div>
-			<div class="phones"></div>
+			<div class="phones">
+				<h2>PHONES</h2>	
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus portausce suscipit varius mi. Cum sociis natoque penatibus.</p>
+				<p>For information and accommodation 
++1 959 603 6035
+
+For meetings or special events 
++1 959 603 6035
+For restaurant reservations 
++1 959 603 6035
+
+Fax 
++1 101 889 9898</p>
+			</div>
 		</div>
 		<div class="condition"></div>
 	</div>

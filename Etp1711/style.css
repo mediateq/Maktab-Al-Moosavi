@@ -186,33 +186,28 @@ footer .about{
 }
 
 .containrsv .inside .reservation .contact{
-	min-height: 	295px;
+	/*min-height: 	295px;*/
 }
-.containrsv .inside .reservation .contact .jens{
-	width: 				100px;
-	min-height: 		40px;
+
+.containrsv .inside .reservation .contact .name, .containrsv .inside .reservation .contact .last, .containrsv .inside .reservation .contact .company, .containrsv .inside .reservation .contact .email, .containrsv .inside .reservation .contact .phone{
+	margin-top: 	8px;
+	text-align: 	right;
 }
-.containrsv .inside .reservation .contact .jens label, .containrsv .inside .reservation .contact .jens input{
-	margin-top: 		8px;
-}
-.containrsv .inside .reservation .contact .name, .containrsv .inside .reservation .contact .last{
-	margin-top: 		8px;
-	
-}
-.containrsv .inside .reservation .contact .name input, .containrsv .inside .reservation .contact .last input{
-	margin-left:		10px;
-	width: 				480px;
-	min-height: 		25px; 	
-}
-.containrsv .inside .reservation .contact .company{
-	outline: 			1px solid black;
+.containrsv .inside .reservation .contact .name input, .containrsv .inside .reservation .contact .last input, .containrsv .inside .reservation .contact .company input, .containrsv .inside .reservation .contact .email input, .containrsv .inside .reservation .contact .phone input {
+	margin-right:	30px;
+	width: 			450px;
+	min-height: 	25px; 	
+
 }
 
 .containrsv .inside .reservation .additional{
-	min-height: 	170px;
+	min-height: 	140px;
+	margin-top: 	70px;
+	
 }
 .containrsv .inside .reservation .phones{
-	min-height: 	170px;
+	min-height: 	172px;
+	margin-top: 	30px;
 }
 
 .containrsv .inside .condition{
