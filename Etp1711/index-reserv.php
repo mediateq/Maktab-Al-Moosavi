@@ -2,6 +2,7 @@
 
 <div class="containrsv">
 	<div class="inside">
+		<div class="condition"></div>
 		<div class="reservation">
 			<div class="date">
 				<h2>YOUR RESERVATION</h2>
@@ -115,7 +116,7 @@
 			<div class="phones">
 				<h2>PHONES</h2>	
 				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus portausce suscipit varius mi. Cum sociis natoque penatibus.</p>
-				<p>For information and accommodation 
+				<p><br />For information and accommodation <br />
 +1 959 603 6035
 
 For meetings or special events 
@@ -127,7 +128,6 @@ Fax
 +1 101 889 9898</p>
 			</div>
 		</div>
-		<div class="condition"></div>
 	</div>
 </div>
 
