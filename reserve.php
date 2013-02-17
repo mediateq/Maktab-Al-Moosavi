@@ -154,7 +154,8 @@
 	            </select>
             </label>
             <div class="badboy"></div>
-           <div class="title">
+           
+           	<div class="title">
 				<h2>اطلاعات شخصی</h2>
 			</div>
 			<label>
@@ -181,6 +182,39 @@
 			<label><p class="personal">تلفن</p>
 				<input type="text" name="phone" id="phone" class="phone" />
 			</label>
+			<div class="badboy"></div>
+			
+			<div class="title">
+				<h2>خدمات اضافی</h2>
+			</div>
+			<label>
+				<input type="checkbox" />
+				<p class="extra">تخت اضافه در اتاق</p>
+			</label>
+			<label>
+				<input type="checkbox" />
+				<p class="extra">کرایه ماشین</p>
+			</label>
+			<div class="badboy"></div>
+			<label>
+				<input type="checkbox" />
+				<p class="extra">ویزیت دکتر</p>
+			</label>
+			<div class="badboy"></div>
+
+			<div class="title">
+				<h2>تاییدیه</h2>
+			</div>
+			<p>
+				موارد قابل ذکر که باید به تایید مشتری برسد موارد قابل ذکر که باید به تایید مشتری برسد موارد قابل ذکر که باید به تایید مشتری برسد موارد قابل ذکر که باید به تایید مشتری برسد 
+			</p>
+			<label>
+				<input type="radio" />
+				<p class="accept">با موارد فوق موافقم و صحت فیلدهای پر کرده را تایید می نمایم.</p>
+			</label>
+			<div class="badboy"></div>
+
+			<input type="submit" class="btn" id="reserv" value="رزور">
 			<div class="badboy"></div>
 		</form>
 	</div>
