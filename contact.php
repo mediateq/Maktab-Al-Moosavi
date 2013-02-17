@@ -32,17 +32,18 @@
 		</div>
 		<div class="form">
 			<h2>فرم تماس</h2>
-			<form action="">
+			<form action="mail.php" method="post" id="contact" target="ifrm">
 				<p>نام و نام خانوادگی <span>*</span></p>
-				<input 	class="name" type="input" />
+				<input type="text" class="text" name="name" id="name" autocomplete="off"/>
 				<p>ایمیل <span>*</span></p>
-				<input	class="email" type="input" />
+				<input	type="text" class="text" name="mail" id="mail" autocomplete="off"/>
 				<p>موضوع <span>*</span></p>
-				<input	class="subject" type="input" />
+				<input type="text" class="text" name="subject" id="subject" autocomplete="off" />
 				<p>پیام <span>*</span></p>
-				<textarea	class="messege"></textarea>
+				<textarea class="messege" name="txt" id="txt"></textarea>
 				<input class="button" type="submit" value="ارسال" />
 			</form>
+			<iframe id='ifrm' name='ifrm' src="" frameborder="0" scrolling="no"></iframe>
 		</div>
 		<div class="badboy"></div>
 	</div>

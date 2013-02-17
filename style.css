@@ -45,6 +45,14 @@ div{
 .ltr{
 	direction: ltr;
 }
+
+.ok {
+	outline : 1px solid #9f9;
+}
+
+.err {
+	outline : 1px solid #f99;
+}
 /*--------------------------------Header Part----------------------------*/
 header{
 	min-height: 191px;
@@ -629,6 +637,12 @@ section.contact .cform .form .button{
 	width: 			100px;
 	min-height: 	25px;
 	margin-top: 10px;
+}
+
+section.contact .cform .form iframe{
+	width: 0;
+	height: 0;
+	opacity: 0;
 }
 
 section.contact .cform .info{
