@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
 	<meta charset="UTF-8">
 	<title></title>
 	<link rel="stylesheet" href="./1styles.css" />
@@ -29,8 +30,8 @@
 						<menu>
 							<li><a href="./">درباره ما</a></li>
 							<li><a href="./hotels.php">رزرو هتل</a></li>
-							<li><a href="#">رزرو ماشین</a></li>
-							<li><a href="#">ویزیت دکتر</a></li>
+							<li><a href="./cars.php">رزرو ماشین</a></li>
+							<li><a href="./drs.php">ویزیت دکتر</a></li>
 							<li><a href="./gallery.php">گالری تصاویر</a></li>
 							<li><a href="./contact.php">تماس با ما</a></li>
 						</menu>
