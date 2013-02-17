@@ -588,6 +588,7 @@ section.contact .cform{
 
 section.contact .location .map{
 	min-height: 	275px;	
+	background: url('./images/map.jpg') center no-repeat;
 }
 
 section.contact .cform .form{
