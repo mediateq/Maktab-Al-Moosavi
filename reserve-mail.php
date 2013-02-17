@@ -21,15 +21,15 @@
 	<?php
 		error_reporting(E_ALL ^ E_NOTICE);
 
-		$admin = 'amjadi.mojtaba@gmail.com';
+		$admin = 'info@mediateq.ir';
 
-		$year = $_POST['yearin'];
-		$month = $_POST['monthin'];
-		$day = $_POST['dayin'];
+		$yearin = $_POST['yearin'];
+		$monthin = $_POST['monthin'];
+		$dayin = $_POST['dayin'];
 
-		$year = $_POST['yearout'];
-		$month = $_POST['monthout'];
-		$day = $_POST['dayout'];
+		$yearout = $_POST['yearout'];
+		$monthout = $_POST['monthout'];
+		$dayout = $_POST['dayout'];
 
 		$person = $_POST['person'];
 		$room = $_POST['room'];
@@ -45,14 +45,27 @@
 		$visitdr = $_POST['visitdr'];
 
 		$accept = $_POST['accept'];
+		
+		
+		$subject = "Order book";
+		$message = "تاریخ ورود: $yearin-$monthin-$dayin 
+				    تاریخ خروج: $yearout-$monthout-$dayout
+				    تعداد نفرات: $person
+				    تعداد اتاقها: $room
+				    $bedextra
+				    $rentcar
+				    $visitdr";
+		
 
 		if ($accept) {
 			if( strlen($name)>=3 && strlen($email)>=7 && strlen($subject)>=5 && strlen($text)>=10 ){
 				if( @mail (
 						$admin,
-						"$subject",
-						$text,
-						"From:$name $email" )
+						$subject,
+						$message,
+						"From:$gender $name $family $phone $email"
+						
+					 )
 				){
 					echo '<script type="text/javascript">
 							alert("Mail sent.");

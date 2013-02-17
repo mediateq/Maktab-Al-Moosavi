@@ -159,11 +159,11 @@
 				<h2>اطلاعات شخصی</h2>
 			</div>
 			<label>
-				<input type="radio" name="gender" id="gender" class="gender" />
+				<input type="radio" name="gender" id="gender" class="gender" value="Mr" />
 				<p class="gender">آقای</p>
 			</label>
 			<label>
-				<input type="radio" name="gender" id="gender" class="gender" />
+				<input type="radio" name="gender" id="gender" class="gender" value="Mrs" />
 				<p class="gender">خانم</p>
 			</label>
 			<div class="badboy"></div>
@@ -188,16 +188,16 @@
 				<h2>خدمات اضافی</h2>
 			</div>
 			<label>
-				<input type="checkbox" name="bedextra" class="bedextra" id="bedextra" />
+				<input type="checkbox" name="bedextra" class="bedextra" id="bedextra" value="تخت اضافی در اتاق می خواهم" />
 				<p class="extra">تخت اضافه در اتاق</p>
 			</label>
 			<label>
-				<input type="checkbox" name="carrent" class="carrent" id="carrent" />
+				<input type="checkbox" name="carrent" class="carrent" id="carrent" value="ماشین می خواهم" />
 				<p class="extra">کرایه ماشین</p>
 			</label>
 			<div class="badboy"></div>
 			<label>
-				<input type="checkbox" name="visitdr" class="visitdr" id="visitdr" />
+				<input type="checkbox" name="visitdr" class="visitdr" id="visitdr" value="تمایل ویزیت دکتر را دارم" />
 				<p class="extra">ویزیت دکتر</p>
 			</label>
 			<div class="badboy"></div>
