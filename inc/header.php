@@ -32,10 +32,10 @@
 							<li><a href="#">ماشین</a></li>
 							<li><a href="#">دکتر</a></li>
 							<li><a href="./gallery.php">گالری تصاویر</a></li>
-							<li><a href="#">تماس با ما</a></li>
+							<li><a href="./contact.php">تماس با ما</a></li>
 						</menu>
 					</nav>
-					<div class="reserve"><a href="#"><h2>اقامت خود را قطعی کنید!</h2></a></div>
+					<div class="reserve"><a href="./reserve.php"><h2>اقامت خود را قطعی کنید!</h2></a></div>
 					<div class="badboy"></div>
 				</div>
 			</header>
