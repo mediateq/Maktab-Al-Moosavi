@@ -9,7 +9,6 @@
 	outline: 1px dashed red;
 }
 */
-
 menu,ul{
 	margin: 0;
 	padding: 0;
@@ -75,9 +74,19 @@ header .menu nav menu li{
 
 header .menu nav menu li a{
 	display: block;
-	padding: 17px 10px;
+	padding: 18px 10px;
 	color: #928b82;
 	font-size: 18px;
+	margin-left: 1px;
+}
+
+.active{
+	background: url('./images/menu-hover.gif') 0 0 repeat-x;
+}
+
+header .menu nav menu li a:hover,
+header .menu nav menu li a.active{
+	background: url('./images/menu-hover.gif') 0 0 repeat-x;
 }
 
 header .menu .reserve{
@@ -557,3 +566,73 @@ section.one-hotel ul li p{
 	margin-top: 11px;
 	color: #deae54;
 	font-size: 18px;
+}
+/*--------------------------------Contact Page----------------------------*/
+section.contact{
+	background-color: #F8F8F8;
+	padding: 0 40px 50px;
+}
+
+section.contact .title h2{
+	padding-top: 20px;
+	color: #928B82;
+}
+
+section.contact .location,
+section.contact .cform{
+	margin-top: 	30px;
+}
+
+section.contact .cform{
+	text-align: 	right;
+}
+
+section.contact .location .map{
+	min-height: 	275px;	
+}
+
+section.contact .cform .form{
+	margin-left: 	430px;
+	min-height: 	400px;
+}
+
+section.contact .cform .form h2{
+	color: #928B82;
+}
+
+section.contact .cform .form p{
+	margin: 10px 0 5px;
+}
+
+section.contact .cform .form p span{
+	color: red;
+}
+
+section.contact .cform .form input{
+	width: 			250px;
+	min-height: 	29px;
+	border-radius: 	4px;
+}
+
+section.contact .cform .info h2{
+	color: #928B82;
+}
+
+section.contact .cform .form .messege{
+	min-height: 	140px;
+	width: 			390px;
+	border-radius: 	4px;
+	border: 2px inset;
+}
+
+section.contact .cform .form .button{
+	width: 			100px;
+	min-height: 	25px;
+	margin-top: 10px;
+}
+
+section.contact .cform .info{
+	float: 			left;
+	width: 			410px;
+	min-height: 	400px;
+}
