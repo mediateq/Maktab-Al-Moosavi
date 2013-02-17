@@ -674,6 +674,12 @@ section.reserve .detail{
 	margin-right: 570px;
 }
 
+section.reserve .forms iframe{
+	width: 0;
+	height: 0;
+	opacity: 0;
+}
+
 section.reserve .forms label{
 	margin: 10px 0 5px;
 }

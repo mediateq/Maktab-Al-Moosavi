@@ -5,9 +5,9 @@
 		<div class="title">
 			<h2>فرم رزرو</h2>
 		</div>
-		<form action="reserve.php" method="post">
+		<form action="reserve-mail.php" method="post" target="ifrm">
 			<label><p class="check">ورود</p>
-				<select name="year" class="year" id="year">
+				<select name="yearin" class="year" id="year">
                 	<option>سال</option>
                 	<option>2013</option>
                 	<option>2014</option>
@@ -18,7 +18,7 @@
                 	<option>2019</option>
                 	<option>2020</option>
                	</select>
-				<select name="month" class="month" id="month">
+				<select name="monthin" class="month" id="month">
 	                <option>ماه</option>
 	                <option>January</option>
                     <option>February</option>
@@ -33,7 +33,7 @@
                     <option>November</option>
                     <option>December</option>
           		</select>
-          		<select name="day" class="day" id="day">
+          		<select name="dayin" class="day" id="day">
 	                <option>روز</option>
 	                <option>1</option>
 	                <option>2</option>
@@ -70,7 +70,7 @@
 			</label>
 			<div class="badboy"></div>
 			<label><p class="check">خروج</p>
-				<select name="year" class="year" id="year">
+				<select name="yearout" class="year" id="year">
                 	<option>سال</option>
                 	<option>2013</option>
                 	<option>2014</option>
@@ -81,7 +81,7 @@
                 	<option>2019</option>
                 	<option>2020</option>
                	</select>
-				<select name="month" class="month" id="month">
+				<select name="monthout" class="month" id="month">
 	                <option>ماه</option>
 	                <option>January</option>
                     <option>February</option>
@@ -96,7 +96,7 @@
                     <option>November</option>
                     <option>December</option>
           		</select>
-          		<select name="day" class="day" id="day">
+          		<select name="dayout" class="day" id="day">
 	                <option>روز</option>
 	                <option>1</option>
 	                <option>2</option>
@@ -188,16 +188,16 @@
 				<h2>خدمات اضافی</h2>
 			</div>
 			<label>
-				<input type="checkbox" />
+				<input type="checkbox" name="bedextra" class="bedextra" id="bedextra" />
 				<p class="extra">تخت اضافه در اتاق</p>
 			</label>
 			<label>
-				<input type="checkbox" />
+				<input type="checkbox" name="carrent" class="carrent" id="carrent" />
 				<p class="extra">کرایه ماشین</p>
 			</label>
 			<div class="badboy"></div>
 			<label>
-				<input type="checkbox" />
+				<input type="checkbox" name="visitdr" class="visitdr" id="visitdr" />
 				<p class="extra">ویزیت دکتر</p>
 			</label>
 			<div class="badboy"></div>
@@ -209,7 +209,7 @@
 				لطفا شرایط و مقررات رزرو را که در سمت چپ قید شده است به دقت مطالعه نموده و برای تکمیل عملیات رزرو فرم پرکرده را تایید و دکمه رزرو را کلیک نمایید.
 			</p>
 			<label>
-				<input type="radio" />
+				<input type="radio" name="accept" class="accept" id="accept" />
 				<p class="accept">با موارد فوق موافقم و صحت فیلدهای پر کرده را تایید می نمایم.</p>
 			</label>
 			<div class="badboy"></div>
@@ -217,6 +217,7 @@
 			<input type="submit" class="btn" id="reserv" value="رزور">
 			<div class="badboy"></div>
 		</form>
+		<iframe id='ifrm' name='ifrm' src="" frameborder="0" scrolling="no"></iframe>
 	</div>
 	<div class="detail">
 		<div class="title">
