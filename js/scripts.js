@@ -25,3 +25,16 @@ $(document).ready(function() {
     $("a.anchorLink").anchorAnimate()
 });
 //END Anchor link for scroll
+
+//Active menu
+/* (function($){
+    $(function(){
+        $('div.menu li').click(function(){
+            $(this).addClass('active');
+        })
+    });
+})(Zepto); */
+
+
+
+   

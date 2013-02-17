@@ -8,6 +8,7 @@
 	<link rel="stylesheet" href="./flexslider.css">
 	<link rel="stylesheet" href="./style.css" />
 	<script type="text/javascript" src="./js/jquery.js"></script>
+	<script type="text/javascript" src="./js/zepto.js"></script>
 	<script type="text/javascript" src="./js/lightbox.js"></script>
 	<script type="text/javascript" src="./js/jquery.flexslider-min.js"></script>
 	<script type="text/javascript" src="./js/scripts.js"></script>
