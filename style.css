@@ -650,3 +650,52 @@ section.contact .cform .info{
 	width: 			410px;
 	min-height: 	400px;
 }
+/*--------------------------------Reserve Page----------------------------*/
+section.reserve{
+	background-color: #F8F8F8;
+	padding: 0 40px 50px;
+}
+
+section.reserve .title h2{
+	padding-top: 20px;
+	color: #928B82;
+}
+
+section.reserve .forms{
+	float: right;
+	width: 550px;
+	min-height: 800px;
+}
+
+section.reserve .forms form label{
+	float: right;
+}
+
+section.reserve .detail{
+	margin-right: 570px;
+	min-height: 800px;
+}
+
+section.reserve .forms label{
+	margin: 10px 0 5px;
+}
+
+section.reserve .forms label p{
+	display: inline-block;
+	width: 40px;
+}
+
+section.reserve .forms label p.bigwidth{
+	width: 70px;
+}
+
+section.reserve .forms select{
+	padding: 7px 5px 4px 7px;
+	width: 160px;
+	height: 34px;
+}
+
+section.reserve .forms select.room,
+section.reserve .forms select.person{
+	width: 210px;
+}
