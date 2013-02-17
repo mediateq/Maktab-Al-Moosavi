@@ -47,11 +47,11 @@ div{
 }
 
 .ok {
-	outline : 1px solid #9f9;
+	background-color : #9f9;
 }
 
 .err {
-	outline : 1px solid #f99;
+	background-color: #f99;
 }
 /*--------------------------------Header Part----------------------------*/
 header{
