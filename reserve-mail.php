@@ -48,22 +48,25 @@
 		
 		
 		$subject = "Order book";
-		$message = "تاریخ ورود: $yearin-$monthin-$dayin 
-				    تاریخ خروج: $yearout-$monthout-$dayout
-				    تعداد نفرات: $person
-				    تعداد اتاقها: $room
-				    $bedextra
-				    $rentcar
-				    $visitdr";
+		$message = "$gender $name $family
+			    تلفن: $phone
+			    ایمیل: $email
+			    تاریخ ورود: $yearin-$monthin-$dayin 
+			    تاریخ خروج: $yearout-$monthout-$dayout
+			    تعداد نفرات: $person
+			    تعداد اتاقها: $room
+			    $bedextra
+			    $rentcar
+			    $visitdr";
 		
 
 		if ($accept) {
-			if( strlen($name)>=3 && strlen($email)>=7 && strlen($subject)>=5 && strlen($text)>=10 ){
+			if( strlen($name)>=3 && strlen($family)>=5  && strlen($email)>=7 && strlen($phone)>=12 ){
 				if( @mail (
 						$admin,
 						$subject,
 						$message,
-						"From:$gender $name $family $phone $email"
+						"From:$gender $name $family $email"
 						
 					 )
 				){

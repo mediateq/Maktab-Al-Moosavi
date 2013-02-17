@@ -159,28 +159,28 @@
 				<h2>اطلاعات شخصی</h2>
 			</div>
 			<label>
-				<input type="radio" name="gender" id="gender" class="gender" value="Mr" />
-				<p class="gender">آقای</p>
+				<input type="radio" name="gender" id="gender" class="gender" value="آقا" />
+				<p class="gender">آقا</p>
 			</label>
 			<label>
-				<input type="radio" name="gender" id="gender" class="gender" value="Mrs" />
+				<input type="radio" name="gender" id="gender" class="gender" value="خانم" />
 				<p class="gender">خانم</p>
 			</label>
 			<div class="badboy"></div>
 			<label><p class="personal">نام</p>
-				<input type="text" name="name" id="name" class="name" />
+				<input type="text" name="name" id="name" class="name" placeholder="نام" />
 			</label>
 			<div class="badboy"></div>
 			<label><p class="personal">فامیل</p>
-				<input type="text" name="family" id="family" class="family" />
+				<input type="text" name="family" id="family" class="family" placeholder="نام خانوادگی" />
 			</label>
 			<div class="badboy"></div>
 			<label><p class="personal">ایمیل</p>
-				<input type="text" name="mail" id="mail" class="mail" />
+				<input type="text" name="mail" id="mail" class="mail ltr" placeholder="someone@example.com" />
 			</label>
 			<div class="badboy"></div>
 			<label><p class="personal">تلفن</p>
-				<input type="text" name="phone" id="phone" class="phone" />
+				<input type="text" name="phone" id="phone" class="phone ltr" placeholder="985119876543" />
 			</label>
 			<div class="badboy"></div>
 			
