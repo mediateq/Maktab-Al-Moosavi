@@ -28,9 +28,9 @@
 					<nav>
 						<menu>
 							<li><a href="./">درباره ما</a></li>
-							<li><a href="./hotels.php">هتل</a></li>
-							<li><a href="#">ماشین</a></li>
-							<li><a href="#">دکتر</a></li>
+							<li><a href="./hotels.php">رزرو هتل</a></li>
+							<li><a href="#">رزرو ماشین</a></li>
+							<li><a href="#">ویزیت دکتر</a></li>
 							<li><a href="./gallery.php">گالری تصاویر</a></li>
 							<li><a href="./contact.php">تماس با ما</a></li>
 						</menu>
