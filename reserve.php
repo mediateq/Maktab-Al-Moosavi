@@ -6,7 +6,7 @@
 	</div>
 	<div class="forms">
 		<form action="reserve.php" method="post">
-			<label><p>ورود</p>
+			<label><p class="check">ورود</p>
 				<select name="year" class="year" id="year">
                 	<option>سال</option>
                 	<option>2013</option>
@@ -69,7 +69,7 @@
 				</select>
 			</label>
 			<div class="badboy"></div>
-			<label><p>خروج</p>
+			<label><p class="check">خروج</p>
 				<select name="year" class="year" id="year">
                 	<option>سال</option>
                 	<option>2013</option>
@@ -132,7 +132,7 @@
 				</select>
 			</label>
 			<div class="badboy"></div>
-			<label><p class="bigwidth">تعداد نفرات</p>
+			<label class="person-room"><p class="person-room">تعداد نفرات</p>
 				<select name="person" class="person" id="person">
 	                <option>-انتخاب-</option>
 	                <option>1</option>
@@ -144,7 +144,7 @@
 	            </select>
             </label>
             <div class="badboy"></div>
-            <label><p class="bigwidth">تعداد اتاق ها</p>
+            <label class="person-room"><p class="person-room">تعداد اتاق ها</p>
 				<select name="room" class="room" id="room">
 	                <option>-انتخاب-</option>
 	                <option>1</option>
@@ -154,6 +154,34 @@
 	            </select>
             </label>
             <div class="badboy"></div>
+           <div class="title">
+				<h2>اطلاعات شخصی</h2>
+			</div>
+			<label>
+				<input type="radio" name="gender" id="gender" class="gender" />
+				<p class="gender">آقای</p>
+			</label>
+			<label>
+				<input type="radio" name="gender" id="gender" class="gender" />
+				<p class="gender">خانم</p>
+			</label>
+			<div class="badboy"></div>
+			<label><p class="personal">نام</p>
+				<input type="text" name="name" id="name" class="name" />
+			</label>
+			<div class="badboy"></div>
+			<label><p class="personal">فامیل</p>
+				<input type="text" name="family" id="family" class="family" />
+			</label>
+			<div class="badboy"></div>
+			<label><p class="personal">ایمیل</p>
+				<input type="text" name="mail" id="mail" class="mail" />
+			</label>
+			<div class="badboy"></div>
+			<label><p class="personal">تلفن</p>
+				<input type="text" name="phone" id="phone" class="phone" />
+			</label>
+			<div class="badboy"></div>
 		</form>
 	</div>
 	<div class="detail"></div>

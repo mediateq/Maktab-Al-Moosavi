@@ -680,22 +680,40 @@ section.reserve .forms label{
 	margin: 10px 0 5px;
 }
 
-section.reserve .forms label p{
-	display: inline-block;
-	width: 40px;
-}
-
-section.reserve .forms label p.bigwidth{
-	width: 70px;
-}
-
 section.reserve .forms select{
 	padding: 7px 5px 4px 7px;
 	width: 160px;
 	height: 34px;
 }
 
-section.reserve .forms select.room,
-section.reserve .forms select.person{
+section.reserve .forms label p.check{
+	display: inline-block;
+	width: 35px;
+}
+
+section.reserve .forms label p.person-room{
+	display: inline-block;
+	width: 65px;
+}
+
+section.reserve .forms label.person-room select{
 	width: 210px;
+}
+
+section.reserve .forms label p.gender{
+	display: inline-block;
+	width: 30px;
+}
+
+section.reserve .forms label p.personal{
+	display: inline-block;
+	width: 30px;
+}
+
+section.reserve .forms input.name,
+section.reserve .forms input.family,
+section.reserve .forms input.mail,
+section.reserve .forms input.phone{
+	width: 490px;
+	height: 28px;
 }
