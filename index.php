@@ -101,16 +101,15 @@
 				<div class="pic">
 					<img src="./images/icon3.png" alt="facebook">
 				</div>
-				<p class="info">
-					پیغام مورد نظر پیغام مورد نظر پیغام مورد نظر پیغام مورد نظر پیغام مورد نظر پیغام مورد نظر پیغام مورد نظر پیغام مورد نظر 
-				</p>
-				<p class="name">حسن الموسوی</p>
+				<a href="#"><p>آب و هوای مشهد مقدس</p></a>
+				<div class="hline"></div>
+				<a href="#"><p>اوقات شرعی شهرهای ایران</p></a>
 			</div>
 			<div class="second">
 				<div class="pic">
 					<img src="./images/icon2.png" alt="twitter">
 				</div>
-				<a href="#">add twitter address</a>
+				<a href="#">add Viber number</a>
 				<div class="hline"></div>
 				<p>
 					پیغام مورد نظر پیغام مورد نظر پیغام مورد نظر 
@@ -120,7 +119,7 @@
 				<div class="pic">
 					<img src="./images/icon1.png" alt="info">
 				</div>
-				<a href="#">add facebook address</a>
+				<a href="#">add wahts up</a>
 				<div class="hline"></div>
 				<p>
 					پیغام مورد نظر پیغام مورد نظر پیغام مورد نظر 
