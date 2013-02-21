@@ -156,7 +156,7 @@
             <div class="badboy"></div>
            
            	<div class="title">
-				<h2>اطلاعات شخصی</h2>
+				<h2>المعلومات الشخصیة</h2>
 			</div>
 			<label>
 				<input type="radio" name="gender" id="gender" class="gender" value="آقا" />
