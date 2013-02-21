@@ -132,25 +132,25 @@
 				</select>
 			</label>
 			<div class="badboy"></div>
-			<label class="person-room"><p class="person-room">تعداد نفرات</p>
+			<label class="person-room"><p class="person-room">تعداد الشخاص</p>
 				<select name="person" class="person" id="person">
-	                <option>-انتخاب-</option>
+	                <option>-انتخب-</option>
 	                <option>1</option>
 	                <option>2</option>
 	                <option>3</option>
 	                <option>4</option>
 	                <option>5</option>
-	                <option>بیشتر</option>
+	                <option>اکثر</option>
 	            </select>
             </label>
             <div class="badboy"></div>
             <label class="person-room"><p class="person-room">تعداد اتاق ها</p>
 				<select name="room" class="room" id="room">
-	                <option>-انتخاب-</option>
+	                <option>-انتخب-</option>
 	                <option>1</option>
 	                <option>2</option>
 	                <option>3</option>
-	                <option>بیشتر</option>
+	                <option>اکثر</option>
 	            </select>
             </label>
             <div class="badboy"></div>
