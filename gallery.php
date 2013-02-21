@@ -6,42 +6,42 @@
 	</div>
 	<ul>
 		<li>
-			<a href="./images/gallery/1.jpg" rel='lightbox[group1]' title="عکس شماره یک">
+			<a href="./images/gallery/1.jpg" rel="prettyphoto[gallery1]" title="عکس شماره یک">
 				<img src="./images/gallery/1.jpg" alt="">
 				<div class="effe"></div>
 			</a>
 			<p>عکس شماره یک</p>
 		</li>
 		<li>
-			<a href="./images/gallery/2.jpg" rel='lightbox[group1]' title="عکس شماره دو">
+			<a href="./images/gallery/2.jpg" rel='prettyphoto[gallery1]' title="عکس شماره دو">
 				<img src="./images/gallery/2.jpg" alt="">
 				<div class="effe"></div>
 			</a>
 			<p>عکس شماره دو</p>
 		</li>
 		<li>
-			<a href="./images/gallery/3.jpg" rel='lightbox[group1]' title="عکس شماره سه">
+			<a href="./images/gallery/3.jpg" rel='prettyphoto[gallery1]' title="عکس شماره سه">
 				<img src="./images/gallery/3.jpg" alt="">
 				<div class="effe"></div>
 			</a>
 			<p>عکس شماره یک</p>
 		</li>
 		<li>
-			<a href="./images/gallery/4.jpg" rel='lightbox[group1]' title="عکس شماره چهار">
+			<a href="./images/gallery/4.jpg" rel='prettyphoto[gallery1]' title="عکس شماره چهار">
 				<img src="./images/gallery/4.jpg" alt="">
 				<div class="effe"></div>
 			</a>
 			<p>عکس شماره چهار</p>
 		</li>
 		<li>
-			<a href="./images/gallery/5.jpg" rel='lightbox[group1]' title="عکس شماره پنج">
+			<a href="./images/gallery/5.jpg" rel='prettyphoto[gallery1]' title="عکس شماره پنج">
 				<img src="./images/gallery/5.jpg" alt="" >
 				<div class="effe"></div>
 			</a>
 			<p>عکس شماره پنج</p>
 		</li>
 		<li>
-			<a href="./images/gallery/6.jpg" rel='lightbox[group1]' title="عکس شماره شش">
+			<a href="./images/gallery/6.jpg" rel='prettyphoto[gallery1]' title="عکس شماره شش">
 				<img src="./images/gallery/6.jpg" alt="">
 				<div class="effe"></div>
 			</a>
@@ -50,5 +50,13 @@
 	</ul>
 	<div class="badboy"></div>
 </section>
+
+<script type="text/javascript" charset="utf-8">
+  $(document).ready(function(){
+    $("a[rel^='prettyphoto']").prettyPhoto({
+    	autoplay_slideshow: true,
+    });
+  });
+</script>
 
 <?php include('./inc/footer.php') ?>

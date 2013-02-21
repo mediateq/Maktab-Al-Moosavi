@@ -5,12 +5,12 @@
 	<meta charset="UTF-8">
 	<title></title>
 	<link rel="stylesheet" href="./1styles.css" />
-	<link rel="stylesheet" href="./lightbox.css" />
+	<link rel="stylesheet" href="./prettyphoto.css"/>
 	<link rel="stylesheet" href="./flexslider.css">
 	<link rel="stylesheet" href="./style.css" />
 	<script type="text/javascript" src="./js/jquery.js"></script>
 	<script type="text/javascript" src="./js/zepto.js"></script>
-	<script type="text/javascript" src="./js/lightbox.js"></script>
+	<script type="text/javascript" src="js/jquery.prettyphoto.js"></script>
 	<script type="text/javascript" src="./js/jquery.flexslider-min.js"></script>
 	<script type="text/javascript" src="./js/scripts.js"></script>
 	<!--[if lt IE 9]>

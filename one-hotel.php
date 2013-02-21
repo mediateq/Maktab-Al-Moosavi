@@ -12,19 +12,19 @@
 	<div class="pics">
 		<ul>
 			<li>
-				<a href="./images/one-hotel/1.jpg" rel='lightbox[group1]'>
+				<a href="./images/one-hotel/1.jpg" rel='prettyphoto[gallery1]'>
 					<img src="./images/one-hotel/1.jpg" alt="">
 					<div class="effe"></div>
 				</a>
 			</li>
 			<li>
-				<a href="./images/one-hotel/2.jpg" rel='lightbox[group1]'>
+				<a href="./images/one-hotel/2.jpg" rel='prettyphoto[gallery1]'>
 					<img src="./images/one-hotel/2.jpg" alt="">
 					<div class="effe"></div>
 				</a>
 			</li>
 			<li>
-				<a href="./images/one-hotel/3.jpg" rel='lightbox[group1]'>
+				<a href="./images/one-hotel/3.jpg" rel='prettyphoto[gallery1]'>
 					<img src="./images/one-hotel/3.jpg" alt="">
 					<div class="effe"></div>
 				</a>
@@ -33,5 +33,13 @@
 		<div class="badboy"></div>
 	</div>
 </section>
+
+<script type="text/javascript" charset="utf-8">
+  $(document).ready(function(){
+    $("a[rel^='prettyphoto']").prettyPhoto({
+    	autoplay_slideshow: true,
+    });
+  });
+</script>
 
 <?php include('./inc/footer.php') ?>
