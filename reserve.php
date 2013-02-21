@@ -3,12 +3,12 @@
 <section class="reserve">
 	<div class="forms">
 		<div class="title">
-			<h2>فرم رزرو</h2>
+			<h2>استمارة الحجز</h2>
 		</div>
 		<form action="reserve-mail.php" method="post" target="ifrm">
-			<label><p class="check">ورود</p>
+			<label><p class="check">تاریخ الوصول</p>
 				<select name="yearin" class="year" id="year">
-                	<option>سال</option>
+                	<option>الستة</option>
                 	<option>2013</option>
                 	<option>2014</option>
                 	<option>2015</option>
@@ -19,7 +19,7 @@
                 	<option>2020</option>
                	</select>
 				<select name="monthin" class="month" id="month">
-	                <option>ماه</option>
+	                <option>الشهر</option>
 	                <option>January</option>
                     <option>February</option>
                     <option>March</option>
@@ -34,7 +34,7 @@
                     <option>December</option>
           		</select>
           		<select name="dayin" class="day" id="day">
-	                <option>روز</option>
+	                <option>اليوم</option>
 	                <option>1</option>
 	                <option>2</option>
 	                <option>3</option>
@@ -69,9 +69,9 @@
 				</select>
 			</label>
 			<div class="badboy"></div>
-			<label><p class="check">خروج</p>
+			<label><p class="check">تاريخ المغاىرة</p>
 				<select name="yearout" class="year" id="year">
-                	<option>سال</option>
+                	<option>الستة</option>
                 	<option>2013</option>
                 	<option>2014</option>
                 	<option>2015</option>
@@ -82,7 +82,7 @@
                 	<option>2020</option>
                	</select>
 				<select name="monthout" class="month" id="month">
-	                <option>ماه</option>
+	                <option>الشهر</option>
 	                <option>January</option>
                     <option>February</option>
                     <option>March</option>
@@ -97,7 +97,7 @@
                     <option>December</option>
           		</select>
           		<select name="dayout" class="day" id="day">
-	                <option>روز</option>
+	                <option>اليوم</option>
 	                <option>1</option>
 	                <option>2</option>
 	                <option>3</option>
@@ -132,31 +132,31 @@
 				</select>
 			</label>
 			<div class="badboy"></div>
-			<label class="person-room"><p class="person-room">تعداد نفرات</p>
+			<label class="person-room"><p class="person-room">تعداد الشخاص</p>
 				<select name="person" class="person" id="person">
-	                <option>-انتخاب-</option>
+	                <option>-انتخب-</option>
 	                <option>1</option>
 	                <option>2</option>
 	                <option>3</option>
 	                <option>4</option>
 	                <option>5</option>
-	                <option>بیشتر</option>
+	                <option>اکثر</option>
 	            </select>
             </label>
             <div class="badboy"></div>
             <label class="person-room"><p class="person-room">تعداد اتاق ها</p>
 				<select name="room" class="room" id="room">
-	                <option>-انتخاب-</option>
+	                <option>-انتخب-</option>
 	                <option>1</option>
 	                <option>2</option>
 	                <option>3</option>
-	                <option>بیشتر</option>
+	                <option>اکثر</option>
 	            </select>
             </label>
             <div class="badboy"></div>
            
            	<div class="title">
-				<h2>اطلاعات شخصی</h2>
+				<h2>المعلومات الشخصیة</h2>
 			</div>
 			<label>
 				<input type="radio" name="gender" id="gender" class="gender" value="آقا" />
