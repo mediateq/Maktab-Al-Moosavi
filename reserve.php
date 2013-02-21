@@ -167,19 +167,19 @@
 				<p class="gender">خانم</p>
 			</label>
 			<div class="badboy"></div>
-			<label><p class="personal">نام</p>
-				<input type="text" name="name" id="name" class="name" placeholder="نام" />
+			<label><p class="personal">الاسم</p>
+				<input type="text" name="name" id="name" class="name" placeholder="الاسم" />
 			</label>
 			<div class="badboy"></div>
-			<label><p class="personal">فامیل</p>
-				<input type="text" name="family" id="family" class="family" placeholder="نام خانوادگی" />
+			<label><p class="personal">المعلومات الاضافیة</p>
+				<input type="text" name="family" id="family" class="family" placeholder="المعلومات الاضافیة" />
 			</label>
 			<div class="badboy"></div>
-			<label><p class="personal">ایمیل</p>
+			<label><p class="personal">الا یمیل</p>
 				<input type="text" name="mail" id="mail" class="mail ltr" placeholder="someone@example.com" />
 			</label>
 			<div class="badboy"></div>
-			<label><p class="personal">تلفن</p>
+			<label><p class="personal">رقم الهاتف</p>
 				<input type="text" name="phone" id="phone" class="phone ltr" placeholder="985119876543" />
 			</label>
 			<div class="badboy"></div>
@@ -210,11 +210,11 @@
 			</p>
 			<label>
 				<input type="radio" name="accept" class="accept" id="accept" />
-				<p class="accept">با موارد فوق موافقم و صحت فیلدهای پر کرده را تایید می نمایم.</p>
+				<p class="accept">اوافق قوانین مكتب الموسوي و اؤيد صحة اطلاعات الاستمارة.</p>
 			</label>
 			<div class="badboy"></div>
 
-			<input type="submit" class="btn" id="reserv" value="رزور">
+			<input type="submit" class="btn" id="reserv" value="إرسال">
 			<div class="badboy"></div>
 		</form>
 		<iframe id='ifrm' name='ifrm' src="" frameborder="0" scrolling="no"></iframe>
