@@ -686,13 +686,13 @@ section.reserve .forms label{
 
 section.reserve .forms select{
 	padding: 7px 5px;
-	width: 160px;
+	width: 145px;
 	height: 34px;
 }
 
 section.reserve .forms label p.check{
 	display: inline-block;
-	width: 35px;
+	width: 80px;
 }
 
 section.reserve .forms label p.person-room{
@@ -711,14 +711,14 @@ section.reserve .forms label p.gender{
 
 section.reserve .forms label p.personal{
 	display: inline-block;
-	width: 30px;
+	width: 99px;
 }
 
 section.reserve .forms input.name,
 section.reserve .forms input.family,
 section.reserve .forms input.mail,
 section.reserve .forms input.phone{
-	width: 489px;
+	width: 420px;
 	height: 28px;
 }
 

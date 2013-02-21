@@ -185,24 +185,6 @@
 			<div class="badboy"></div>
 			
 			<div class="title">
-				<h2>خدمات اضافی</h2>
-			</div>
-			<label>
-				<input type="checkbox" name="bedextra" class="bedextra" id="bedextra" value="تخت اضافی در اتاق می خواهم" />
-				<p class="extra">تخت اضافه در اتاق</p>
-			</label>
-			<label>
-				<input type="checkbox" name="carrent" class="carrent" id="carrent" value="ماشین می خواهم" />
-				<p class="extra">کرایه ماشین</p>
-			</label>
-			<div class="badboy"></div>
-			<label>
-				<input type="checkbox" name="visitdr" class="visitdr" id="visitdr" value="تمایل ویزیت دکتر را دارم" />
-				<p class="extra">ویزیت دکتر</p>
-			</label>
-			<div class="badboy"></div>
-
-			<div class="title">
 				<h2>تاییدیه</h2>
 			</div>
 			<p>
