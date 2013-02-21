@@ -3,7 +3,7 @@
 <section class="reserve">
 	<div class="forms">
 		<div class="title">
-			<h2>استمارة الحجز</h2>
+			<h2>إستمارة الحجز</h2>
 		</div>
 		<form action="reserve-mail.php" method="post" target="ifrm">
 			<label><p class="check">تاریخ الوصول</p>

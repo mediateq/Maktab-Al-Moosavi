@@ -36,7 +36,7 @@
 							<li><a href="./contact.php">تماس با ما</a></li>
 						</menu>
 					</nav>
-					<div class="reserve"><a href="./reserve.php"><h2>احجز السکن الآن !</h2></a></div>
+					<div class="reserve"><a href="./reserve.php"><h2>إحجز السکن الآن !</h2></a></div>
 					<div class="badboy"></div>
 				</div>
 			</header>
