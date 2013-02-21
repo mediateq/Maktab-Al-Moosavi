@@ -28,7 +28,7 @@
 				<div class="menu">
 					<nav>
 						<menu>
-							<li><a href="./">درباره ما</a></li>
+							<li><a href="./">صفحه اصلی</a></li>
 							<li><a href="./hotels.php">رزرو هتل</a></li>
 							<li><a href="./cars.php">رزرو ماشین</a></li>
 							<li><a href="./drs.php">ویزیت دکتر</a></li>
