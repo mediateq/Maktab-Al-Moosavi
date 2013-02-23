@@ -5,10 +5,6 @@
   src: local('Abril Fatface'), local('AbrilFatface-Regular'), url(http://themes.googleusercontent.com/static/fonts/abrilfatface/v5/X1g_KwGeBV3ajZIXQ9VnDvn8qdNnd5eCmWXua5W-n7c.woff) format('woff');
 }
 
-/*header,div,footer,section,*{
-	outline: 1px dashed red;
-}
-*/
 menu,ul{
 	margin: 0;
 	padding: 0;
@@ -594,9 +590,8 @@ section.contact .cform{
 	text-align: 	right;
 }
 
-section.contact .location .map{
-	min-height: 	275px;	
-	background: url('./images/map.jpg') center no-repeat;
+section.contact .location .text p{
+	font-size: 18px;
 }
 
 section.contact .cform .form{
@@ -624,6 +619,15 @@ section.contact .cform .form input{
 
 section.contact .cform .info h2{
 	color: #928B82;
+}
+
+section.contact .cform .info a{
+	color: #DEAE54;
+	text-decoration: underline;
+}
+
+section.contact .cform .info p{
+	margin-top: 10px;
 }
 
 section.contact .cform .form .messege{

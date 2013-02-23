@@ -33,7 +33,7 @@
 							<li><a href="./cars.php">رزرو ماشین</a></li>
 							<li><a href="./drs.php">ویزیت دکتر</a></li>
 							<li><a href="./gallery.php">گالری تصاویر</a></li>
-							<li><a href="./contact.php">تماس با ما</a></li>
+							<li><a href="./contact.php">درباره ما</a></li>
 						</menu>
 					</nav>
 					<div class="reserve"><a href="./reserve.php"><h2>إحجز السکن الآن !</h2></a></div>
