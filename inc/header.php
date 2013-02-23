@@ -28,12 +28,12 @@
 				<div class="menu">
 					<nav>
 						<menu>
-							<li><a href="./">صفحه اصلی</a></li>
-							<li><a href="./hotels.php">رزرو هتل</a></li>
-							<li><a href="./cars.php">رزرو ماشین</a></li>
-							<li><a href="./drs.php">ویزیت دکتر</a></li>
-							<li><a href="./gallery.php">گالری تصاویر</a></li>
-							<li><a href="./contact.php">درباره ما</a></li>
+							<li><a href="./">الصفحة الرئیسیة</a></li>
+							<li><a href="./hotels.php">الفنادق</a></li>
+							<li><a href="./cars.php">سیارات للأجرة</a></li>
+							<li><a href="./drs.php">خدمات طبیة</a></li>
+							<li><a href="./gallery.php">معرض الصور</a></li>
+							<li><a href="./contact.php">اتصل بنا</a></li>
 						</menu>
 					</nav>
 					<div class="reserve"><a href="./reserve.php"><h2>إحجز السکن الآن !</h2></a></div>
