@@ -14,17 +14,17 @@
 			</div>
 		</li>
 		<li>
-			<a href="./one-hotel.php">
+			<a href="./ghasr.php">
 				<img src="./images/hotels/1.jpg" alt="">
 			</a>
 		</li>
 		<li>
-			<a href="./one-hotel.php">
+			<a href="./ghasr.php">
 				<img src="./images/hotels/2.jpg" alt="">
 			</a>
 		</li>
 		<li>
-			<a href="./one-hotel.php">
+			<a href="./ghasr.php">
 				<img src="./images/hotels/3.jpg" alt="">
 			</a>
 		</li>
@@ -32,17 +32,17 @@
 	<div class="badboy"></div>
 	<ul>
 		<li>
-			<a href="#">
+			<a href="./darvishi.php">
 				<img src="./images/hotels/4.jpg" alt="">
 			</a>
 		</li>
 		<li>
-			<a href="#">
+			<a href="./darvishi.php">
 				<img src="./images/hotels/5.jpg" alt="">
 			</a>
 		</li>
 		<li>
-			<a href="#">
+			<a href="./darvishi.php">
 				<img src="./images/hotels/6.jpg" alt="">
 			</a>
 		</li>
@@ -66,17 +66,17 @@
 			</div>
 		</li>
 		<li>
-			<a href="#">
+			<a href="./homa.php">
 				<img src="./images/hotels/7.jpg" alt="">
 			</a>
 		</li>
 		<li>
-			<a href="#">
+			<a href="./homa.php">
 				<img src="./images/hotels/8.jpg" alt="">
 			</a>
 		</li>
 		<li>
-			<a href="#">
+			<a href="./homa.php">
 				<img src="./images/hotels/9.jpg" alt="">
 			</a>
 		</li>
