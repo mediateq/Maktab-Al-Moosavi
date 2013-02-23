@@ -1,19 +1,5 @@
 <?php include('./inc/header.php') ?>
 
-<script type="text/javascript">
-  function initialize() {
-    var latlng = new google.maps.LatLng(-34.397, 150.644);
-    var myOptions = {
-      zoom: 8,
-      center: latlng,
-      mapTypeId: google.maps.MapTypeId.ROADMAP
-    };
-    var map = new google.maps.Map(document.getElementById("map_canvas"),
-        myOptions);
-  }
-
-</script>
-
 <section class="contact">
 	<div class="title">
 		<h2>درباره ما</h2>
@@ -31,7 +17,7 @@
 			<p>
 				اطلاعات تماس در این قسمت قرار میگیرد اطلاعات تماس در این قسمت قرار میگیرد اطلاعات تماس در این قسمت قرار میگیرد اطلاعات تماس در این قسمت قرار میگیرد اطلاعات تماس در این قسمت قرار میگیرد اطلاعات تماس در این قسمت قرار میگیرد اطلاعات تماس در این قسمت قرار میگیرد اطلاعات تماس در این قسمت قرار میگیرد اطلاعات تماس در این قسمت قرار میگیرد اطلاعات تماس در این قسمت قرار میگیرد اطلاعات تماس در این قسمت قرار میگیرد اطلاعات تماس در این قسمت قرار میگیرد 
 			</p>
-			<a href="#?custom=true&width=870&height=280" rel="prettyphoto">ادرس بر روی نقشه</a>
+			<a href="#?custom=true&width=870&height=580" rel="prettyphoto">ادرس بر روی نقشه</a>
 			
 			<p>
 				آدرس در این قسمت قرار میگیرد آدرس در این قسمت قرار میگیرد آدرس در این قسمت قرار میگیرد آدرس در این قسمت قرار میگیرد
@@ -69,8 +55,7 @@
 <script type="text/javascript" charset="utf-8">
   $(document).ready(function(){
     $("a[rel^='prettyphoto']").prettyPhoto({
-    	custom_markup: '<iframe width="870" height="280" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=203962002147300705700.0004d5e6c2ae38d716436&amp;hl=en&amp;ie=UTF8&amp;t=m&amp;ll=36.281022,59.611216&amp;spn=0.019027,0.074587&amp;z=14&amp;output=embed"></iframe>',
-		changepicturecallback: function(){ initialize(); }
+    	custom_markup: '<iframe width="870" height="580" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=203962002147300705700.0004d5e6c2ae38d716436&amp;hl=en&amp;ie=UTF8&amp;t=m&amp;ll=36.281022,59.611216&amp;spn=0.019027,0.074587&amp;z=14&amp;output=embed"></iframe>',
     });
   });
 </script>
