@@ -47,6 +47,27 @@
 			</a>
 			<p>سرزمین موجهای آبی مشهد</p>
 		</li>
+		<li>
+			<a href="./images/gallery/7.jpg" rel='prettyphoto[gallery1]' title="سد و منطقه تفزیحی چالیدره">
+				<img src="./images/gallery/7.jpg" alt="">
+				<div class="effe"></div>
+			</a>
+			<p>سد و منطقه تفزیحی چالیدره</p>
+		</li>
+		<li>
+			<a href="./images/gallery/8.jpg" rel='prettyphoto[gallery1]' title="بزرگترین و با شکوه ترین هتل ها">
+				<img src="./images/gallery/8.jpg" alt="">
+				<div class="effe"></div>
+			</a>
+			<p>بزرگترین و با شکوه ترین هتل ها</p>
+		</li>
+		<li>
+			<a href="./images/gallery/6.jpg" rel='prettyphoto[gallery1]' title="سرزمین موجهای آبی مشهد">
+				<img src="./images/gallery/6.jpg" alt="">
+				<div class="effe"></div>
+			</a>
+			<p>سرزمین موجهای آبی مشهد</p>
+		</li>
 	</ul>
 	<div class="badboy"></div>
 </section>
