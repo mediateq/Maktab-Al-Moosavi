@@ -62,11 +62,11 @@
 			<p>بزرگترین و با شکوه ترین هتل ها</p>
 		</li>
 		<li>
-			<a href="./images/gallery/6.jpg" rel='prettyphoto[gallery1]' title="سرزمین موجهای آبی مشهد">
-				<img src="./images/gallery/6.jpg" alt="">
+			<a href="./images/gallery/9.jpg" rel='prettyphoto[gallery1]' title="برجها و مراکز تجاری خرید">
+				<img src="./images/gallery/9.jpg" alt="">
 				<div class="effe"></div>
 			</a>
-			<p>سرزمین موجهای آبی مشهد</p>
+			<p>برجها و مراکز تجاری خرید</p>
 		</li>
 	</ul>
 	<div class="badboy"></div>
