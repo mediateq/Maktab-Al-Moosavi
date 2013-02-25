@@ -101,9 +101,9 @@
 				<div class="pic">
 					<img src="./images/icon3.png" alt="facebook">
 				</div>
-				<a href="#"><p>آب و هوای مشهد مقدس</p></a>
+				<a href="#?custom=true&width=870&height=580" rel="prettyphoto1"><p>آب و هوای مشهد مقدس</p></a>
 				<div class="hline"></div>
-				<a href="#"><p>اوقات شرعی شهرهای ایران</p></a>
+				<a href="#?custom=true&width=870&height=580" rel="prettyphoto2"><p>اوقات شرعی مشهد مقدس</p></a>
 			</div>
 			<div class="second">
 				<div class="pic">
@@ -129,5 +129,20 @@
 		</div>
 	</div>
 </section>
+
+
+
+<script type="text/javascript" charset="utf-8">
+  $(document).ready(function(){
+  	$("a[rel^='prettyphoto1']").prettyPhoto({
+    	custom_markup: '<iframe width="870" height="580" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" src="http://www.weather.com/weather/right-now/IRXX0008:1:IR"></iframe>',
+    	allow_resize: false,
+    });
+    $("a[rel^='prettyphoto2']").prettyPhoto({
+    	custom_markup: '<iframe width="870" height="580" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" src="http://www.islamicfinder.org/prayerDetail.php?city=Mashad&state=10&country=iran&lang=&&&lang=arabic"></iframe>',
+    	allow_resize: false,
+    });
+  });
+</script>
 
 <?php include('./inc/footer.php') ?>
