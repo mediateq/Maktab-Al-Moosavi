@@ -82,6 +82,32 @@
 		</li>
 	</ul>
 	<div class="badboy"></div>
+	<ul>
+		<li>
+			<a href="./toos.php">
+				<img src="./images/hotels/toos/1.jpg" alt="">
+			</a>
+		</li>
+		<li>
+			<a href="./toos.php">
+				<img src="./images/hotels/toos/2.jpg" alt="">
+			</a>
+		</li>
+		<li>
+			<a href="./toos.php">
+				<img src="./images/hotels/toos/3.jpg" alt="">
+			</a>
+		</li>
+		<li>
+			<div class="tit"><h2>فندق طوس</h2></div>
+			<div class="text">
+				<p>
+					یقع فندق درویشي الفاخر فی شارع الامام رضا(ع) و هو اهم الشوارع الرئیسیة المنتهیة الی الحرم المطهرة ومسافته الی الحرم یعادل1.4کیلومتر ...
+				</p>
+			</div>
+		</li>
+	</ul>
+	<div class="badboy"></div>
 </section>
 
 <?php include('./inc/footer.php') ?>
