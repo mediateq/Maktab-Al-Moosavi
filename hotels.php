@@ -15,17 +15,17 @@
 		</li>
 		<li>
 			<a href="./ghasr.php">
-				<img src="./images/hotels/1.jpg" alt="">
+				<img src="./images/hotels/ghasrtalae/1.jpg" alt="">
 			</a>
 		</li>
 		<li>
 			<a href="./ghasr.php">
-				<img src="./images/hotels/2.jpg" alt="">
+				<img src="./images/hotels/ghasrtalae/2.jpg" alt="">
 			</a>
 		</li>
 		<li>
 			<a href="./ghasr.php">
-				<img src="./images/hotels/3.jpg" alt="">
+				<img src="./images/hotels/ghasrtalae/3.jpg" alt="">
 			</a>
 		</li>
 	</ul>
@@ -33,17 +33,17 @@
 	<ul>
 		<li>
 			<a href="./darvishi.php">
-				<img src="./images/hotels/4.jpg" alt="">
+				<img src="./images/hotels/darvishi/4.jpg" alt="">
 			</a>
 		</li>
 		<li>
 			<a href="./darvishi.php">
-				<img src="./images/hotels/5.jpg" alt="">
+				<img src="./images/hotels/darvishi/5.jpg" alt="">
 			</a>
 		</li>
 		<li>
 			<a href="./darvishi.php">
-				<img src="./images/hotels/6.jpg" alt="">
+				<img src="./images/hotels/darvishi/6.jpg" alt="">
 			</a>
 		</li>
 		<li>
@@ -67,17 +67,17 @@
 		</li>
 		<li>
 			<a href="./homa.php">
-				<img src="./images/hotels/7.jpg" alt="">
+				<img src="./images/hotels/homa/4.jpg" alt="">
 			</a>
 		</li>
 		<li>
 			<a href="./homa.php">
-				<img src="./images/hotels/8.jpg" alt="">
+				<img src="./images/hotels/homa/5.jpg" alt="">
 			</a>
 		</li>
 		<li>
 			<a href="./homa.php">
-				<img src="./images/hotels/9.jpg" alt="">
+				<img src="./images/hotels/homa/6.jpg" alt="">
 			</a>
 		</li>
 	</ul>

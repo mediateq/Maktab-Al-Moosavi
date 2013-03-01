@@ -14,20 +14,20 @@
 	<div class="pics">
 		<ul>
 			<li>
-				<a href="./images/one-hotel/1.jpg" rel='prettyphoto[gallery1]'>
-					<img src="./images/one-hotel/1.jpg" alt="">
+				<a href="./images/hotels/ghasrtalae/1.jpg" rel='prettyphoto[gallery1]'>
+					<img src="./images/hotels/ghasrtalae/1.jpg" alt="">
 					<div class="effe"></div>
 				</a>
 			</li>
 			<li>
-				<a href="./images/one-hotel/2.jpg" rel='prettyphoto[gallery1]'>
-					<img src="./images/one-hotel/2.jpg" alt="">
+				<a href="./images/hotels/ghasrtalae/2.jpg" rel='prettyphoto[gallery1]'>
+					<img src="./images/hotels/ghasrtalae/2.jpg" alt="">
 					<div class="effe"></div>
 				</a>
 			</li>
 			<li>
-				<a href="./images/one-hotel/3.jpg" rel='prettyphoto[gallery1]'>
-					<img src="./images/one-hotel/3.jpg" alt="">
+				<a href="./images/hotels/ghasrtalae/3.jpg" rel='prettyphoto[gallery1]'>
+					<img src="./images/hotels/ghasrtalae/3.jpg" alt="">
 					<div class="effe"></div>
 				</a>
 			</li>
