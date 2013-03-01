@@ -135,9 +135,9 @@
 	</ul>
 	<div class="badboy"></div>
 	<div class="but right">
-		<a href="./hotels.php">1</a>
-		<a href="./hotels-2.php">2</a>
-		<a href="./hotels-3.php">3</a>
+		<a href="#">1</a>
+		<a href="#">2</a>
+		<a href="#">3</a>
 	</div>
 	<div class="badboy"></div>
 </section>
