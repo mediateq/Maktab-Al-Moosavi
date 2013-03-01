@@ -65,6 +65,7 @@
 				<div class="but left">
 					<a href="#">بیشتر</a>
 				</div>
+				<div class="badboy"></div>
 			</div>
 			<div class="second">
 				<div class="tit"><h2>رزرو ماشین</h2></div>
@@ -79,6 +80,7 @@
 				<div class="but left">
 					<a href="#">بیشتر</a>
 				</div>
+				<div class="badboy"></div>
 			</div>
 			<div class="third">
 				<div class="tit"><h2>رزرو دکتر</h2></div>
@@ -93,6 +95,7 @@
 				<div class="but left">
 					<a href="#">بیشتر</a>
 				</div>
+				<div class="badboy"></div>
 			</div>
 			<div class="badboy"></div>
 		</div>

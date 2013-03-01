@@ -82,6 +82,13 @@
 		</li>
 	</ul>
 	<div class="badboy"></div>
+	<div class="but right">
+		<a href="#">1</a>
+		<a href="#">2</a>
+		<a href="#">3</a>
+		<a href="#">4</a>
+	</div>
+	<div class="badboy"></div>
 </section>
 
 <?php include('./inc/footer.php') ?>

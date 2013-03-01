@@ -49,6 +49,23 @@ div{
 .err {
 	background-color: #f99;
 }
+
+.but a{
+	margin-top: 10px;
+	height: 27px;
+	background: url('./images/link.gif') 0 0 repeat-x #eae9e7;
+	padding: 5px 14px;
+	text-align: center;
+	color: #8F8476;
+	border: 1px solid #c7c7c7;
+	border-color: #c7c7c7 #e6e6e6 #c7c7c7 #e6e6e6;
+	border-width: 0 1px 1px;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	-ms-border-radius: 6px;
+	-o-border-radius: 6px;
+	border-radius: 6px;
+}
 /*--------------------------------Header Part----------------------------*/
 header{
 	min-height: 191px;
@@ -264,21 +281,6 @@ section.content .middle .works .pic img{
 section.content .middle .works .text p{
 	color: #928b82;
 	margin-top: 15px;
-}
-
-section.content .middle .works .but a{
-	display: block;
-	margin-top: 10px;
-	height: 27px;
-	background: url('./images/link.gif') 0 0 repeat-x #eae9e7;
-	padding: 1px 14px;
-	text-align: center;
-	color: #8F8476;
-	border: 1px solid #c7c7c7;
-	border-color: #c7c7c7 #e6e6e6 #c7c7c7 #e6e6e6;
-	border-width: 0 1px 1px;
-	-webkit-border-radius: 6px;
-	        border-radius: 6px;
 }
 
 section.content .middle .social{
@@ -503,6 +505,10 @@ section.hotels ul li .tit h2{
 section.hotels ul li .text p{
 	margin-top: 5px;
 	font-size: 15px;
+}
+
+section.hotels .but{
+	margin-top: 40px;
 }
 /*--------------------------------One-hotel Page----------------------------*/
 section.one-hotel{
