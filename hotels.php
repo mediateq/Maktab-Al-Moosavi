@@ -108,6 +108,32 @@
 		</li>
 	</ul>
 	<div class="badboy"></div>
+	<ul>
+		<li>
+			<div class="tit"><h2>فندق الجواد</h2></div>
+			<div class="text">
+				<p>
+					یقع فندق الجواد فی شارع الامام رضا (ع) و هو قریب الی حرم المطهر و یبعد 3 ، قائق عن الحرم ...
+				</p>
+			</div>
+		</li>
+		<li>
+			<a href="./javad.php">
+				<img src="./images/hotels/javad/4.jpg" alt="">
+			</a>
+		</li>
+		<li>
+			<a href="./javad.php">
+				<img src="./images/hotels/javad/5.jpg" alt="">
+			</a>
+		</li>
+		<li>
+			<a href="./javad.php">
+				<img src="./images/hotels/javad/6.jpg" alt="">
+			</a>
+		</li>
+	</ul>
+	<div class="badboy"></div>
 </section>
 
 <?php include('./inc/footer.php') ?>
