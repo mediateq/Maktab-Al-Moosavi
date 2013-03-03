@@ -6,7 +6,7 @@
 	</div>
 	<ul>
 		<li>
-			<div class="tit"><h2>فندق قصر طلایي الدولي</h2></div>
+			<div class="tit"><h2>فردوس</h2></div>
 			<div class="text">
 				<p>
 					الفندق قصر طلایي الدولي،ثاني فندق من مجموعة فنادق قصر الدولي و هو اکبر فندق في مدینة مشهد المقدسة قد تم بناءه فی سنة 2012 ...
@@ -14,18 +14,18 @@
 			</div>
 		</li>
 		<li>
-			<a href="./ghasr.php">
-				<img src="./images/hotels/ghasrtalae/1.jpg" alt="">
+			<a href="./ferdos.php">
+				<img src="./images/hotels/ferdos/4.jpg" alt="">
 			</a>
 		</li>
 		<li>
-			<a href="./ghasr.php">
-				<img src="./images/hotels/ghasrtalae/2.jpg" alt="">
+			<a href="./ferdos.php">
+				<img src="./images/hotels/ferdos/5.jpg" alt="">
 			</a>
 		</li>
 		<li>
-			<a href="./ghasr.php">
-				<img src="./images/hotels/ghasrtalae/3.jpg" alt="">
+			<a href="./ferdos.php">
+				<img src="./images/hotels/ferdos/6.jpg" alt="">
 			</a>
 		</li>
 	</ul>
@@ -135,9 +135,9 @@
 	</ul>
 	<div class="badboy"></div>
 	<div class="but right">
-		<a href="#">1</a>
-		<a href="#">2</a>
-		<a href="#">3</a>
+		<a href="./hotels.php">1</a>
+		<a href="./hotels-2.php">2</a>
+		<a href="./hotels-3.php">3</a>
 	</div>
 	<div class="badboy"></div>
 </section>
