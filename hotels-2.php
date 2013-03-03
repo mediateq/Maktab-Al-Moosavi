@@ -85,17 +85,17 @@
 	<ul>
 		<li>
 			<a href="./kiana.php">
-				<img src="./images/hotels/toos/1.jpg" alt="">
+				<img src="./images/hotels/kiana/1.jpg" alt="">
 			</a>
 		</li>
 		<li>
 			<a href="./kiana.php">
-				<img src="./images/hotels/toos/2.jpg" alt="">
+				<img src="./images/hotels/kiana/2.jpg" alt="">
 			</a>
 		</li>
 		<li>
 			<a href="./kiana.php">
-				<img src="./images/hotels/toos/3.jpg" alt="">
+				<img src="./images/hotels/kiana/3.jpg" alt="">
 			</a>
 		</li>
 		<li>
