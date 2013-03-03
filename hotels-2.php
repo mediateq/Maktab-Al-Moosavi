@@ -119,17 +119,17 @@
 		</li>
 		<li>
 			<a href="./javad.php">
-				<img src="./images/hotels/javad/4.jpg" alt="">
+				<img src="./images/hotels/sahand/4.jpg" alt="">
 			</a>
 		</li>
 		<li>
 			<a href="./javad.php">
-				<img src="./images/hotels/javad/5.jpg" alt="">
+				<img src="./images/hotels/sahand/5.jpg" alt="">
 			</a>
 		</li>
 		<li>
 			<a href="./javad.php">
-				<img src="./images/hotels/javad/6.jpg" alt="">
+				<img src="./images/hotels/sahand/6.jpg" alt="">
 			</a>
 		</li>
 	</ul>
