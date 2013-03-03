@@ -2,7 +2,7 @@
 
 <section class="one-hotel">
 	<div class="title">
-		<h2>بشری</h2>
+		<h2>قصر الماس</h2>
 	</div>
 	<div class="text">
 		<p>
@@ -15,20 +15,20 @@
 	<div class="pics">
 		<ul>
 			<li>
-				<a href="./images/hotels/boshra/1.jpg" rel='prettyphoto[gallery1]'>
-					<img src="./images/hotels/boshra/1.jpg" alt="">
+				<a href="./images/hotels/ghasrealmas/1.jpg" rel='prettyphoto[gallery1]'>
+					<img src="./images/hotels/ghasrealmas/1.jpg" alt="">
 					<div class="effe"></div>
 				</a>
 			</li>
 			<li>
-				<a href="./images/hotels/boshra/2.jpg" rel='prettyphoto[gallery1]'>
-					<img src="./images/hotels/boshra/2.jpg" alt="">
+				<a href="./images/hotels/ghasrealmas/2.jpg" rel='prettyphoto[gallery1]'>
+					<img src="./images/hotels/ghasrealmas/2.jpg" alt="">
 					<div class="effe"></div>
 				</a>
 			</li>
 			<li>
-				<a href="./images/hotels/boshra/3.jpg" rel='prettyphoto[gallery1]'>
-					<img src="./images/hotels/boshra/3.jpg" alt="">
+				<a href="./images/hotels/ghasrealmas/3.jpg" rel='prettyphoto[gallery1]'>
+					<img src="./images/hotels/ghasrealmas/3.jpg" alt="">
 					<div class="effe"></div>
 				</a>
 			</li>

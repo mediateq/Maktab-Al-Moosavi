@@ -47,7 +47,7 @@
 			</a>
 		</li>
 		<li>
-			<div class="tit"><h2>فندق درویشي الفاخر</h2></div>
+			<div class="tit"><h2>بشری</h2></div>
 			<div class="text">
 				<p>
 					یقع فندق درویشي الفاخر فی شارع الامام رضا(ع) و هو اهم الشوارع الرئیسیة المنتهیة الی الحرم المطهرة ومسافته الی الحرم یعادل1.4کیلومتر ...
@@ -58,7 +58,7 @@
 	<div class="badboy"></div>
 	<ul>
 		<li>
-			<div class="tit"><h2>هتل پنج ستاره هما</h2></div>
+			<div class="tit"><h2>قصر الماس</h2></div>
 			<div class="text">
 				<p>
 					نکات مورد نظر در مورد هتل نکات مورد نظر در مورد هتل نکات مورد نظر در مورد هتل نکات مورد نظر در مورد هتل نکات مورد نظر در مورد هتل نکات مورد نظر در مورد هتل نکات...
@@ -66,18 +66,18 @@
 			</div>
 		</li>
 		<li>
-			<a href="./homa.php">
-				<img src="./images/hotels/homa/4.jpg" alt="">
+			<a href="./ghasrealmas.php">
+				<img src="./images/hotels/ghasrealmas/4.jpg" alt="">
 			</a>
 		</li>
 		<li>
-			<a href="./homa.php">
-				<img src="./images/hotels/homa/5.jpg" alt="">
+			<a href="./ghasrealmas.php">
+				<img src="./images/hotels/ghasrealmas/5.jpg" alt="">
 			</a>
 		</li>
 		<li>
-			<a href="./homa.php">
-				<img src="./images/hotels/homa/6.jpg" alt="">
+			<a href="./ghasrealmas.php">
+				<img src="./images/hotels/ghasrealmas/6.jpg" alt="">
 			</a>
 		</li>
 	</ul>
