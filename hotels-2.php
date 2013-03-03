@@ -32,18 +32,18 @@
 	<div class="badboy"></div>
 	<ul>
 		<li>
-			<a href="./darvishi.php">
-				<img src="./images/hotels/darvishi/4.jpg" alt="">
+			<a href="./boshra.php">
+				<img src="./images/hotels/boshra/4.jpg" alt="">
 			</a>
 		</li>
 		<li>
-			<a href="./darvishi.php">
-				<img src="./images/hotels/darvishi/5.jpg" alt="">
+			<a href="./boshra.php">
+				<img src="./images/hotels/boshra/5.jpg" alt="">
 			</a>
 		</li>
 		<li>
-			<a href="./darvishi.php">
-				<img src="./images/hotels/darvishi/6.jpg" alt="">
+			<a href="./boshra.php">
+				<img src="./images/hotels/boshra/6.jpg" alt="">
 			</a>
 		</li>
 		<li>
