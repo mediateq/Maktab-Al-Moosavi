@@ -510,6 +510,10 @@ section.hotels ul li .text p{
 section.hotels .but{
 	margin-top: 40px;
 }
+
+section.hotels .but a:hover{
+	color: #DEAE54;
+}
 /*--------------------------------One-hotel Page----------------------------*/
 section.one-hotel{
 	background-color: #F8F8F8;
