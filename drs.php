@@ -35,7 +35,7 @@
 			<a href="./drs-teeth.php">
 				<img src="./images/drs/4.jpg" alt="">
 			</a>
-		</li>
+			</li>
 		<li>
 			<a href="./drs-teeth.php">
 				<img src="./images/drs/5.jpg" alt="">
@@ -82,6 +82,33 @@
 			<a href="./drs-nose.php">
 				<img src="./images/drs/9.jpg" alt="">
 			</a>
+		</li>
+	</ul>
+	<div class="badboy"></div>
+	<ul>
+			<li>
+			<a href="./drs-eye.php">
+				<img src="./images/drs/eye/1.jpg" alt="">
+			</a>
+			</li>
+		<li>
+			<a href="./drs-eye.php">
+				<img src="./images/drs/eye/2.jpg" alt="">
+			</a>
+		</li>
+		<li>
+			<a href="./drs-eye.php">
+				<img src="./images/drs/eye/3.jpg" alt="">
+			</a>
+		</li>
+		<li>
+			<div class="tit"><h2>علاج العین.....</h2></div>
+			<div class="text">
+				<p>
+					الليزك وتصحيح الإبصار :<br />
+					إن الإجماع الذى تحظى به عملية الليزك (عملية الليزر لتصحيح الإبصار، ليزك العيون) فى كل ...
+				</p>
+			</div>
 		</li>
 	</ul>
 	<div class="badboy"></div>

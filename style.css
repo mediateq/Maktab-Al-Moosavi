@@ -15,7 +15,10 @@ a{
 	color: #111;
 	text-align: right;
 }
-
+h2{
+	color: #928B82;
+	
+}
 p,h2{
 	text-align: right;
 	margin: 0;

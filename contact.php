@@ -2,7 +2,7 @@
 
 <section class="contact">
 	<div class="title">
-		<h2>درباره ما</h2>
+		<h2>حول بنا</h2>
 	</div>
 	<div class="location">
 		<div class="text">
@@ -13,7 +13,7 @@
 	</div>
 	<div class="cform">
 		<div class="info">
-			<h2>اطلاعات تماس</h2>
+			<h2>معلومات الاتصال</h2>
 			<p>
 				اطلاعات تماس در این قسمت قرار میگیرد اطلاعات تماس در این قسمت قرار میگیرد اطلاعات تماس در این قسمت قرار میگیرد اطلاعات تماس در این قسمت قرار میگیرد اطلاعات تماس در این قسمت قرار میگیرد اطلاعات تماس در این قسمت قرار میگیرد اطلاعات تماس در این قسمت قرار میگیرد اطلاعات تماس در این قسمت قرار میگیرد اطلاعات تماس در این قسمت قرار میگیرد اطلاعات تماس در این قسمت قرار میگیرد اطلاعات تماس در این قسمت قرار میگیرد اطلاعات تماس در این قسمت قرار میگیرد 
 			</p>
@@ -24,25 +24,25 @@
 			</p>
 			
 			<p>
-				تلفن: 123456789
+				الاتصال: 00989153113066
 			</p>
 			<p>
-				فاکس: 987654321
+				فاکس: 00985117392460
 			</p>
 			<p>
-				ایمیل: 
+				الایمیل: 
 			</p>
 		</div>
 		<div class="form">
-			<h2>فرم تماس</h2>
+			<h2>نموذج الاتصال</h2>
 			<form action="mail.php" method="post" id="contact" target="ifrm">
-				<p>نام و نام خانوادگی <span>*</span></p>
+				<p>الاسم و العائلة <span>*</span></p>
 				<input type="text" class="text" name="name" id="name" autocomplete="off"/>
-				<p>ایمیل <span>*</span></p>
+				<p>الايميل <span>*</span></p>
 				<input	type="text" class="text" name="mail" id="mail" autocomplete="off"/>
 				<p>موضوع <span>*</span></p>
 				<input type="text" class="text" name="subject" id="subject" autocomplete="off" />
-				<p>پیام <span>*</span></p>
+				<p>رسالة <span>*</span></p>
 				<textarea class="messege" name="txt" id="txt"></textarea>
 				<input class="button" type="submit" value="ارسال" />
 			</form>
