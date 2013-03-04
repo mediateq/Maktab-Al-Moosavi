@@ -88,17 +88,17 @@
 	<ul>
 			<li>
 			<a href="./drs-eye.php">
-				<img src="./images/drs/eye/1.jpg" alt="">
+				<img src="./images/drs/drs-eye/1.jpg" alt="">
 			</a>
 			</li>
 		<li>
 			<a href="./drs-eye.php">
-				<img src="./images/drs/eye/2.jpg" alt="">
+				<img src="./images/drs/drs-eye/2.jpg" alt="">
 			</a>
 		</li>
 		<li>
 			<a href="./drs-eye.php">
-				<img src="./images/drs/eye/3.jpg" alt="">
+				<img src="./images/drs/drs-eye/3.jpg" alt="">
 			</a>
 		</li>
 		<li>

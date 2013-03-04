@@ -23,20 +23,20 @@
 	<div class="pics">
 		<ul>
 			<li>
-				<a href="./images/drs-teeth/1.jpg" rel='prettyphoto[gallery1]'>
-					<img src="./images/drs-teeth/1.jpg" alt="">
+				<a href="./images/drs/drs-eye/4.jpg" rel='prettyphoto[gallery1]'>
+					<img src="./images/drs/drs-eye/4.jpg" alt="">
 					<div class="effe"></div>
 				</a>
 			</li>
 			<li>
-				<a href="./images/drs-teeth/2.jpg" rel='prettyphoto[gallery1]'>
-					<img src="./images/drs-teeth/2.jpg" alt="">
+				<a href="./images/drs/drs-eye/4.jpg" rel='prettyphoto[gallery1]'>
+					<img src="./images/drs/drs-eye/5.jpg" alt="">
 					<div class="effe"></div>
 				</a>
 			</li>
 			<li>
-				<a href="./images/drs-teeth/3.jpg" rel='prettyphoto[gallery1]'>
-					<img src="./images/drs-teeth/3.jpg" alt="">
+				<a href="./images/drs/drs-eye/6.jpg" rel='prettyphoto[gallery1]'>
+					<img src="./images/drs/drs-eye/6.jpg" alt="">
 					<div class="effe"></div>
 				</a>
 			</li>
