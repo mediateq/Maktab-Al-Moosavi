@@ -726,6 +726,15 @@ section.reserve .forms label p.personal{
 	width: 99px;
 }
 
+section.reserve .forms label p.select-hotel{
+	display: inline-block;
+	width: 90px;
+}
+
+section.reserve .forms label.hotels select{
+	width: 200px;
+}
+
 section.reserve .forms input.name,
 section.reserve .forms input.family,
 section.reserve .forms input.mail,

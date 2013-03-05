@@ -154,7 +154,49 @@
 	            </select>
             </label>
             <div class="badboy"></div>
-           
+           <label class="hotels"><p class="select-hotel">اولویت اول هتل</p>
+				<select name="yearin" class="year" id="year">
+                	<option>-انتخب-</option>
+                	<option>هتل...</option>
+                	<option>هتل...</option>
+                	<option>هتل...</option>
+                	<option>هتل...</option>
+                	<option>هتل...</option>
+                	<option>هتل...</option>
+					<option>هتل...</option>
+                	<option>هتل...</option>
+               	</select>
+			</label>
+			<div class="badboy"></div>
+			<label class="hotels"><p class="select-hotel">اولویت دوم هتل</p>
+				<select name="yearin" class="year" id="year">
+                	<option>-انتخب-</option>
+                	<option>هتل...</option>
+                	<option>هتل...</option>
+                	<option>هتل...</option>
+                	<option>هتل...</option>
+                	<option>هتل...</option>
+                	<option>هتل...</option>
+					<option>هتل...</option>
+                	<option>هتل...</option>
+               	</select>
+			</label>
+			<div class="badboy"></div>
+			<label class="hotels"><p class="select-hotel">اولویت سوم هتل</p>
+				<select name="yearin" class="year" id="year">
+                	<option>-انتخب-</option>
+                	<option>هتل...</option>
+                	<option>هتل...</option>
+                	<option>هتل...</option>
+                	<option>هتل...</option>
+                	<option>هتل...</option>
+                	<option>هتل...</option>
+					<option>هتل...</option>
+                	<option>هتل...</option>
+               	</select>
+			</label>
+			<div class="badboy"></div>
+
            	<div class="title">
 				<h2>المعلومات الشخصیة</h2>
 			</div>
