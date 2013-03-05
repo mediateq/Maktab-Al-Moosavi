@@ -2,7 +2,7 @@
   font-family: 'Abril Fatface';
   font-style: normal;
   font-weight: 400;
-  src: local('Abril Fatface'), local('AbrilFatface-Regular'), url(http://themes.googleusercontent.com/static/fonts/abrilfatface/v5/X1g_KwGeBV3ajZIXQ9VnDvn8qdNnd5eCmWXua5W-n7c.woff) format('woff');
+  src: local('Abril Fatface'), local('AbrilFatface-Regular'), url('http://themes.googleusercontent.com/static/fonts/abrilfatface/v5/X1g_KwGeBV3ajZIXQ9VnDvn8qdNnd5eCmWXua5W-n7c.woff') format('woff');
 }
 
 menu,ul{
@@ -32,15 +32,6 @@ div{
 	direction: rtl;
 }
 
-.contain{
-	padding-top: 38px;
-	background: url('./images/main-glow.jpg') center repeat-y;
-}
-
-.container{
-	
-}
-
 .ltr{
 	direction: ltr;
 }
@@ -68,6 +59,10 @@ div{
 	-ms-border-radius: 6px;
 	-o-border-radius: 6px;
 	border-radius: 6px;
+}
+
+.contain{
+	padding-top: 38px;
 }
 /*--------------------------------Header Part----------------------------*/
 header{
@@ -351,7 +346,7 @@ footer .about{
 footer .about p{
 	text-align: center;
 	color: #5D5B53;
-	font-size: 15px;
+	font-size: 18px;
 }
 
 footer .about a{
@@ -361,7 +356,7 @@ footer .about a{
 }
 
 footer .about a:hover{
-	color: #DEAE54;
+	color: #948551;
 }
 
 footer .anchor{
@@ -714,7 +709,7 @@ section.reserve .forms label p.check{
 
 section.reserve .forms label p.person-room{
 	display: inline-block;
-	width: 65px;
+	width: 80px;
 }
 
 section.reserve .forms label.person-room select{

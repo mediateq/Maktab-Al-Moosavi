@@ -1,14 +1,14 @@
 			<footer>
-				<div class="copy">
+				<div class="copy ltr">
 					<p>
-						کپی رایت 1391 تمامی حقوق این سایت برای المکتب الموسوی رزرو می باشد.
+						Copyright © 2013 Maktab AlMosawi! All rights reserved.
 					</p>
 				</div>
 				<div class="about">
 					<p>
-						درباره شرکت درباره شرکت درباره شرکت درباره شرکت درباره شرکت درباره شرکت درباره شرکت درباره شرکت درباره شرکت درباره شرکت درباره شرکت درباره شرکت درباره شرکت 
+						هدف ما فقط اقامت شما نیست، هدف ما لذت بردن شما از اقامتتان می باشد
 					</p>
-					<p><a href="http://www.mediateq.ir" target="_blank">طراح mediateq</a></p>
+					<p><a href="http://www.mediateq.ir" target="_blank">Designed by mediateq</a></p>
 				</div>
 				<div class="anchor">
 					<a href="#myAnchor" id="anchor1" class="anchorLink" title="بالا"></a>
