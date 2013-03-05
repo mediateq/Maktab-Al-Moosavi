@@ -500,6 +500,17 @@ section.hotels ul li .tit h2{
 	margin-right: 30px;
 }
 
+section.hotels ul li .tit-dr{
+	height: 50px;
+	background: url('./images/stethoscope.png') right center no-repeat;
+}
+
+section.hotels ul li .tit-dr h2{
+	font-size: 20px;
+	color: #DEAE54;
+	margin-right: 55px;
+}
+
 section.hotels ul li .text p{
 	margin-top: 5px;
 	font-size: 15px;
