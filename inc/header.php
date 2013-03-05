@@ -10,7 +10,7 @@
 	<link rel="stylesheet" href="./style.css" />
 	<script type="text/javascript" src="./js/jquery.js"></script>
 	<script type="text/javascript" src="./js/zepto.js"></script>
-	<script type="text/javascript" src="js/jquery.prettyphoto.js"></script>
+	<script type="text/javascript" src="./js/jquery.prettyphoto.js"></script>
 	<script type="text/javascript" src="./js/jquery.flexslider-min.js"></script>
 	<script type="text/javascript" src="./js/scripts.js"></script>
 	<!--[if lt IE 9]>
