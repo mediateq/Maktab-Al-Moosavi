@@ -2,7 +2,7 @@
 
 <section class="gallery">
 	<div class="title">
-		<h2>مکانهای مذهبی، آثار تاریخی و مکانهای تفریحی</h2>
+		<h2>معرض الصور</h2>
 	</div>
 	<ul>
 		<li>
