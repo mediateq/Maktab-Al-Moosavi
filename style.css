@@ -545,6 +545,9 @@ section.one-hotel .text p{
 	margin-top: 10px;
 	line-height: 2;
 }
+section.one-hotel .text dl{
+	text-align: 	right;
+}
 
 section.one-hotel ul{
 	padding-top: 25px;
