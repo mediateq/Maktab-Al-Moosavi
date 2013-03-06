@@ -5,7 +5,7 @@
 		<div class="title">
 			<h2>إستمارة الحجز</h2>
 		</div>
-		<form action="reserve-mail.php" method="post" target="ifrm">
+		<form action="reserve-mail.php" id="reserve" method="post" target="ifrm">
 			<label><p class="check">تاریخ الوصول</p>
 				<select name="yearin" class="year" id="year">
                 	<option>السنه</option>
@@ -137,7 +137,7 @@
                 </select>
             </label>
 			<label class="num-person"><p class="num-person">عدد الأشخاص</p>
-				<input type="text" name="persons" id="persons" class="persons" placeholder="عدد الأشخاص" />
+				<input type="text" name="persons" id="persons" class="persons ltr" placeholder="1-9" />
             </label>
             <div class="badboy"></div>
            <label class="hotels"><p class="select-hotel">اختیار الاول للفندق</p>
@@ -208,7 +208,7 @@
 			<div class="badboy"></div>
 
 			<label><p class="personal">رقم الهاتف</p>
-				<input type="text" name="phone" id="phone" class="phone ltr" placeholder="985119876543" />
+				<input type="text" name="phone" id="phone" class="phone ltr" placeholder="123-456-7890" />
 			</label>
             <div class="badboy"></div>
 
