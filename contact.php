@@ -8,13 +8,13 @@
 		<div class="text">
 			<p>
 				نحن فی مدینة مشهد المقدسة،لدينا خبرة لعدة سنين في خدمة الزوار و الحجوزات للفنادق و طيران و خدمات التوصيل و السياحية في مدينة مشهد المقدسة.و أيضا لدينا خبرة للتعامل مع الحملات و تسهيل امورهم ىاخل ايران.نحن بامكانية التكلم باللغتين العربية و الفارسية نستطيع أن نوفر خدمة أحسن و بمستوی أكثر للزوار الكرام و معنا لا تقلقون في التعامل داخل ايران.<br />
-				سيد عباس الموسوي - سيد حسن الموسوي
+				
 			</p>	
 		</div>
 	</div>
 	<div class="cform">
 		<div class="info">
-			<h2>معلومات الاتصال</h2>
+			<h2>اتصل بنا</h2>
 			<p>
 				للاستفسارت و التعلیقات ارسلوا لنا رسالة عبر الموقع او اتصلوا بنا و سوف نجيب علي اسئلتكم بأسرع وقت.لحجز الفنادق املأ استمارة الحجز و ارسلها الينا.و أيضا لموعد العيادة ارسلوا رسالة من الموقع أو عبر الايميل.
 			</p><be />			
@@ -36,15 +36,15 @@
 			</p>
 		</div>
 		<div class="form">
-			<h2>نموذج الاتصال</h2>
+			<h2> راسلنا</h2>
 			<form action="mail.php" method="post" id="contact" target="ifrm">
-				<p>الاسم و العائلة <span>*</span></p>
+				<p>الاسم<span>*</span></p>
 				<input type="text" class="text" name="name" id="name" autocomplete="off"/>
 				<p>الايميل <span>*</span></p>
 				<input	type="text" class="text" name="mail" id="mail" autocomplete="off"/>
-				<p>موضوع <span>*</span></p>
+				<p>رقم الجوال<span>*</span></p>
 				<input type="text" class="text" name="subject" id="subject" autocomplete="off" />
-				<p>رسالة <span>*</span></p>
+				<p>الرسالة<span>*</span></p>
 				<textarea class="messege" name="txt" id="txt"></textarea>
 				<input class="button" type="submit" value="ارسال" />
 			</form>

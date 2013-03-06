@@ -8,15 +8,10 @@
 		<form action="reserve-mail.php" method="post" target="ifrm">
 			<label><p class="check">تاریخ الوصول</p>
 				<select name="yearin" class="year" id="year">
-                	<option>الستة</option>
+                	<option>السنه</option>
                 	<option>2013</option>
                 	<option>2014</option>
                 	<option>2015</option>
-                	<option>2016</option>
-                	<option>2017</option>
-                	<option>2018</option>
-                	<option>2019</option>
-                	<option>2020</option>
                	</select>
 				<select name="monthin" class="month" id="month">
 	                <option>الشهر</option>
@@ -71,16 +66,11 @@
 			<div class="badboy"></div>
 			<label><p class="check">تاريخ المغاىرة</p>
 				<select name="yearout" class="year" id="year">
-                	<option>الستة</option>
+                	<option>السنه</option>
                 	<option>2013</option>
                 	<option>2014</option>
                 	<option>2015</option>
-                	<option>2016</option>
-                	<option>2017</option>
-                	<option>2018</option>
-                	<option>2019</option>
-                	<option>2020</option>
-               	</select>
+                </select>
 				<select name="monthout" class="month" id="month">
 	                <option>الشهر</option>
 	                <option>January</option>
@@ -132,7 +122,7 @@
 				</select>
 			</label>
 			<div class="badboy"></div>
-			<label class="person-room"><p class="person-room">تعداد الشخاص</p>
+			<label class="person-room"><p class="person-room">عدد الأشخاص</p>
 				<select name="person" class="person" id="person">
 	                <option>-انتخب-</option>
 	                <option>1</option>
@@ -144,17 +134,22 @@
 	            </select>
             </label>
             <div class="badboy"></div>
-            <label class="person-room"><p class="person-room">تعداد اتاق ها</p>
+            <label class="person-room"><p class="person-room">نوع الغرفة</p>
 				<select name="room" class="room" id="room">
 	                <option>-انتخب-</option>
-	                <option>1</option>
-	                <option>2</option>
-	                <option>3</option>
-	                <option>اکثر</option>
-	            </select>
+	                <option>الغرفة المفردة</option>
+	                <option>الغرفة المزدوجة</option>
+	                <option>الغرفة الثلاثية</option>
+	                <option>الغرفة الرباعية</option>
+                    <option>سويت لشخصين</option>
+                    <option>سويت غرفتين و صالة</option>
+                    <option>دبل كونكت</option>
+                    <option>شقة غرفتين و صالة</option>
+                    <option>فول بورد</option>
+                </select>
             </label>
             <div class="badboy"></div>
-           <label class="hotels"><p class="select-hotel">اولویت اول هتل</p>
+           <label class="hotels"><p class="select-hotel">اختیار الاول للفندق</p>
 				<select name="yearin" class="year" id="year">
                 	<option>-انتخب-</option>
                 	<option>هتل...</option>
@@ -168,7 +163,7 @@
                	</select>
 			</label>
 			<div class="badboy"></div>
-			<label class="hotels"><p class="select-hotel">اولویت دوم هتل</p>
+			<label class="hotels"><p class="select-hotel">اختیار الثانی للفندق</p>
 				<select name="yearin" class="year" id="year">
                 	<option>-انتخب-</option>
                 	<option>هتل...</option>
@@ -182,7 +177,7 @@
                	</select>
 			</label>
 			<div class="badboy"></div>
-			<label class="hotels"><p class="select-hotel">اولویت سوم هتل</p>
+			<label class="hotels"><p class="select-hotel">اختیار الثالث للفندق </p>
 				<select name="yearin" class="year" id="year">
                 	<option>-انتخب-</option>
                 	<option>هتل...</option>
@@ -200,15 +195,7 @@
            	<div class="title">
 				<h2>المعلومات الشخصیة</h2>
 			</div>
-			<label>
-				<input type="radio" name="gender" id="gender" class="gender" value="آقا" />
-				<p class="gender">آقا</p>
-			</label>
-			<label>
-				<input type="radio" name="gender" id="gender" class="gender" value="خانم" />
-				<p class="gender">خانم</p>
-			</label>
-			<div class="badboy"></div>
+			<div class="badboy"></div><br />
 			<label><p class="personal">الاسم</p>
 				<input type="text" name="name" id="name" class="name" placeholder="الاسم" />
 			</label>
