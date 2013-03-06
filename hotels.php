@@ -56,28 +56,28 @@
 		</li>
 	</ul>
 	<div class="badboy"></div>
-		<ul>
+	<ul>
 		<li>
-			<div class="tit"><h2>خلیج فارس</h2></div>
+			<div class="tit"><h2>فندق قصر الماس الدولي</h2></div>
 			<div class="text">
 				<p>
-					الفندق قصر طلایي الدولي،ثاني فندق من مجموعة فنادق قصر الدولي و هو اکبر فندق في مدینة مشهد المقدسة قد تم بناءه فی سنة 2012 ...
+					نکات مورد نظر در مورد هتل نکات مورد نظر در مورد هتل نکات مورد نظر در مورد هتل نکات مورد نظر در مورد هتل نکات مورد نظر در مورد هتل نکات مورد نظر در مورد هتل نکات...
 				</p>
 			</div>
 		</li>
 		<li>
-			<a href="./khalijefars.php">
-				<img src="./images/hotels/ghasrtalae/1.jpg" alt="">
+			<a href="./ghasrealmas.php">
+				<img src="./images/hotels/ghasrealmas/4.jpg" alt="">
 			</a>
 		</li>
 		<li>
-			<a href="./khalijefars.php">
-				<img src="./images/hotels/ghasrtalae/2.jpg" alt="">
+			<a href="./ghasrealmas.php">
+				<img src="./images/hotels/ghasrealmas/5.jpg" alt="">
 			</a>
 		</li>
 		<li>
-			<a href="./khalijefars.php">
-				<img src="./images/hotels/ghasrtalae/3.jpg" alt="">
+			<a href="./ghasrealmas.php">
+				<img src="./images/hotels/ghasrealmas/6.jpg" alt="">
 			</a>
 		</li>
 	</ul>

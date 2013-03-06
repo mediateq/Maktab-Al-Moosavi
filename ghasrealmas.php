@@ -2,7 +2,7 @@
 
 <section class="one-hotel">
 	<div class="title">
-		<h2>قصر الماس</h2>
+		<h2>فندق قصر الماس الدولي</h2>
 	</div>
 	<div class="text">
 		<p>
