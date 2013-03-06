@@ -17,7 +17,11 @@ a{
 }
 h2{
 	color: #928B82;
-	
+}
+h3{
+	text-align: right;
+	margin: 0;
+	color: #928B82
 }
 p,h2{
 	text-align: right;
