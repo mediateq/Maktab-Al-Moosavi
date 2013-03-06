@@ -737,39 +737,41 @@ section.reserve .forms label p.check{
 	width: 80px;
 }
 
-section.reserve .forms label p.person-room{
+section.reserve .forms label p.type-room{
 	display: inline-block;
 	width: 80px;
 }
 
-section.reserve .forms label.person-room select{
-	width: 210px;
+section.reserve .forms label.type-room select{
+	width: 200px;
 }
 
-section.reserve .forms label p.gender{
+section.reserve .forms label p.num-person{
 	display: inline-block;
-	width: 30px;
+	width: 84px;
+	margin-right: 10px;
 }
 
-section.reserve .forms label p.personal{
-	display: inline-block;
-	width: 99px;
+section.reserve .forms label.num-person input{
+	width: 141px;
+	height: 28px;
 }
 
 section.reserve .forms label p.select-hotel{
 	display: inline-block;
-	width: 90px;
+	width: 100px;
 }
 
 section.reserve .forms label.hotels select{
-	width: 200px;
+	width: 220px;
 }
 
 section.reserve .forms input.name,
-section.reserve .forms input.family,
+section.reserve .forms input.country,
 section.reserve .forms input.mail,
-section.reserve .forms input.phone{
-	width: 420px;
+section.reserve .forms input.phone,
+section.reserve .forms input.extra{
+	width: 523px;
 	height: 28px;
 }
 

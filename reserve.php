@@ -122,31 +122,22 @@
 				</select>
 			</label>
 			<div class="badboy"></div>
-			<label class="person-room"><p class="person-room">عدد الأشخاص</p>
-				<select name="person" class="person" id="person">
-	                <option>-انتخب-</option>
-	                <option>1</option>
-	                <option>2</option>
-	                <option>3</option>
-	                <option>4</option>
-	                <option>5</option>
-	                <option>اکثر</option>
-	            </select>
-            </label>
-            <div class="badboy"></div>
-            <label class="person-room"><p class="person-room">نوع الغرفة</p>
-				<select name="room" class="room" id="room">
-	                <option>-انتخب-</option>
-	                <option>الغرفة المفردة</option>
-	                <option>الغرفة المزدوجة</option>
-	                <option>الغرفة الثلاثية</option>
-	                <option>الغرفة الرباعية</option>
+            <label class="type-room"><p class="type-room">نوع الغرفة</p>
+                <select name="room" class="room" id="room">
+                    <option>-انتخب-</option>
+                    <option>الغرفة المفردة</option>
+                    <option>الغرفة المزدوجة</option>
+                    <option>الغرفة الثلاثية</option>
+                    <option>الغرفة الرباعية</option>
                     <option>سويت لشخصين</option>
                     <option>سويت غرفتين و صالة</option>
                     <option>دبل كونكت</option>
                     <option>شقة غرفتين و صالة</option>
                     <option>فول بورد</option>
                 </select>
+            </label>
+			<label class="num-person"><p class="num-person">عدد الأشخاص</p>
+				<input type="text" name="persons" id="persons" class="persons" placeholder="عدد الأشخاص" />
             </label>
             <div class="badboy"></div>
            <label class="hotels"><p class="select-hotel">اختیار الاول للفندق</p>
@@ -201,22 +192,29 @@
            	<div class="title">
 				<h2>المعلومات الشخصیة</h2>
 			</div>
-			<div class="badboy"></div><br />
 			<label><p class="personal">الاسم</p>
 				<input type="text" name="name" id="name" class="name" placeholder="الاسم" />
 			</label>
 			<div class="badboy"></div>
-			<label><p class="personal">المعلومات الاضافیة</p>
-				<input type="text" name="family" id="family" class="family" placeholder="المعلومات الاضافیة" />
+
+			<label><p class="personal">البلاد</p>
+				<input type="text" name="country" id="country" class="country" placeholder="البلاد" />
 			</label>
 			<div class="badboy"></div>
+
 			<label><p class="personal">الا یمیل</p>
 				<input type="text" name="mail" id="mail" class="mail ltr" placeholder="someone@example.com" />
 			</label>
 			<div class="badboy"></div>
+
 			<label><p class="personal">رقم الهاتف</p>
 				<input type="text" name="phone" id="phone" class="phone ltr" placeholder="985119876543" />
 			</label>
+            <div class="badboy"></div>
+
+            <label><p class="personal">المعلومات الاضافیة</p>
+                <input type="text" name="extra" id="extra" class="extra" placeholder="المعلومات الاضافیة" />
+            </label>
 			<div class="badboy"></div>
 			
 			<div class="title">
