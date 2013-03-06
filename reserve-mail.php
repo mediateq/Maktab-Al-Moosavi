@@ -21,7 +21,7 @@
 	<?php
 		error_reporting(E_ALL ^ E_NOTICE);
 
-		$admin = 'info@mediateq.ir';
+		$admin = 'info@maktabalmosawi.ir';
 
 		$yearin = $_POST['yearin'];
 		$monthin = $_POST['monthin'];
@@ -31,42 +31,44 @@
 		$monthout = $_POST['monthout'];
 		$dayout = $_POST['dayout'];
 
-		$person = $_POST['person'];
+		$persons = $_POST['persons'];
 		$room = $_POST['room'];
 
-		$gender = $_POST['gender'];
+		$priority1 = $_POST['priority1'];
+		$priority2 = $_POST['priority2'];
+		$priority3 = $_POST['priority3'];
+
 		$name    = $_POST['name'];
-		$family    = $_POST['family'];
+		$country    = $_POST['country'];
 		$email   = $_POST['mail'];
 		$phone = $_POST['phone'];
-
-		$bedextra = $_POST['bedextra'];
-		$rentcar = $_POST['carrent'];
-		$visitdr = $_POST['visitdr'];
+		$extra = $_POST['extra'];
 
 		$accept = $_POST['accept'];
-		
-		
-		$subject = "Order book";
+				
+		$subject = "سفارش رزرو";
+
 		$message = "$gender $name $family
+				از کشور: $country
 			    تلفن: $phone
 			    ایمیل: $email
 			    تاریخ ورود: $yearin-$monthin-$dayin 
 			    تاریخ خروج: $yearout-$monthout-$dayout
 			    تعداد نفرات: $person
-			    تعداد اتاقها: $room
-			    $bedextra
-			    $rentcar
-			    $visitdr";
+			    نوع اتاق: $room
+			    اولویت اول : $priority1
+			    اولویت دوم : $priority2
+			    اولویت سوم : $priority3
+			    توضیحات اضافی: $extra";
 		
 
 		if ($accept) {
-			if( strlen($name)>=3 && strlen($family)>=5  && strlen($email)>=7 && strlen($phone)>=12 ){
+			if( strlen($name)>=8 && strlen($country)>=2  && strlen($email)>=7 && strlen($persons)>=1 ){
 				if( @mail (
 						$admin,
 						$subject,
 						$message,
-						"From:$gender $name $family $email"
+						"From: $name $email"
 						
 					 )
 				){

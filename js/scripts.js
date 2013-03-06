@@ -26,7 +26,7 @@ $(document).ready(function() {
 });
 //END Anchor link for scroll
 
-// Begin valid form 
+
 function validateText(str,len){
     return str.length >= len;
 }
@@ -37,6 +37,25 @@ function validateEmail(str){
     return emailPattern.test(str);
 }
 
+function validatePhone(str){
+    var phonePattern = /^([0-9]( |-)?)?(\(?[0-9]{3}\)?|[0-9]{3})( |-)?([0-9]{3}( |-)?[0-9]{4}|[a-zA-Z0-9]{7})$/;
+
+    return phonePattern.test(str);
+}
+
+function validateSelect(id){
+    var select = $('select' + id);  
+
+    if (select.value==1) {
+        id.removeClass('err').addClass('ok');
+    }
+    else{
+        id.removeClass('ok').addClass('err');
+        err= true;
+    }
+}
+
+// Begin valid form 
 (function($){
     $(function(){
         $('form#contact').submit(function(){
@@ -94,16 +113,84 @@ function validateEmail(str){
     });
 })(Zepto);
 // END valid form
-
-//Active menu
-/* (function($){
+// Begin reserve form 
+(function($){
     $(function(){
-        $('div.menu li').click(function(){
-            $(this).addClass('active');
-        })
+        $('form#reserve').submit(function(){
+            var feild, err=false;
+    
+            target = $('#name');
+    
+            if (validateText( target.val(), 9 )) {
+    
+                target.removeClass('err').addClass('ok');
+    
+            }else{
+    
+                target.removeClass('ok').addClass('err');
+                err= true;
+            }
+
+            target = $('#country');
+    
+            if (validateText( target.val(), 2 )) {
+    
+                target.removeClass('err').addClass('ok');
+    
+            }else{
+    
+                target.removeClass('ok').addClass('err');
+                err= true;
+            }
+    
+            target = $('#mail');
+    
+            if (validateEmail(target.val())) { 
+    
+                target.removeClass('err').addClass('ok');
+            }else {
+    
+                target.removeClass('ok').addClass('err');
+                err=true;
+            }
+
+            target = $('#persons');
+    
+            if (validateText( target.val(), 1 )) {
+    
+                target.removeClass('err').addClass('ok');
+    
+            }else{
+    
+                target.removeClass('ok').addClass('err');
+                err= true;
+            }
+
+            target = $('#phone');
+  
+            if (validatePhone(target.val())) { 
+    
+                target.removeClass('err').addClass('ok');
+            }else {
+    
+                target.removeClass('ok').addClass('err');
+                err=true;
+            }
+
+            target = $('#year');
+            validateSelect(target);
+
+            target = $('#month');
+            validateSelect(target);
+
+            target = $('#day');
+            validateSelect(target);
+
+            target = $('#room');
+            validateSelect(target);
+
+            return !err;
+        });
     });
-})(Zepto); */
-
-
-
-   
+})(Zepto);
+// End reserve form
