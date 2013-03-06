@@ -517,10 +517,16 @@ section.hotels ul li .text p{
 }
 
 section.hotels .but{
-	margin-top: 40px;
+	margin-top: 30px;
 }
 
 section.hotels .but a:hover{
+	color: #DEAE54;
+}
+
+section.hotels .hotels-map a p{
+	margin-top: 20px;
+	font-size: 18px;
 	color: #DEAE54;
 }
 /*--------------------------------One-hotel Page----------------------------*/
