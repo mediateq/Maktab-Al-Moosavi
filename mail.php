@@ -21,7 +21,7 @@
 	<?php
 		error_reporting(E_ALL ^ E_NOTICE);
 
-		$admin = 'info@mediateq.ir';
+		$admin = 'info@maktabalmosawi.ir';
 
 		$name    = $_POST['name'];
 		$email   = $_POST['mail'];
