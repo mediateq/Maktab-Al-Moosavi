@@ -53,9 +53,9 @@
 	<div class="middle">
 		<div class="works">
 			<div class="first">
-				<div class="tit"><h2>رزرو هتل</h2></div>
+				<div class="tit"><h2>الفنادق</h2></div>
 				<div class="pic">
-					<a href="#"><img src="./images/img1.jpg" alt="reserve hotel"></a>
+					<a href="./hotels.php"><img src="./images/hotels/darvishi/1.jpg" alt="reserve hotel"></a>
 				</div>
 				<div class="text">
 					<p>
@@ -63,29 +63,31 @@
 					</p>
 				</div>
 				<div class="but left">
-					<a href="#">بیشتر</a>
+					<a href="#">للمزید</a>
 				</div>
 				<div class="badboy"></div>
 			</div>
 			<div class="second">
-				<div class="tit"><h2>رزرو ماشین</h2></div>
+				<div class="tit"><h2>عروض خاصة</h2></div>
 				<div class="pic">
 					<a href="#"><img src="./images/img2.jpg" alt="reserve hotel"></a>
 				</div>
 				<div class="text">
 					<p>
-						متن مورد نظر متن مورد نظر متن مورد نظر متن مورد نظر متن مورد نظر متن مورد نظر متن مورد نظر...
+						انتظروا عروض الخاصة لمكتب الموسوي لانحاء مدن ايران:شمال ايران-قم المقدسة-اصفهان-جزيرة كيش.
+أسعار ممتازه للأشخاص و الحملات،انتظرونا... 
+
 					</p>
 				</div>
 				<div class="but left">
-					<a href="#">بیشتر</a>
+					<a href="#">للمزید</a>
 				</div>
 				<div class="badboy"></div>
 			</div>
 			<div class="third">
-				<div class="tit"><h2>رزرو دکتر</h2></div>
+				<div class="tit"><h2>خدمات طبیه</h2></div>
 				<div class="pic">
-					<a href="#"><img src="./images/img3.jpg" alt="reserve hotel"></a>
+					<a href="./drs.php"><img src="./images/img3.jpg" alt="reserve hotel"></a>
 				</div>
 				<div class="text">
 					<p>
@@ -93,7 +95,7 @@
 					</p>
 				</div>
 				<div class="but left">
-					<a href="#">بیشتر</a>
+					<a href="#">للمزید</a>
 				</div>
 				<div class="badboy"></div>
 			</div>
@@ -115,7 +117,7 @@
 				<a href="#">add Viber number</a>
 				<div class="hline"></div>
 				<p>
-					پیغام مورد نظر پیغام مورد نظر پیغام مورد نظر 
+					
 				</p>
 			</div>
 			<div class="third">
@@ -125,7 +127,7 @@
 				<a href="#">add wahts up</a>
 				<div class="hline"></div>
 				<p>
-					پیغام مورد نظر پیغام مورد نظر پیغام مورد نظر 
+					
 				</p>
 			</div>
 			<div class="badboy"></div>
