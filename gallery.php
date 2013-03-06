@@ -6,39 +6,39 @@
 	</div>
 	<ul>
 		<li>
-			<a href="./images/gallery/1.jpg" rel="prettyphoto[gallery1]" title="حرم مقدس امام رضا (ع)">
+			<a href="./images/gallery/1.jpg" rel="prettyphoto[gallery1]" title="حرم الامام رضا (ع)">
 				<img src="./images/gallery/1.jpg" alt="">
 				<div class="effe"></div>
 			</a>
-			<p>حرم مقدس امام رضا (ع)</p>
+			<p>حرم الامام رضا (ع)</p>
 		</li>
 		<li>
-			<a href="./images/gallery/2.jpg" rel='prettyphoto[gallery1]' title="موزه تاریخی و آرامگاه فردوسی">
+			<a href="./images/gallery/2.jpg" rel='prettyphoto[gallery1]' title="متحف و مرقد الشاعر الایراني فرىوسي">
 				<img src="./images/gallery/2.jpg" alt="">
 				<div class="effe"></div>
 			</a>
-			<p>موزه تاریخی و آرامگاه فردوسی</p>
+			<p>متحف و مرقد الشاعر الایراني فرىوسي</p>
 		</li>
 		<li>
-			<a href="./images/gallery/3.jpg" rel='prettyphoto[gallery1]' title="آبشار اخلمد">
+			<a href="./images/gallery/3.jpg" rel='prettyphoto[gallery1]' title="مسجد جوهرشاد">
 				<img src="./images/gallery/3.jpg" alt="">
 				<div class="effe"></div>
 			</a>
-			<p>آبشار اخلمد</p>
+			<p>مسجد جوهرشاد</p>
 		</li>
 		<li>
-			<a href="./images/gallery/4.jpg" rel='prettyphoto[gallery1]' title="شیشلیک شاندیز">
+			<a href="./images/gallery/4.jpg" rel='prettyphoto[gallery1]' title="حرم الامام رضا (ع)">
 				<img src="./images/gallery/4.jpg" alt="">
 				<div class="effe"></div>
 			</a>
-			<p>شیشلیک شاندیز</p>
+			<p>حرم الامام رضا (ع)</p>
 		</li>
 		<li>
-			<a href="./images/gallery/5.jpg" rel='prettyphoto[gallery1]' title="آرامگاه تاریخی حکیم خیام">
+			<a href="./images/gallery/5.jpg" rel='prettyphoto[gallery1]' title="متحف الملك نادر">
 				<img src="./images/gallery/5.jpg" alt="" >
 				<div class="effe"></div>
 			</a>
-			<p>آرامگاه تاریخی حکیم خیام</p>
+			<p>متحف الملك نادر</p>
 		</li>
 		<li>
 			<a href="./images/gallery/6.jpg" rel='prettyphoto[gallery1]' title="سرزمین موجهای آبی مشهد">
@@ -48,25 +48,25 @@
 			<p>سرزمین موجهای آبی مشهد</p>
 		</li>
 		<li>
-			<a href="./images/gallery/7.jpg" rel='prettyphoto[gallery1]' title="سد و منطقه تفزیحی چالیدره">
+			<a href="./images/gallery/7.jpg" rel='prettyphoto[gallery1]' title="جالیدره">
 				<img src="./images/gallery/7.jpg" alt="">
 				<div class="effe"></div>
 			</a>
-			<p>سد و منطقه تفزیحی چالیدره</p>
+			<p>جالیدره</p>
 		</li>
 		<li>
-			<a href="./images/gallery/8.jpg" rel='prettyphoto[gallery1]' title="بزرگترین و با شکوه ترین هتل ها">
+			<a href="./images/gallery/8.jpg" rel='prettyphoto[gallery1]' title="ریش شاندیز">
 				<img src="./images/gallery/8.jpg" alt="">
 				<div class="effe"></div>
 			</a>
-			<p>بزرگترین و با شکوه ترین هتل ها</p>
+			<p>ریش شاندیز</p>
 		</li>
 		<li>
-			<a href="./images/gallery/9.jpg" rel='prettyphoto[gallery1]' title="برجها و مراکز تجاری خرید">
+			<a href="./images/gallery/9.jpg" rel='prettyphoto[gallery1]' title="مجمع الماس">
 				<img src="./images/gallery/9.jpg" alt="">
 				<div class="effe"></div>
 			</a>
-			<p>برجها و مراکز تجاری خرید</p>
+			<p>مجمع الماس</p>
 		</li>
 	</ul>
 	<div class="badboy"></div>
