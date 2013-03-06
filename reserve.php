@@ -152,42 +152,48 @@
            <label class="hotels"><p class="select-hotel">اختیار الاول للفندق</p>
 				<select name="yearin" class="year" id="year">
                 	<option>-انتخب-</option>
-                	<option>هتل...</option>
-                	<option>هتل...</option>
-                	<option>هتل...</option>
-                	<option>هتل...</option>
-                	<option>هتل...</option>
-                	<option>هتل...</option>
-					<option>هتل...</option>
-                	<option>هتل...</option>
+                	<option>فندق قصر طلایي الدولي</option>
+                    <option>فندق درویشي الفاخر</option>
+                    <option>فندق قصر الماس الدولي</option>
+                    <option>فندق طوس</option>
+                    <option>فندق الجواد</option>
+                    <option>فردوس</option>
+                    <option>بشری</option>
+                    <option>کیانا</option>
+                    <option>سهند</option>
+                    <option>خلیج فارس</option>
                	</select>
 			</label>
 			<div class="badboy"></div>
 			<label class="hotels"><p class="select-hotel">اختیار الثانی للفندق</p>
 				<select name="yearin" class="year" id="year">
                 	<option>-انتخب-</option>
-                	<option>هتل...</option>
-                	<option>هتل...</option>
-                	<option>هتل...</option>
-                	<option>هتل...</option>
-                	<option>هتل...</option>
-                	<option>هتل...</option>
-					<option>هتل...</option>
-                	<option>هتل...</option>
+                	<option>فندق قصر طلایي الدولي</option>
+                	<option>فندق درویشي الفاخر</option>
+                	<option>فندق قصر الماس الدولي</option>
+                	<option>فندق طوس</option>
+                	<option>فندق الجواد</option>
+                	<option>فردوس</option>
+					<option>بشری</option>
+                    <option>کیانا</option>
+                    <option>سهند</option>
+                	<option>خلیج فارس</option>
                	</select>
 			</label>
 			<div class="badboy"></div>
-			<label class="hotels"><p class="select-hotel">اختیار الثالث للفندق </p>
+			<label class="hotels"><p class="select-hotel">اختیار الثالث للفندق</p>
 				<select name="yearin" class="year" id="year">
                 	<option>-انتخب-</option>
-                	<option>هتل...</option>
-                	<option>هتل...</option>
-                	<option>هتل...</option>
-                	<option>هتل...</option>
-                	<option>هتل...</option>
-                	<option>هتل...</option>
-					<option>هتل...</option>
-                	<option>هتل...</option>
+                	<option>فندق قصر طلایي الدولي</option>
+                    <option>فندق درویشي الفاخر</option>
+                    <option>فندق قصر الماس الدولي</option>
+                    <option>فندق طوس</option>
+                    <option>فندق الجواد</option>
+                    <option>فردوس</option>
+                    <option>بشری</option>
+                    <option>کیانا</option>
+                    <option>سهند</option>
+                    <option>خلیج فارس</option>
                	</select>
 			</label>
 			<div class="badboy"></div>
@@ -232,10 +238,10 @@
 	</div>
 	<div class="detail">
 		<div class="title">
-			<h2>شرایط و مقررات</h2>
+			<h2>الضوابط و القوانین</h2>
 			<p>
-				شرایط مد نظر در اینجا قید شو شرایط مد نظر در اینجا قید شو شرایط مد نظر در اینجا قید شو شرایط مد نظر در اینجا قید شو شرایط مد نظر در اینجا قید شو شرایط مد نظر در اینجا قید شو شرایط مد نظر در اینجا قید شو شرایط مد نظر در اینجا قید شو شرایط مد نظر در اینجا قید شو شرایط مد نظر در اینجا قید شو شرایط مد نظر در اینجا قید شو شرایط مد نظر در اینجا قید شو شرایط مد نظر در اینجا قید شو شرایط مد نظر در اینجا قید شو شرایط مد نظر در اینجا قید شو شرایط مد نظر در اینجا قید شو شرایط مد نظر در اینجا قید شو شرایط مد نظر در اینجا قید شو شرایط مد نظر در اینجا قید شو شرایط مد نظر در اینجا قید شو 
-			</p>
+				الزائر العزيز املأ الاستماره التي موجودة هنا و تأكد من صحتها ثم ارسلها الينا. لديكم ثلاث اختيارات للفنادق، نحن نسعي أن نحجز لكم اول فندق و لكن اذا كانت الأيام زحمة والفنادق ممتلئه سوف نستفيد من باقي الاختيارات لأن لا يفوت الوقت ولا يذهب الحجز منكم .بعد ما ترسلون الرسالة الينا سوف نحجز لكم السكن المذكور ومن تم نرسل لكم رسالة عبر الانترنيت أو نتصل بكم و نعطيكم النتيجة في أسرع وقت.ثم بعدها نعطيكم رقم حساب المكتب و نرجوا منكم ان ترسلوا الرسومات الينا لمدة24 ساعة.ثم نرسل لكم وصل الحجز من مكتبا عبر الانترنيت و بهذا الوصل يمكنكم أن تذهبوا الي الفندق في يوم الوصول و تسكنون فيه و نتمنی لكم اقامة جيدة و جميلة.
+			<br /><br />من أراد أن يكنسل السكن يجب أن يخبرنا قبل72 ساعة والا تحتسب ليلة علي المسافر.واذا أردتم خدمات أكثر من عندنا اكتبوا لنا المطلوب وسوف نسعي لتقديمها.</p>سيد عباس الموسوي
 		</div>
 
 		<div class="title">
