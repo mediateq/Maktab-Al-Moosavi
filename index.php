@@ -35,7 +35,14 @@
 			  				</div>
 			  			</div>
 			  		</li>
-			  		<li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even" style="width: 100%; float: left; margin-right: -100%;">
+			  		<li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-odd" style="width: 100%; float: left; margin-right: -100%;">
+			  			<div class="views-field views-field-field-slide-image">
+			  				<div class="field-content">
+			  					<img src="./images/slider/slide4.jpg" alt="">
+			  				</div>
+			  			</div>
+			  		</li>
+			  		<li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-5 views_slideshow_cycle_hidden views-row-even" style="width: 100%; float: left; margin-right: -100%;">
 			  			<div class="views-field views-field-field-slide-image">
 			  				<div class="field-content">
 			  					<img src="./images/slider/slide4.jpg" alt="">
