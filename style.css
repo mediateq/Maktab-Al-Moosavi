@@ -680,6 +680,11 @@ section.contact .cform .info{
 	width: 			410px;
 	min-height: 	400px;
 }
+section.contact .cform .info p span{
+	float: 			left;
+	margin-left: 	150px;
+}
+
 /*--------------------------------Reserve Page----------------------------*/
 section.reserve{
 	background-color: #F8F8F8;
