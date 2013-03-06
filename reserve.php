@@ -202,7 +202,7 @@
 			</label>
 			<div class="badboy"></div>
 
-			<label><p class="personal">الا یمیل</p>
+			<label><p class="personal">الایمیل</p>
 				<input type="text" name="mail" id="mail" class="mail ltr" placeholder="someone@example.com" />
 			</label>
 			<div class="badboy"></div>
