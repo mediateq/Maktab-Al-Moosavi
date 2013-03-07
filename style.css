@@ -857,11 +857,27 @@ section.reserve .forms form .btn{
 }
 
 /*  Table in hotels */
-
+#boxtable{
+	width: 			480px;
+	min-height: 	350px;
+	margin: 		0 auto;
+	margin-bottom: 	30px;
+	margin-top: 	50px;
+	border: 		6px solid #928B82 ;
+	border-radius: 	14px;
+	box-shadow: 	5px 5px 10px 5px;
+}
 #momt{
-	border: 	2px solid red;
-	margin: 	0 auto;
-	margin-top: 30px;
-	width: 		500px;
-	height: 	300px;
+	margin: 		0 auto;
+	margin-top: 	20px;
+	width: 			460px;
+	height: 		300px;
+	text-align: 	center;
+	
+
+
+}
+#momt td, th{
+	border: 		1px solid #928B82 ;
+	vertical-align: middle;
 }
