@@ -13,11 +13,11 @@
 			<p>حرم الامام رضا (ع)</p>
 		</li>
 		<li>
-			<a href="./images/gallery/2.jpg" rel='prettyphoto[gallery1]' title="متحف و مرقد الشاعر الایراني فرىوسي">
+			<a href="./images/gallery/2.jpg" rel='prettyphoto[gallery1]' title="متحف و مرقد الشاعر الایراني فردوسي">
 				<img src="./images/gallery/2.jpg" alt="">
 				<div class="effe"></div>
 			</a>
-			<p>متحف و مرقد الشاعر الایراني فرىوسي</p>
+			<p>متحف و مرقد الشاعر الایراني فردوسي</p>
 		</li>
 		<li>
 			<a href="./images/gallery/3.jpg" rel='prettyphoto[gallery1]' title="مسجد جوهرشاد">
