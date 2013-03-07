@@ -68,6 +68,46 @@ div{
 .contain{
 	padding-top: 38px;
 }
+
+.star5{
+	display: block;
+	width: 85px;
+	height: 17px;
+	margin-right: 30px;
+	background: url('./images/star.png') center no-repeat;
+}
+
+.star4{
+	display: block;
+	width: 68px;
+	height: 17px;
+	margin-right: 30px;
+	background: url('./images/star.png') 0 0 no-repeat;
+}
+
+.star3{
+	display: block;
+	width: 51px;
+	height: 17px;
+	margin-right: 30px;
+	background: url('./images/star.png') 0 0 no-repeat;
+}
+
+.star2{
+	display: block;
+	width: 34px;
+	height: 17px;
+	margin-right: 30px;
+	background: url('./images/star.png') 0 0 no-repeat;
+}
+
+.star1{
+	display: block;
+	width: 17px;
+	height: 17px;
+	margin-right: 30px;
+	background: url('./images/star.png') 0 0 no-repeat;
+}
 /*--------------------------------Header Part----------------------------*/
 header{
 	min-height: 191px;
