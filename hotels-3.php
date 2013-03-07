@@ -7,7 +7,7 @@
 
 	<div class="badboy"></div>
 	<div class="hotels-map">
-		<a href="#?custom=true&width=870&height=580" rel="prettyMap"><p>نقشه هتلها</p></a>
+		<a href="#?custom=true&width=870&height=580" rel="prettyMap"><p>خريطة الفنادق</p></a>
 	</div>
 	<div class="but right">
 		<a href="./hotels.php">1</a>
