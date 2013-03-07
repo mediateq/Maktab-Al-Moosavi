@@ -859,23 +859,26 @@ section.reserve .forms form .btn{
 /*  Table in hotels */
 #boxtable{
 	width: 			480px;
-	min-height: 	350px;
+	min-height: 	370px;
 	margin: 		0 auto;
 	margin-bottom: 	30px;
 	margin-top: 	50px;
 	border: 		6px solid #928B82 ;
 	border-radius: 	14px;
-	box-shadow: 	5px 5px 10px 5px;
+	box-shadow: 	5px 5px 15px 5px;
+	background-color: #
 }
 #momt{
 	margin: 		0 auto;
-	margin-top: 	20px;
+	margin-top: 	10px;
 	width: 			460px;
 	height: 		300px;
 	text-align: 	center;
-	
 
-
+}
+#momt caption{
+	margin-bottom: 15px;
+	font-size: 18px;
 }
 #momt td, th{
 	border: 		1px solid #928B82 ;
