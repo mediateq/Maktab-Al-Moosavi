@@ -80,7 +80,7 @@
 			<div class="third">
 				<div class="tit"><h2>خدمات طبیه</h2></div>
 				<div class="pic">
-					<a href="./drs.php"><img src="./images/img3.jpg" alt="reserve hotel"></a>
+					<a href="./drs.php"><img src="./images/drs-teeth/2.jpg" alt="reserve hotel"></a>
 				</div>
 				<div class="text">
 					<p>
