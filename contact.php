@@ -31,9 +31,6 @@
 			<p>
 				فکس<span>00985117392460</span>
 			</p>
-			<p>
-				بريد الكتروني<span>info@maktabalmosawi.ir</span>
-			</p>
 		</div>
 		<div class="form">
 			<h2> راسلنا</h2>
