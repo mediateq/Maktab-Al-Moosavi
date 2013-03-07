@@ -855,3 +855,13 @@ section.reserve .forms form .btn{
 	border-radius: 6px;
 	margin-left: 10px;
 }
+
+/*  Table in hotels */
+
+#momt{
+	border: 	2px solid red;
+	margin: 	0 auto;
+	margin-top: 30px;
+	width: 		500px;
+	height: 	300px;
+}
