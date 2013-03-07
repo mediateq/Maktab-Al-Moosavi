@@ -34,9 +34,9 @@
 		$persons = $_POST['persons'];
 		$room = $_POST['room'];
 
-		$priority1 = $_POST['priority1'];
-		$priority2 = $_POST['priority2'];
-		$priority3 = $_POST['priority3'];
+		$priority1 = $_POST['prohotels1'];
+		$priority2 = $_POST['prohotels2'];
+		$priority3 = $_POST['prohotels3'];
 
 		$name    = $_POST['name'];
 		$country    = $_POST['country'];

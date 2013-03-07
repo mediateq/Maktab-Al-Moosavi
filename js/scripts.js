@@ -43,14 +43,14 @@ function validatePhone(str){
     return phonePattern.test(str);
 }
 
-function validateSelect(id){
-    var select = $('select' + id);  
-
-    if (select.value==1) {
-        id.removeClass('err').addClass('ok');
+function validateSelect(target){
+    var selected = $(target);
+    
+    if (selected.val() != '0') {
+        selected.removeClass('err').addClass('ok');
     }
     else{
-        id.removeClass('ok').addClass('err');
+        selected.removeClass('ok').addClass('err');
         err= true;
     }
 }
@@ -177,17 +177,16 @@ function validateSelect(id){
                 err=true;
             }
 
-            target = $('#year');
-            validateSelect(target);
-
-            target = $('#month');
-            validateSelect(target);
-
-            target = $('#day');
-            validateSelect(target);
-
-            target = $('#room');
-            validateSelect(target);
+            validateSelect('#yearin');
+            validateSelect('#monthin');
+            validateSelect('#dayin');
+            validateSelect('#yearout');
+            validateSelect('#monthout');
+            validateSelect('#dayout');
+            validateSelect('#room');
+            validateSelect('#prohotels1');
+            validateSelect('#prohotels2');
+            validateSelect('#prohotels3');
 
             return !err;
         });

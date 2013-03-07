@@ -5,16 +5,16 @@
 		<div class="title">
 			<h2>إستمارة الحجز</h2>
 		</div>
-		<form action="reserve-mail.php" id="reserve" method="post" target="ifrm">
+		<form action="reserve-mail.php" name="reserve" id="reserve" method="post" target="ifrm">
 			<label><p class="check">تاریخ الوصول</p>
-				<select name="yearin" class="year" id="year">
-                	<option>السنه</option>
+				<select name="yearin" class="yearin" id="yearin">
+                	<option value="0">السنه</option>
                 	<option>2013</option>
                 	<option>2014</option>
                 	<option>2015</option>
                	</select>
-				<select name="monthin" class="month" id="month">
-	                <option>الشهر</option>
+				<select name="monthin" class="monthin" id="monthin">
+	                <option value="0">الشهر</option>
 	                <option>January</option>
                     <option>February</option>
                     <option>March</option>
@@ -28,8 +28,8 @@
                     <option>November</option>
                     <option>December</option>
           		</select>
-          		<select name="dayin" class="day" id="day">
-	                <option>اليوم</option>
+          		<select name="dayin" class="dayin" id="dayin">
+	                <option value="0">اليوم</option>
 	                <option>1</option>
 	                <option>2</option>
 	                <option>3</option>
@@ -65,14 +65,14 @@
 			</label>
 			<div class="badboy"></div>
 			<label><p class="check">تاريخ المغاىرة</p>
-				<select name="yearout" class="year" id="year">
-                	<option>السنه</option>
+				<select name="yearout" class="yearout" id="yearout">
+                	<option value="0">السنه</option>
                 	<option>2013</option>
                 	<option>2014</option>
                 	<option>2015</option>
                 </select>
-				<select name="monthout" class="month" id="month">
-	                <option>الشهر</option>
+				<select name="monthout" class="monthout" id="monthout">
+	                <option value="0">الشهر</option>
 	                <option>January</option>
                     <option>February</option>
                     <option>March</option>
@@ -86,8 +86,8 @@
                     <option>November</option>
                     <option>December</option>
           		</select>
-          		<select name="dayout" class="day" id="day">
-	                <option>اليوم</option>
+          		<select name="dayout" class="dayout" id="dayout">
+	                <option value="0">اليوم</option>
 	                <option>1</option>
 	                <option>2</option>
 	                <option>3</option>
@@ -124,7 +124,7 @@
 			<div class="badboy"></div>
             <label class="type-room"><p class="type-room">نوع الغرفة</p>
                 <select name="room" class="room" id="room">
-                    <option>-انتخب-</option>
+                    <option value="0">-انتخب-</option>
                     <option>الغرفة المفردة</option>
                     <option>الغرفة المزدوجة</option>
                     <option>الغرفة الثلاثية</option>
@@ -141,8 +141,8 @@
             </label>
             <div class="badboy"></div>
            <label class="hotels"><p class="select-hotel">اختیار الاول للفندق</p>
-				<select name="yearin" class="year" id="year">
-                	<option>-انتخب-</option>
+				<select name="prohotels1" class="prohotels1" id="prohotels1">
+                	<option value="0">-انتخب-</option>
                 	<option>فندق قصر طلایي الدولي</option>
                     <option>فندق درویشي الفاخر</option>
                     <option>فندق قصر الماس الدولي</option>
@@ -157,8 +157,8 @@
 			</label>
 			<div class="badboy"></div>
 			<label class="hotels"><p class="select-hotel">اختیار الثانی للفندق</p>
-				<select name="yearin" class="year" id="year">
-                	<option>-انتخب-</option>
+				<select name="prohotels2" class="prohotels2" id="prohotels2">
+                	<option value="0">-انتخب-</option>
                 	<option>فندق قصر طلایي الدولي</option>
                 	<option>فندق درویشي الفاخر</option>
                 	<option>فندق قصر الماس الدولي</option>
@@ -173,8 +173,8 @@
 			</label>
 			<div class="badboy"></div>
 			<label class="hotels"><p class="select-hotel">اختیار الثالث للفندق</p>
-				<select name="yearin" class="year" id="year">
-                	<option>-انتخب-</option>
+				<select name="prohotels3" class="prohotels3" id="prohotels3">
+                	<option value="0">-انتخب-</option>
                 	<option>فندق قصر طلایي الدولي</option>
                     <option>فندق درویشي الفاخر</option>
                     <option>فندق قصر الماس الدولي</option>
@@ -229,6 +229,7 @@
 			</label>
 			<div class="badboy"></div>
 
+            <input type="reset" class="btn" id="reserv" value="نظيف">
 			<input type="submit" class="btn" id="reserv" value="إرسال">
 			<div class="badboy"></div>
 		</form>
