@@ -197,8 +197,9 @@ section.content .slid-part .slideshow{
 	background: url('./images/slider-shadow.png') 0 bottom repeat-x;
 }
 
-.flexslider .views-field-field-slide-image{
-	border: 13px solid #f5f5f5;
+.flexslider .views-field-field-slide-image {
+	border: 12px solid #f5f5f5;
+	direction: ltr;
 }
 
 .flex-nav-container {
