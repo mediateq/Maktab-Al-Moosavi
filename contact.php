@@ -43,7 +43,8 @@
 				<input type="text" class="text" name="subject" id="subject" autocomplete="off" />
 				<p>الرسالة<span>*</span></p>
 				<textarea class="messege" name="txt" id="txt"></textarea>
-				<input class="button" type="submit" value="ارسال" />
+				<input type="reset" class="btn" id="btn" value="نظيف">
+				<input type="submit" class="btn" id="btn" value="إرسال">
 			</form>
 			<iframe id='ifrm' name='ifrm' src="" frameborder="0" scrolling="no"></iframe>
 		</div>
