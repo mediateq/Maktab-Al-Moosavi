@@ -98,7 +98,7 @@
 				</div>
 				<a href="#?custom=true&width=160&height=207" rel="prettyphoto1"><p>مشهد التقويم الفلكي</p></a>
 				<div class="hline"></div>
-				<a href="#?custom=true&width=288&height=165" rel="prettyphoto2"><p>الطقس في مدينة مشهد</p></a>
+				<a href="#?custom=true&width=305&height=168" rel="prettyphoto2"><p>الطقس في مدينة مشهد</p></a>
 			</div>
 			<div class="second">
 				<div class="pic">
@@ -134,8 +134,8 @@
     	allow_resize: false,
     });
     $("a[rel^='prettyphoto2']").prettyPhoto({
-    	custom_markup: '<div class="scrollable vertical"><div id="test" class="items weatherFeed"><div class="weatherItem odd" style="background-image: url(http://l.yimg.com/a/i/us/nws/weather/gr/30d.png); background-repeat: no-repeat;"><div class="weatherCity">Mashhad</div><div class="weatherTemp">-2°</div><div class="weatherRange">حداکثر دما: 1° حداقل دما: -11°</div><div class="weatherWind">سرعت و جهت باد: E 11.27km/h</div><div class="weatherLink"><a href="http://us.rd.yahoo.com/dailynews/rss/weather/Mashhad__IR/*http://weather.yahoo.com/forecast/IRXX0008_c.html" target="_blank">جزئیات بیشتر</a></div></div></div></div>',
-    	allow_resize: false,
+    	custom_markup: '<iframe src="./weather.php" allowtransparency="true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" align="middle" width="305" height="168"></iframe>',
+    	   	allow_resize: false,
     });
   });
 </script>
