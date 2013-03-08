@@ -328,6 +328,7 @@ section.content .middle .works .first{
 
 section.content .middle .works .tit h2{
 	color: #928b82;
+	font-size: 22px;
 }
 
 section.content .middle .works .pic img{
@@ -397,6 +398,8 @@ footer .copy{
 footer .copy p{
 	color: #9c968e;
 	text-align: center;
+	font-family: 'Arial';
+	font-size: 15px;
 }
 
 footer .about{
@@ -412,7 +415,7 @@ footer .about p{
 footer .about a{
 	text-align: center;
 	color: #5D5B53;
-	font-size: 15px;
+	font-size: 14px;
 }
 
 footer .about a:hover{
@@ -439,6 +442,7 @@ section.gallery{
 section.gallery .title h2{
 	padding-top: 20px;
 	color: #928B82;
+	font-size: 22px;
 }
 
 section.gallery ul{
@@ -501,6 +505,7 @@ section.hotels{
 section.hotels .title h2{
 	padding-top: 20px;
 	color: #928B82;
+	font-size: 22px;
 }
 
 section.hotels ul{
@@ -598,6 +603,7 @@ section.one-hotel{
 section.one-hotel .title h2{
 	padding-top: 20px;
 	color: #928B82;
+	font-size: 22px;
 }
 
 section.one-hotel .text p{
@@ -668,6 +674,7 @@ section.contact{
 section.contact .title h2{
 	padding-top: 20px;
 	color: #928B82;
+	font-size: 22px;
 }
 
 section.contact .cform{
@@ -690,6 +697,7 @@ section.contact .cform .form{
 
 section.contact .cform .form h2{
 	color: #928B82;
+	font-size: 20px;
 }
 
 section.contact .cform .form p{
@@ -708,6 +716,7 @@ section.contact .cform .form input{
 
 section.contact .cform .info h2{
 	color: #928B82;
+	font-size: 20px;
 }
 
 section.contact .cform .info a{
@@ -770,6 +779,7 @@ section.reserve{
 section.reserve .title h2{
 	padding-top: 20px;
 	color: #928B82;
+	font-size: 22px;
 }
 
 section.reserve .forms{
