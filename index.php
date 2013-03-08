@@ -98,7 +98,7 @@
 				</div>
 				<a href="#?custom=true&width=160&height=207" rel="prettyphoto1"><p>مشهد التقويم الفلكي</p></a>
 				<div class="hline"></div>
-				<a href="#?custom=true&width=265&height=130" rel="prettyphoto2"><p>الطقس في مدينة مشهد</p></a>
+				<a href="#?custom=true&width=288&height=165" rel="prettyphoto2"><p>الطقس في مدينة مشهد</p></a>
 			</div>
 			<div class="second">
 				<div class="pic">
@@ -134,7 +134,7 @@
     	allow_resize: false,
     });
     $("a[rel^='prettyphoto2']").prettyPhoto({
-    	custom_markup: '<table style="width: 100%;"><tbody><tr><td align="center"><span id="dnn_ctr1437_View_Label3" class="Normal">وضعیت آب و هوای شهر </span>&nbsp;<span id="dnn_ctr1437_View_LBL_City" style="font-weight:normal;">مشهد</span></td></tr><tr><td align="center"><img id="dnn_ctr1437_View_Image1" src="http://l.yimg.com/a/i/us/we/52/14.gif" style="height:70px;width:70px;border-width:0px;"></td></tr><tr><td align="center"><span id="dnn_ctr1437_View_Label4" class="Normal">دمای فعلی :</span>&nbsp;<span id="dnn_ctr1437_View_LBL_Temp" class="NormalText" style="font-weight:normal;">-5</span></td></tr><tr><td align="center"><span id="dnn_ctr1437_View_Label5" class="Normal">حداکثر دما :</span>&nbsp;<span id="dnn_ctr1437_View_LBL_High" class="NormalText" style="font-weight:normal;">-2</span></td></tr><tr><td align="center"><span id="dnn_ctr1437_View_Label6" class="Normal">حداقل دما :</span>&nbsp;<span id="dnn_ctr1437_View_LBL_Low" class="NormalText" style="font-weight:normal;">-9</span></td></tr></tbody></table>',
+    	custom_markup: '<div class="scrollable vertical"><div id="test" class="items weatherFeed"><div class="weatherItem odd" style="background-image: url(http://l.yimg.com/a/i/us/nws/weather/gr/30d.png); background-repeat: no-repeat;"><div class="weatherCity">Mashhad</div><div class="weatherTemp">-2°</div><div class="weatherRange">حداکثر دما: 1° حداقل دما: -11°</div><div class="weatherWind">سرعت و جهت باد: E 11.27km/h</div><div class="weatherLink"><a href="http://us.rd.yahoo.com/dailynews/rss/weather/Mashhad__IR/*http://weather.yahoo.com/forecast/IRXX0008_c.html" target="_blank">جزئیات بیشتر</a></div></div></div></div>',
     	allow_resize: false,
     });
   });

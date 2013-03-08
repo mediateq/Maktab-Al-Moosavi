@@ -7,6 +7,7 @@
 	<link rel="stylesheet" href="./1styles.css" />
 	<link rel="stylesheet" href="./prettyphoto.css"/>
 	<link rel="stylesheet" href="./flexslider.css">
+	<link rel="stylesheet" href="./weather.css">
 	<link rel="stylesheet" href="./style.css" />
 	<script type="text/javascript" src="./js/jquery.js"></script>
 	<script type="text/javascript" src="./js/zepto.js"></script>
