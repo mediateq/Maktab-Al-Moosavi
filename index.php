@@ -102,9 +102,9 @@
 			</div>
 			<div class="second">
 				<div class="pic">
-					<img src="./images/icon2.png" alt="twitter">
+					<a href="https://twitter.com/MaktabAlMosawi"><img src="./images/icon2.png" alt="twitter"></a>
 				</div>
-				<a href="#">Connect us on twitter</a>
+				<a href="https://twitter.com/MaktabAlMosawi">Connect us on twitter</a>
 				<div class="hline"></div>
 				<p>
 					
