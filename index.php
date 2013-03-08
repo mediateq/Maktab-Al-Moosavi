@@ -104,7 +104,7 @@
 				<div class="pic">
 					<a href="https://twitter.com/MaktabAlMosawi"><img src="./images/icon2.png" alt="twitter"></a>
 				</div>
-				<a href="https://twitter.com/MaktabAlMosawi">Connect us on twitter</a>
+				<a href="https://twitter.com/MaktabAlMosawi">Follow us on twitter</a>
 				<div class="hline"></div>
 				<p>
 					
