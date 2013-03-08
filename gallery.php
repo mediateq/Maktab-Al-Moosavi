@@ -13,13 +13,9 @@
 			<p>حرم الامام رضا (ع)</p>
 		</li>
 		<li>
-<<<<<<< HEAD
+
 			<a href="./images/gallery/gallery1/2.jpg" rel='prettyphoto[gallery1]' title="متحف و مرقد الشاعر الایراني فرىوسي">
 				<img src="./images/gallery/gallery1/2.jpg" alt="">
-=======
-			<a href="./images/gallery/2.jpg" rel='prettyphoto[gallery1]' title="متحف و مرقد الشاعر الایراني فردوسي">
-				<img src="./images/gallery/2.jpg" alt="">
->>>>>>> origin/master
 				<div class="effe"></div>
 			</a>
 			<p>متحف و مرقد الشاعر الایراني فردوسي</p>
