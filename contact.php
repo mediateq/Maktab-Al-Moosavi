@@ -21,7 +21,7 @@
 			<p>
 				العنوان:ایران-مشهد المقدسة-......
 			</p>
-			<a href="#?custom=true&width=870&height=580" rel="prettyphoto">ادرس بر روی نقشه</a>
+			<a href="#?custom=true&width=870&height=580" rel="prettyphoto">العنوان على الخريطة</a>
 			<br /><br />
 			<p class="tell">
 				الهواتف:<br /><br />
