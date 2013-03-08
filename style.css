@@ -26,18 +26,21 @@ a{
 	color: #111;
 	text-align: right;
 }
+
 h2{
 	color: #928B82;
 }
+
 h3{
 	text-align: right;
 	margin: 0;
 	color: #928B82
 }
+
 p,h2{
 	text-align: right;
 	margin: 0;
-	font-family: 'bmitra';
+	font-family: 'bmitra' , 'tahoma';
 }
 
 body{
@@ -879,7 +882,7 @@ section.reserve .forms form .btn{
 	border: 		6px solid #928B82 ;
 	border-radius: 	14px;
 	box-shadow: 	5px 5px 15px 5px;
-	background-color: #
+	font-family: 'bmitra' , 'tahoma';
 }
 #momt{
 	margin: 		0 auto;
