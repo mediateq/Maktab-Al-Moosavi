@@ -16,6 +16,13 @@
 	font-style : normal;
 }
 
+a:active,
+a:visited,
+a:link { 
+    border: none;
+    outline: none;
+}
+
 menu,ul{
 	margin: 0;
 	padding: 0;
