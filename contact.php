@@ -36,11 +36,11 @@
 			<h2> راسلنا</h2>
 			<form action="mail.php" method="post" id="contact" target="ifrm">
 				<p>الاسم<span>*</span></p>
-				<input type="text" class="text" name="name" id="name" autocomplete="off"/>
+				<input type="text" class="text" name="name" id="name"/>
 				<p>الايميل <span>*</span></p>
-				<input	type="text" class="text" name="mail" id="mail" autocomplete="off"/>
+				<input	type="text" class="text" name="mail" id="mail"/>
 				<p>موضوع<span>*</span></p>
-				<input type="text" class="text" name="subject" id="subject" autocomplete="off" />
+				<input type="text" class="text" name="subject" id="subject"/>
 				<p>الرسالة<span>*</span></p>
 				<textarea class="messege" name="txt" id="txt"></textarea>
 				<input type="submit" class="btn" id="btn" value="إرسال">

@@ -30,7 +30,6 @@
 		});
 	</script>
 	<script type="text/javascript" src="./js/jquery.flexslider-min.js"></script>
-	<script src="http://cdn.jquerytools.org/1.1.2/full/jquery.tools.min.js"></script>
 	<script type="text/javascript" src="./js/jquery.prettyphoto.js"></script>
 	<script type="text/javascript" src="./js/weather.js"></script>
 	<script type="text/javascript" src="./js/scripts.js"></script>

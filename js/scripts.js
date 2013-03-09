@@ -104,7 +104,7 @@ function res(id){
     
             target = $('#txt');
     
-            if (validateText( target.val(), 7 )) {
+            if (validateText( target.val(), 10 )) {
     
                 target.removeClass('err').addClass('ok');
     
@@ -129,7 +129,7 @@ function res(id){
     
             target = $('#name');
     
-            if (validateText( target.val(), 9 )) {
+            if (validateText( target.val(), 8 )) {
     
                 target.removeClass('err').addClass('ok');
             }else{
