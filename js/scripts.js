@@ -55,18 +55,24 @@ function validateSelect(target){
     }
 }
 
+function res(id){
+    $("#res").click(function(){
+        var select = $(id);
+        select.removeClass('err').addClass('ok');
+    });
+}
 // Begin valid form 
 (function($){
     $(function(){
         $('form#contact').submit(function(){
-            var feild, err=false;
-    
+            var err=false;
+            var empty = false;
+
             target = $('#name');
     
             if (validateText( target.val(), 3 )) {
     
                 target.removeClass('err').addClass('ok');
-    
             }else{
     
                 target.removeClass('ok').addClass('err');
@@ -107,6 +113,11 @@ function validateSelect(target){
                 target.removeClass('ok').addClass("err");
                 err=true;
             }
+
+            res('#name');
+            res('#mail');
+            res('#subject');
+            res('#txt');
     
             return !err;
         });
@@ -114,14 +125,13 @@ function validateSelect(target){
     
     $(function(){
         $('form#reserve').submit(function(){
-            var feild, err=false;
+            var err=false;
     
             target = $('#name');
     
             if (validateText( target.val(), 9 )) {
     
                 target.removeClass('err').addClass('ok');
-    
             }else{
     
                 target.removeClass('ok').addClass('err');
@@ -185,16 +195,24 @@ function validateSelect(target){
             validateSelect('#prohotels2');
             validateSelect('#prohotels3');
 
+            res('#name');
+            res('#country');
+            res('#mail');
+            res('#persons');
+            res('#phone');
+            res('#yearin');
+            res('#monthin');
+            res('#dayin');
+            res('#yearout');
+            res('#monthout');
+            res('#dayout');
+            res('#room');
+            res('#prohotels1');
+            res('#prohotels2');
+            res('#prohotels3');
+           
             return !err;
         });
-    });
-
-    $(function(){
-        
-        $("form#res").click(function(){
-            alert('1');
-        });
-
     });
 
 })(Zepto);
