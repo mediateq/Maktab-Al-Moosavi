@@ -54,7 +54,7 @@
 			    ایمیل: $email
 			    تاریخ ورود: $yearin-$monthin-$dayin 
 			    تاریخ خروج: $yearout-$monthout-$dayout
-			    تعداد نفرات: $person
+			    تعداد نفرات: $persons
 			    نوع اتاق: $room
 			    اولویت اول : $priority1
 			    اولویت دوم : $priority2
@@ -73,22 +73,22 @@
 					 )
 				){
 					echo '<script type="text/javascript">
-							alert("Mail sent.");
+							alert("أرسلت النموذج.");
 						  </script>';
 
 				}else{
 					echo '<script type="text/javascript">
-							alert("Error in sending mail!");
+							alert("خطأ! في إرسال النموذج.");
 						  </script>';
 				}
 			}else{
 				echo '<script type="text/javascript">
-						alert("Access Restricted!");
+						alert("خطأ! التشيكية يرجى التحقق من الحقول وحاول مرة أخرى.");
 					  </script>';
 			}
 		}else{
 			echo '<script type="text/javascript">
-					alert("Please accept the data!");
+					alert("يرجى قبول البيانات.");
 				  </script>';
 		}
 	?>

@@ -14,7 +14,7 @@
 		</li>
 		<li>
 
-			<a href="./images/gallery/gallery1/2.jpg" rel='prettyphoto[gallery1]' title="متحف و مرقد الشاعر الایراني فرىوسي">
+			<a href="./images/gallery/gallery1/2.jpg" rel='prettyphoto[gallery1]' title="متحف و مرقد الشاعر الایراني فردوسي">
 				<img src="./images/gallery/gallery1/2.jpg" alt="">
 				<div class="effe"></div>
 			</a>

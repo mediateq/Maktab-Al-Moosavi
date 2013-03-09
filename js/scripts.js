@@ -111,10 +111,7 @@ function validateSelect(target){
             return !err;
         });
     });
-})(Zepto);
-// END valid form
-// Begin reserve form 
-(function($){
+    
     $(function(){
         $('form#reserve').submit(function(){
             var feild, err=false;
@@ -191,5 +188,14 @@ function validateSelect(target){
             return !err;
         });
     });
+
+    $(function(){
+        
+        $("form#res").click(function(){
+            alert('1');
+        });
+
+    });
+
 })(Zepto);
-// End reserve form
+// END valid form
