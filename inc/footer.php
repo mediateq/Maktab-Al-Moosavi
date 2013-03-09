@@ -11,7 +11,7 @@
 					<p><a href="http://www.mediateq.ir" target="_blank">Designed by mediateq</a></p>
 				</div>
 				<div class="anchor">
-					<a href="#myAnchor" id="anchor1" class="anchorLink" title="بالا"></a>
+					<a href="#myAnchor" id="anchor1" class="anchorLink" title="أعلى"></a>
 				</div>
 			</footer>
 		</div>

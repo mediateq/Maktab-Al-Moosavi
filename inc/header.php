@@ -43,7 +43,7 @@
 		<div class="container">
 			<header>
 				<div class="logo">
-					<a href="./"><img src="./images/logo.png" alt="maktab al moosavi" title="صفحه اصلی"></a>
+					<a href="./"><img src="./images/logo.png" alt="maktab al moosavi" title="الصفحة الرئیسیة"></a>
 				</div>
 				<div class="menu">
 					<nav>
