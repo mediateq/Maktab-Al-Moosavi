@@ -26,7 +26,7 @@ $(document).ready(function() {
 });
 //END Anchor link for scroll
 
-
+// Begin valid form
 function validateText(str,len){
     return str.length >= len;
 }
@@ -61,7 +61,7 @@ function res(id){
         select.removeClass('err').addClass('ok');
     });
 }
-// Begin valid form 
+
 (function($){
     $(function(){
         $('form#contact').submit(function(){
@@ -215,5 +215,5 @@ function res(id){
         });
     });
 
-})(Zepto);
+})(jQuery);
 // END valid form
