@@ -62,11 +62,11 @@
 			<p>مسبح سرزمین آفتاب</p>
 		</li>
 		<li>
-			<a href="./images/gallery/gallery4/9.jpg" rel='prettyphoto[gallery1]' title="مسجد جمكران">
+			<a href="./images/gallery/gallery4/9.jpg" rel='prettyphoto[gallery1]' title="سرزمین موجهای آبی مشهد">
 				<img src="./images/gallery/gallery4/9.jpg" alt="">
 				<div class="effe"></div>
 			</a>
-			<p>مسجد جمكران</p>
+			<p>سرزمین موجهای آبی مشهد</p>
 		</li>
 	</ul>
 	<div class="badboy"></div>

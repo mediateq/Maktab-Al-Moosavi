@@ -42,11 +42,11 @@
 			<p>متحف الملك نادر</p>
 		</li>
 		<li>
-			<a href="./images/gallery/gallery1/6.jpg" rel='prettyphoto[gallery1]' title="سرزمین موجهای آبی مشهد">
+			<a href="./images/gallery/gallery1/6.jpg" rel='prettyphoto[gallery1]' title="مسجد جمكران">
 				<img src="./images/gallery/gallery1/6.jpg" alt="">
 				<div class="effe"></div>
 			</a>
-			<p>سرزمین موجهای آبی مشهد</p>
+			<p>مسجد جمكران</p>
 		</li>
 		<li>
 			<a href="./images/gallery/gallery1/7.jpg" rel='prettyphoto[gallery1]' title="جالیدره">
