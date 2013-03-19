@@ -64,7 +64,7 @@
 				</select>
 			</label>
 			<div class="badboy"></div>
-			<label><p class="check">تاريخ المغاىرة</p>
+			<label><p class="check">تاريخ المغادره</p>
 				<select name="yearout" class="yearout" id="yearout">
                 	<option value="0">السنه</option>
                 	<option>2013</option>
@@ -253,10 +253,10 @@
 		<div class="title">
 			<h2>الاتصال</h2>
 			<p>
-				تلفن: 00989153113066
+				الهاتف: 00989153113066&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;00989386244563
 			</p>
 			<p>
-				فاکس: 00985117392460
+				الفکس: 00985117392460
 			</p>
 		</div>
 	</div>
