@@ -76,17 +76,17 @@
 		</li>
 		<li>
 			<a href="./khalijefars.php">
-				<img src="./images/hotels/ghasrtalae/1.jpg" alt="">
+				<img src="./images/hotels/khalijfars/1.jpg" alt="">
 			</a>
 		</li>
 		<li>
 			<a href="./khalijefars.php">
-				<img src="./images/hotels/ghasrtalae/2.jpg" alt="">
+				<img src="./images/hotels/khalijfars/2.jpg" alt="">
 			</a>
 		</li>
 		<li>
 			<a href="./khalijefars.php">
-				<img src="./images/hotels/ghasrtalae/3.jpg" alt="">
+				<img src="./images/hotels/khalijfars/3.jpg" alt="">
 			</a>
 		</li>
 	</ul>
