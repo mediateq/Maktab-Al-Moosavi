@@ -53,20 +53,20 @@
 	<div class="pics">
 		<ul>
 			<li>
-				<a href="./images/hotels/ghasrtalae/1.jpg" rel='prettyphoto[gallery1]'>
-					<img src="./images/hotels/ghasrtalae/1.jpg" alt="">
+				<a href="./images/hotels/ghasrtalae/4.jpg" rel='prettyphoto[gallery1]'>
+					<img src="./images/hotels/ghasrtalae/4.jpg" alt="">
 					<div class="effe"></div>
 				</a>
 			</li>
 			<li>
-				<a href="./images/hotels/ghasrtalae/2.jpg" rel='prettyphoto[gallery1]'>
-					<img src="./images/hotels/ghasrtalae/2.jpg" alt="">
+				<a href="./images/hotels/ghasrtalae/5.jpg" rel='prettyphoto[gallery1]'>
+					<img src="./images/hotels/ghasrtalae/5.jpg" alt="">
 					<div class="effe"></div>
 				</a>
 			</li>
 			<li>
-				<a href="./images/hotels/ghasrtalae/3.jpg" rel='prettyphoto[gallery1]'>
-					<img src="./images/hotels/ghasrtalae/3.jpg" alt="">
+				<a href="./images/hotels/ghasrtalae/6.jpg" rel='prettyphoto[gallery1]'>
+					<img src="./images/hotels/ghasrtalae/6.jpg" alt="">
 					<div class="effe"></div>
 				</a>
 			</li>
