@@ -10,12 +10,12 @@
 	<link rel="stylesheet" href="./weather.css">
 	<link rel="stylesheet" href="./style.css" />
 	<script type="text/javascript" src="./js/jquery.js"></script>
+	<script src="http://cdn.jquerytools.org/1.1.2/full/jquery.tools.min.js"></script>
+	<script type="text/javascript" src="./js/weather.js"></script>
 	<script type="text/javascript" src="./js/zepto.js"></script>
 	<script type="text/javascript" src="./js/jquery.prettyphoto.js"></script>
 	<script type="text/javascript" src="./js/jquery.flexslider-min.js"></script>
-	<script type="text/javascript" src="./js/weather.js"></script>
 	<script type="text/javascript" src="./js/scripts.js"></script>
-	<script src="http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20location%20in%20('IRXX0008'%2C'IRXX0018'%2C'IRXX0016'%2C'IRXX0003'%2C'IRXX0015')%20and%20u%3D'c'&amp;rnd=20132511&amp;format=json&amp;callback=jsonp1362728845624"></script>
 	<script type="text/javascript">
 		$(document).ready(function () {
 
@@ -44,7 +44,7 @@
 
 <body>
 	<div align="center">
-		<table border="0" width="23%">
+		<table border="0">
 			<tr>
 				<td>
 					<script type="text/javascript">

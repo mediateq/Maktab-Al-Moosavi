@@ -229,8 +229,8 @@
 			</label>
 			<div class="badboy"></div>
 
-            <input type="reset" class="btn" id="reserv" value="نظيف">
-			<input type="submit" class="btn" id="reserv" value="إرسال">
+			<input type="submit" class="btn" id="btn" value="إرسال">
+            <input type="reset" class="btn" id="res" value="نظيف">
 			<div class="badboy"></div>
 		</form>
 		<iframe id='ifrm' name='ifrm' src="" frameborder="0" scrolling="no"></iframe>

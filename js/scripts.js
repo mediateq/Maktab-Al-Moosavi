@@ -26,7 +26,7 @@ $(document).ready(function() {
 });
 //END Anchor link for scroll
 
-
+// Begin valid form
 function validateText(str,len){
     return str.length >= len;
 }
@@ -55,18 +55,24 @@ function validateSelect(target){
     }
 }
 
-// Begin valid form 
+function res(id){
+    $("#res").click(function(){
+        var select = $(id);
+        select.removeClass('err').addClass('ok');
+    });
+}
+
 (function($){
     $(function(){
         $('form#contact').submit(function(){
-            var feild, err=false;
-    
+            var err=false;
+            var empty = false;
+
             target = $('#name');
     
             if (validateText( target.val(), 3 )) {
     
                 target.removeClass('err').addClass('ok');
-    
             }else{
     
                 target.removeClass('ok').addClass('err');
@@ -98,7 +104,7 @@ function validateSelect(target){
     
             target = $('#txt');
     
-            if (validateText( target.val(), 7 )) {
+            if (validateText( target.val(), 10 )) {
     
                 target.removeClass('err').addClass('ok');
     
@@ -107,24 +113,25 @@ function validateSelect(target){
                 target.removeClass('ok').addClass("err");
                 err=true;
             }
+
+            res('#name');
+            res('#mail');
+            res('#subject');
+            res('#txt');
     
             return !err;
         });
     });
-})(Zepto);
-// END valid form
-// Begin reserve form 
-(function($){
+    
     $(function(){
         $('form#reserve').submit(function(){
-            var feild, err=false;
+            var err=false;
     
             target = $('#name');
     
-            if (validateText( target.val(), 9 )) {
+            if (validateText( target.val(), 8 )) {
     
                 target.removeClass('err').addClass('ok');
-    
             }else{
     
                 target.removeClass('ok').addClass('err');
@@ -188,8 +195,25 @@ function validateSelect(target){
             validateSelect('#prohotels2');
             validateSelect('#prohotels3');
 
+            res('#name');
+            res('#country');
+            res('#mail');
+            res('#persons');
+            res('#phone');
+            res('#yearin');
+            res('#monthin');
+            res('#dayin');
+            res('#yearout');
+            res('#monthout');
+            res('#dayout');
+            res('#room');
+            res('#prohotels1');
+            res('#prohotels2');
+            res('#prohotels3');
+           
             return !err;
         });
     });
-})(Zepto);
-// End reserve form
+
+})(jQuery);
+// END valid form

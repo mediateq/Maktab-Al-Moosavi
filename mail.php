@@ -36,17 +36,17 @@
 					"From:$name $email" )
 			){
 				echo '<script type="text/javascript">
-						alert("Mail sent.");
+						alert("إرسال البريد.");
 					  </script>';
 
 			}else{
 				echo '<script type="text/javascript">
-						alert("Error in sending mail!");
+						alert("خطأ! في إرسال البريد.");
 					  </script>';
 			}
 		}else{
 			echo '<script type="text/javascript">
-					alert("Access Restricted!");
+					alert("خطأ! التشيكية يرجى التحقق من الحقول وحاول مرة أخرى.");
 				  </script>';
 		}
 	?>
