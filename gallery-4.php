@@ -62,11 +62,11 @@
 			<p>مسبح سرزمین آفتاب</p>
 		</li>
 		<li>
-			<a href="./images/gallery/gallery4/9.jpg" rel='prettyphoto[gallery1]' title="سرزمین موجهای آبی مشهد">
+			<a href="./images/gallery/gallery4/9.jpg" rel='prettyphoto[gallery1]' title="شمال ايران">
 				<img src="./images/gallery/gallery4/9.jpg" alt="">
 				<div class="effe"></div>
 			</a>
-			<p>سرزمین موجهای آبی مشهد</p>
+			<p>شمال ايران</p>
 		</li>
 	</ul>
 	<div class="badboy"></div>
