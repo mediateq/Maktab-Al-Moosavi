@@ -70,7 +70,7 @@ function res(id){
 
             target = $('#name');
     
-            if (validateText( target.val(), 3 )) {
+            if (validateText( target.val(), 8 )) {
     
                 target.removeClass('err').addClass('ok');
             }else{
