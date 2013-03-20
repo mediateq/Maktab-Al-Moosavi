@@ -35,13 +35,13 @@
 		<div class="form">
 			<h2> راسلنا</h2>
 			<form action="mail.php" method="post" id="contact" target="ifrm">
-				<p>الاسم<span>*</span></p>
+				<p>الاسم <span>*</span></p>
 				<input type="text" class="name" name="name" id="name" placeholder="الاسم"/>
 				<p>الايميل <span>*</span></p>
 				<input	type="text" class="mail ltr" name="mail" id="mail" placeholder="someone@example.com"/>
-				<p>الهاتف<span>*</span></p>
+				<p>الهاتف <span>*</span></p>
 				<input type="text" class="phone ltr" name="phone" id="phone" placeholder="123-456-7890" />
-				<p>الرسالة<span>*</span></p>
+				<p>الرسالة <span>*</span></p>
 				<textarea class="txt" name="txt" id="txt"></textarea>
 				<input type="submit" class="btn" id="btn" value="إرسال">
 				<input type="reset" class="btn" id="res" value="نظيف">
