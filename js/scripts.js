@@ -90,16 +90,15 @@ function res(id){
                 err=true;
             }
 
-            target = $('#subject');
-    
-            if (validateText( target.val(), 5 )) {
+            target = $('#phone');
+  
+            if (validatePhone(target.val())) { 
     
                 target.removeClass('err').addClass('ok');
-    
-            }else{
+            }else {
     
                 target.removeClass('ok').addClass('err');
-                err= true;
+                err=true;
             }
     
             target = $('#txt');
@@ -116,7 +115,7 @@ function res(id){
 
             res('#name');
             res('#mail');
-            res('#subject');
+            res('#phone');
             res('#txt');
     
             return !err;

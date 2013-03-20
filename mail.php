@@ -25,10 +25,10 @@
 
 		$name    = $_POST['name'];
 		$email   = $_POST['mail'];
-		$subject = $_POST['subject'];
+		$phone = $_POST['phone'];
 		$text    = $_POST['txt'];
 
-		if( strlen($name)>=3 && strlen($email)>=7 && strlen($subject)>=5 && strlen($text)>=10 ){
+		if( strlen($name)>=3 && strlen($email)>=7 && strlen($text)>=10 ){
 			if( @mail (
 					$admin,
 					"$subject",
