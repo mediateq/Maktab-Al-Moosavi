@@ -475,6 +475,10 @@ footer .anchor a{
 	padding: 22px 22px;
 	background: url('./images/to-top.png') 0 0 no-repeat;
 }
+
+footer .amar{
+	margin-left: 266px;
+}
 /*--------------------------------Gallery Page----------------------------*/
 section.gallery{
 	background-color: #F8F8F8;
