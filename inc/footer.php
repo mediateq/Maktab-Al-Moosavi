@@ -8,7 +8,7 @@
 					<p>
 						هدف ما فقط اقامت شما نیست، هدف ما لذت بردن شما از اقامتتان می باشد
 					</p>
-					<p><a href="http://www.mediateq.ir" target="_blank">Designed by mediateq</a></p>
+					<p><a href="http://www.mediateq.ir" target="_blank">Designed by Mediateq</a></p>
 					<div class="amar">
 						<div style="display:none;">
 							<script type="text/javascript" src="http://counter.toolsir.com/secure.js"></script>
