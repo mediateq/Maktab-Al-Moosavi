@@ -47,7 +47,7 @@
 		</div>
 		<div class="hline"></div>
 		<div class="text">
-			<h2>هدف ما فقط اقامت شما نیست، هدف ما لذت بردن شما از اقامتتان می باشد</h2>
+			<h2>مکتب الموسوی یتمنی لکم اقامة جميلة و ممتعة </h2>
 		</div>
 	</div>
 	<div class="middle">
@@ -114,11 +114,9 @@
 				<div class="pic">
 					<img src="./images/icon1.png" alt="info">
 				</div>
-				<a href="#">Connect us on facebook</a>
+				<a href="https://www.facebook.com/maktab.almosawi" target="_blank">Connect us on facebook</a>
 				<div class="hline"></div>
-				<p>
-					
-				</p>
+				<a href="https://www.facebook.com/maktab.almosawi" target="_blank">facebook.com/maktab.almosawi</a>
 			</div>
 			<div class="badboy"></div>
 		</div>

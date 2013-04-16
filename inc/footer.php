@@ -6,7 +6,7 @@
 				</div>
 				<div class="about">
 					<p>
-						هدف ما فقط اقامت شما نیست، هدف ما لذت بردن شما از اقامتتان می باشد
+						مکتب الموسوی یتمنی لکم اقامة جميلة و ممتعة
 					</p>
 					<p><a href="http://www.mediateq.ir" target="_blank">Designed by Mediateq</a></p>
 					<div class="amar">
@@ -18,7 +18,7 @@
 							  _tCounter (_torder,_turl);
 							</script>
 						</div>
-						<a href="http://www.toolsir.com/counter/url/maktabalmosawi.ir" target="_blank"><img src="./images/chart.gif" alt="شمارنده" width="19" height="16" /></a>
+						<a href="http://www.toolsir.com/counter/url/maktabalmosawi.ir"><img src="./images/chart.gif" alt="شمارنده" width="19" height="16" /></a>
 					</div>
 				</div>
 				<div class="anchor">
