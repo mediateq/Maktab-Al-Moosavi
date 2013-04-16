@@ -13,7 +13,7 @@
 
 		<div id="boxtable">
 			<table id="momt" cellpadding="10">
-				<caption>أسعار الغرف من تاریخ 2013/04/01</caption>
+				<caption>أسعار الغرف الی تاریخ 2013/05/22</caption>
 				<tr>
 					<th>نوع الغرفه</th>
 					<td>سعر الفندق</td>
@@ -21,23 +21,23 @@
 				</tr>
 				<tr>
 					<td>غرفة وصالة</td>
-					<td>168000</td>
+					<td>172500</td>
 					<td>160000</td>
 				</tr>
 				<tr>
 					<td>غرفتين وصالة</td>
-					<td>273000</td>
-					<td>260000</td>
+					<td>322000</td>
+					<td>295000</td>
 				</tr>
 				<tr>
 					<td>ألشخص الاضافي</td>
-					<td>47700</td>
-					<td>46000</td>
+					<td>57500</td>
+					<td>53000</td>
 				</tr>
 				<tr>
 					<td>فول بورد</td>
-					<td>110000</td>
-					<td>100000</td>
+					<td></td>
+					<td>135000</td>
 				</tr>
 			</table>
 		</div>
