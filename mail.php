@@ -25,14 +25,17 @@
 
 		$name    = $_POST['name'];
 		$email   = $_POST['mail'];
-		$subject = $_POST['subject'];
+		$phone = $_POST['phone'];
 		$text    = $_POST['txt'];
+		
+		$message = "TEL: $phone
+					$text";
 
-		if( strlen($name)>=3 && strlen($email)>=7 && strlen($subject)>=5 && strlen($text)>=10 ){
+		if( strlen($name)>=8 && strlen($email)>=7 && strlen($text)>=10 ){
 			if( @mail (
 					$admin,
 					"$subject",
-					$text,
+					$message,
 					"From:$name $email" )
 			){
 				echo '<script type="text/javascript">

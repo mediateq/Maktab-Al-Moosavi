@@ -49,17 +49,17 @@
 		$subject = "سفارش رزرو";
 
 		$message = "$gender $name $family
-				از کشور: $country
-			    تلفن: $phone
-			    ایمیل: $email
-			    تاریخ ورود: $yearin-$monthin-$dayin 
-			    تاریخ خروج: $yearout-$monthout-$dayout
-			    تعداد نفرات: $persons
-			    نوع اتاق: $room
-			    اولویت اول : $priority1
-			    اولویت دوم : $priority2
-			    اولویت سوم : $priority3
-			    توضیحات اضافی: $extra";
+				Country: $country
+			    Tel: $phone
+			    Email: $email
+			    Entry date: $yearin-$monthin-$dayin 
+			    Exit date: $yearout-$monthout-$dayout
+			    Number of people: $persons
+			    Number of rooms: $room
+			    First priority: $priority1
+			    Second priority: $priority2
+			    Third priority: $priority3
+			    Extra description: $extra";
 		
 
 		if ($accept) {
